@@ -20,9 +20,16 @@ main {
     margin-bottom: 2rem;
 }
 
+.about-image {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto 1rem;
+}
+
 .content-section {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     border: 2px solid #333;
     padding: 1rem;
@@ -34,10 +41,11 @@ main {
 
 .item {
     text-align: center;
+    margin: 0 1rem;
 }
 
 .item img {
-    max-width: 100px;
+    max-width: 70px;
     height: auto;
     display: block;
     margin: 0 auto 1rem;
@@ -45,12 +53,11 @@ main {
 
 .button {
     display: inline-block;
-    padding: 1rem 2rem;
+    padding: 0.5rem 1rem;
     background-color: #333;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
-    margin-top: 1rem;
 }
 
 .button:hover {
