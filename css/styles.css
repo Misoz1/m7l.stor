@@ -20,13 +20,6 @@ main {
     margin-bottom: 2rem;
 }
 
-.about-image {
-    max-width: 100px;
-    height: auto;
-    display: block;
-    margin: 0 auto 1rem;
-}
-
 .content-section {
     display: flex;
     justify-content: space-between;
@@ -39,26 +32,23 @@ main {
     border-radius: 10px;
 }
 
-.item {
-    text-align: center;
-    flex: 1;
-}
-
 .item.left {
+    display: flex;
     justify-content: flex-start;
+    align-items: center;
     margin-left: 1rem;
 }
 
 .item.right {
+    display: flex;
     justify-content: flex-end;
+    align-items: center;
     margin-right: 1rem;
 }
 
 .item img {
     max-width: 70px;
     height: auto;
-    display: block;
-    margin: 0 auto;
 }
 
 .button {
