@@ -21,7 +21,7 @@ main {
 }
 
 .about-image {
-    max-width: 50px; /* ضبط حجم الصورة لتكون صغيرة */
+    max-width: 150px; /* ضبط حجم الصورة لتكون صغيرة */
     height: auto;
     display: block;
     margin: 0 auto 1rem;
