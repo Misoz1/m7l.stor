@@ -27,6 +27,18 @@ main {
     margin: 0 auto 1rem;
 }
 
+.social-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.social-links img {
+    max-width: 50px; /* ضبط حجم الصور الاجتماعية */
+    margin: 0.5rem 0;
+}
+
 .content-section {
     display: flex;
     justify-content: center;
