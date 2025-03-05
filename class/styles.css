@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    text-align: center;
     color: #333;
 }
 
@@ -10,21 +11,10 @@ header {
     background-color: #333;
     color: #fff;
     padding: 1rem 0;
-    position: fixed; /* جعل العنوان ثابتًا */
-    top: 0;
-    width: 100%;
-    z-index: 1000; /* لضمان ظهوره فوق جميع العناصر */
-    text-align: center; /* محاذاة النص إلى المنتصف */
-    display: flex; /* استخدام Flexbox لتسهيل التوسيط */
-    justify-content: center; /* توسيط النص أفقياً */
-    align-items: center; /* توسيط النص عمودياً */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* إضافة ظل */
-    height: 60px; /* تحديد ارتفاع العنوان */
 }
 
 main {
-    padding: 5rem 2rem 2rem; /* مساحة إضافية لمنع تداخل مع العنوان الثابت */
-    text-align: center;
+    padding: 2rem;
 }
 
 .product {
@@ -83,3 +73,8 @@ main {
 footer {
     background-color: #333;
     color: #fff;
+    padding: 1rem 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
