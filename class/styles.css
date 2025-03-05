@@ -13,9 +13,13 @@ header {
     position: fixed; /* جعل العنوان ثابتًا */
     top: 0;
     width: 100%;
-    z-index: 1000; /* التأكد من ظهوره فوق جميع العناصر الأخرى */
-    text-align: center; /* محاذاة النص في المنتصف */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* إضافة ظل جذاب */
+    z-index: 1000; /* لضمان ظهوره فوق جميع العناصر */
+    text-align: center; /* محاذاة النص إلى المنتصف */
+    display: flex; /* استخدام Flexbox لتسهيل التوسيط */
+    justify-content: center; /* توسيط النص أفقياً */
+    align-items: center; /* توسيط النص عمودياً */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* إضافة ظل */
+    height: 60px; /* تحديد ارتفاع العنوان */
 }
 
 main {
