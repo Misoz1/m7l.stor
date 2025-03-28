@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="boutCar8" value="1" />
+    <int name="boutCar9" value="1" />
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <int name="data" value="1" />
+    <string name="unity.player_sessionid">2375603330689143918</string>
+    <int name="rewardedVideo10" value="0" />
+    <int name="rewardedVideo11" value="0" />
+    <int name="SeenTutorial" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="rewardedVideo12" value="0" />
+    <int name="rewardedVideo13" value="0" />
+    <int name="rewardedVideo14" value="0" />
+    <int name="rewardedVideo9" value="0" />
+    <int name="score" value="999999999" />
+    <int name="highScore" value="999999999" />
+    <int name="music" value="1" />
+    <int name="rewardedVideo6" value="0" />
+    <int name="sounds" value="1" />
+    <int name="rewardedVideo5" value="0" />
+    <int name="rewardedVideo8" value="0" />
+    <int name="rewardedVideo7" value="0" />
+    <int name="rewardedVideo2" value="1" />
+    <int name="rewardedVideo1" value="1" />
+    <int name="rewardedVideo4" value="1" />
+    <int name="rewardedVideo3" value="1" />
+    <int name="selectedCar" value="12" />
+    <int name="boutCar5" value="1" />
+    <int name="rewardedVideo0" value="1" />
+    <int name="boutCar6" value="1" />
+    <int name="boutCar7" value="1" />
+    <string name="unity.player_session_count">5</string>
+    <int name="watchVideo" value="0" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="unity.cloud_userid">17cb06ea6c7d85b949bdfe7f9eff7688</string>
+    <string name="SaveData">%7B%22playerProfile%22%3A%7B%22MyFriends%22%3A%5B%5D%2C%22user_id%22%3A%22%22%2C%22username%22%3A%22HAKR%20OMAN%22%2C%22email%22%3A%22%22%2C%22online%22%3Atrue%7D%2C%22lastValidSelectedCar%22%3A12%7D</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="boutCar13" value="1" />
+    <int name="boutCar14" value="1" />
+    <int name="boutCar11" value="1" />
+    <int name="boutCar12" value="1" />
+    <int name="boutCar10" value="1" />
+</map>
