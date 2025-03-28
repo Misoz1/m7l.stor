@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="unity.player_sessionid">8808683178872004518</string>
+    <int name="DBSync_m_CarPaintingCustomizationModel_metadata" value="0" />
+    <string name="an_isUnitySDK">6.4.0</string>
+    <int name="DBSync_m_PlayerCurrency" value="0" />
+    <int name="DBSync_m_DroneModel" value="0" />
+    <int name="saving_status_Data%2Fm_AdsCarsModel" value="0" />
+    <string name="m_BanModel">sRdUu3hR3bQ4%2FJl8QoAA6PbJzpt7qtntJ97n3sdZQbNxDryiPKKTRmSY6O%2BsGDQrcqfO202UQ1%2FFiMczIcC2gQ%3D%3D</string>
+    <int name="DBSync_m_PurchasedVipItemModel" value="0" />
+    <int name="DBSync_m_PlayerCurrentCarModel" value="0" />
+    <int name="saving_status_Data%2Fm_CarTuningCustomizationModel%2Fland%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <int name="saving_status_Data%2Fm_CarPaintingCustomizationModel%2Fland%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <string name="m_GameAnnouncementModel">sRdUu3hR3bQ4%2FJl8QoAA6C%2BmfMPdwQmnI%2FDhZI7BPnMbvU6f0OIga2nm%2FcR7crY5NszzO2t4JybhUVFUZxhFPV1fWCVZPr1GbAx9fL7SEOpL0wOJIsBCfaq3%2BdxQ8iXNeF8JkOgKbHSb4Gf1%2BId%2FkJxOLxRJ2S8UHabK8030ODo%3D</string>
+    <int name="saving_status_Data%2Fm_CarPartsStoreModel" value="0" />
+    <int name="DBSync_m_LocalPlayerData" value="0" />
+    <string name="m_PurchasedVipItemModel">7jHfDLPugAXTsdI%2BUksTfSEfpHlCoagqLpIZq3mfWiM%3D</string>
+    <int name="saving_status_Data%2Fm_CarStoreModel" value="0" />
+    <int name="UseLegacyAds" value="0" />
+    <string name="onlineVersion">1.2.48</string>
+    <int name="DBSync_m_DynamicDifficulty" value="0" />
+    <string name="m_GameLoginModel">sRdUu3hR3bQ4%2FJl8QoAA6DVEl1xQBU3fshZhiEbYd2e%2FMXAQt2UmMRYXmF1M85QVQyRwaVfKI%2BzHQslPgV1w9eXFRmDCPuNqWN1%2FD4U3cjbnfezEHKasSRH5M9X%2BgedxiiuB%2B2bxpsTB4XCe%2FmaM8QvrOJc5BxXYTY%2BdNntsd6V9YWW6q7XJzQ5HdcOgCgSH8csmgBtaMfXIzpxqkYShgqY6VQZXhuFSSmO9mqXqW06urVj8%2BcGjRk59bmApNKnzOGnV%2BykpcsF9grWr3Ok%2Fxg9dehalGKaGDDca60Fcomg%3D</string>
+    <int name="saving_status_Data%2Fm_GeneralCustomizationModel%2FAudi%20S5%202017%20MOB%20LODs" value="0" />
+    <int name="DBSync_m_WheelCustomizationModel_land%20cruiser%2004%20MOB%20LODs_Skin2" value="1" />
+    <string name="GameSettingsKey">%7B%22Speedometer%22%3Afalse%2C%22CamaraEffects%22%3Atrue%2C%22ShowMiniMap%22%3Atrue%2C%22PerfectLine%22%3Atrue%2C%22EnableDamage%22%3Atrue%2C%22TrafficQuantity%22%3A2%2C%22TireBurnout%22%3Afalse%2C%22ControllerType%22%3A1%2C%22SelectedControl%22%3A0%2C%22AutomaticTransmission%22%3Atrue%2C%22ButtonsSensitivity%22%3Afalse%2C%22MotionBlur%22%3Atrue%2C%22FpsDebug%22%3Afalse%2C%22SmokeIntensity%22%3A2%2C%22SmokeOpacity%22%3A1.0%2C%22FPSLimit%22%3A1%2C%22AntiAliasing%22%3A1%2C%22CarTextureQuality%22%3A1%2C%22ResolutionFactor%22%3A10.0%2C%22EffectsVolume%22%3A1.0%2C%22MusicVolume%22%3A1.0%2C%22AmbientVolume%22%3A1.0%2C%22EngineVolume%22%3A0.699999988079071%2C%22SkidVolume%22%3A0.699999988079071%2C%22SelectedLanguagel%22%3A0%2C%22AutoLanguage%22%3Atrue%7D</string>
+    <string name="UnityInstallationId">e48de0717ed009328bd7d5ab79bdc131</string>
+    <int name="AutoProfileSyncStatus" value="1" />
+    <int name="PlayerReporting" value="1" />
+    <string name="PUNCloudBestRegion">eu%3B293%3Beu</string>
+    <int name="DBSync_m_CharacterStoreSaveModel" value="0" />
+    <int name="DBSync_m_GeneralCustomizationModel_Audi%20S5%202017%20MOB%20LODs" value="0" />
+    <int name="Screenmanager%20Resolution%20Height" value="783" />
+    <int name="DBSync_m_DronesStoreModel" value="0" />
+    <string name="m_AchievementProgress">IvbcngKN0Vp%2FdfbkZxccE8XjWuAgRJJBR5Ezyqe2lUJ4jjh%2B4Ae2kYE6xvZa5ru2ZkV6Wh4DHcQEi6Xg9n29ZMJiJlpQJ6Jogn2zuQaDn8V%2BwqINj6xdcKwGnkdjorzORK7lNJmWVuK9Fwdf85k9KCqvg231GIayxHATGboLYVWQaP73Vo54c9KB%2FH7W9i7SOo2cwOjEzwOneqev3Mqp%2BKWHPfmAXcoYDOBe2268mn9HznU7rRUNU7ZaiE5SatO8BMxMbWur5DN3WvKiR3GxxSAO1tnj1BoS1tuFe5XQZsn4E6kq4TExPZy9Z9hCW%2BxaBElIzn4tgrUg91xpAQn4DPzPafnNAgvDH20pde9pKgwPWREtOtu8%2Bt0QcgpSg9kJN%2F3LesGyKZ%2BU64AvdGVeC%2BP4tRccztZt2hf3U0NVxomyJK6CSJjy2WGcqIeuf3hDwyCt9rN9LwkxBf3gpKiQxQ%3D%3D</string>
+    <string name="m_GameplayProgress">DEDs26TZ14pSuTbxkVOVQSS9v6CGNYn66tOwIttYGnM%3D</string>
+    <int name="UpdateAvailable" value="0" />
+    <int name="saving_status_Data%2Fm_CharacterStoreSaveModel" value="0" />
+    <string name="m_PlayerCurrency">UG%2B1NclNqJ54T8X%2FY7yEJrFQBeO711Tx%2B2BC4jEKTd5SvTS36bgNAGCrfDTKfwYCGYfDyy6g0BtM0TH%2B9olkyg%3D%3D</string>
+    <string name="m_PurchasedItem">qXBcUk75bPPMHuUzHSC6YMJeIxKSNPFCUB%2FW2QjV45oU8WbubAp7duzryEP9Vofm3WrdF2RdR%2BS9As0bWYu5hbSMk%2BujsDHNTYsJYtaR8Qc%3D</string>
+    <string name="UnityAnalyticsInstallationId">e48de0717ed009328bd7d5ab79bdc131</string>
+    <int name="saving_status_Data%2Fm_CarPartsCurrentModel" value="0" />
+    <int name="saving_status_Data%2Fm_GeneralCustomizationModel" value="0" />
+    <int name="qualityFPSState" value="1" />
+    <string name="unity.cloud_userid">e48de0717ed009328bd7d5ab79bdc131</string>
+    <int name="DBSync_m_BanModel" value="0" />
+    <int name="DBSync_m_CarPartsCurrentModel_metadata" value="0" />
+    <int name="UnityGraphicsQuality" value="2" />
+    <int name="DBSync_m_CharacterModel" value="0" />
+    <int name="DBDirty_m_GeneralCustomizationModel_land%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <string name="m_LevelAndXPData">ObS8LrUWEa%2BYY3Yq27JIZcUPTBMY2ZgWcgxk%2FVi3upd6LRJLw9VL7qKOjv%2Ft2Ba%2BhA4j%2BnOenXud4%2F7eSMeUcQ%3D%3D</string>
+    <int name="Screenmanager%20Resolution%20Width" value="1680" />
+    <int name="saving_status_Data%2Fm_CarOwned" value="0" />
+    <int name="DBSync_m_GameplayProgress" value="0" />
+    <int name="saving_status_Data%2Fm_WheelCustomizationModel%2Fland%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <int name="DBSync_m_CarPartsStoreModel" value="0" />
+    <int name="DBSync_m_WheelCustomizationModel_metadata" value="0" />
+    <int name="DBSync_m_GeneralCustomizationModel_metadata" value="0" />
+    <int name="EidEvent" value="0" />
+    <string name="rma_state">%7B%22m_versionLastRated%22%3A%22com.ambratorgames.Hajwalahlife%22%2C%22m_appLaunchCount%22%3A9%2C%22m_promptLastShown%22%3A%222024-02-19T09%3A58%3A57.1463200Z%22%2C%22m_promptCount%22%3A0%2C%22m_isActive%22%3Atrue%7D</string>
+    <string name="m_CharacterModel">BcJA%2B60UEyeOgJKsc2xNVaTtetifKO79%2F0WzJz9HhM8JD3HxXjE6mCAdlsVJmo55btyv6o15C4V84PUMVAMoQlo1xv2pqOo7vN9TVMJIHXiTsixJHrjVcylx1BR7KBFouf1fEbP7j%2FqDodZtr7wE7AfRwcc00TA7fSqGcaAgOnkujJKJRUuYsxShZZO4GEPKnlFYJQ4s5mKLdPES6jtvyVMHUBv4Z34XxX2uo4C4WZ0gc18DpMxphLm1JIvGyjGBCfEeoEJve7O6ZBFsm0RNKQ%3D%3D</string>
+    <int name="DBSync_m_PurchasedItem" value="0" />
+    <int name="DBDirty_m_GeneralCustomizationModel_Audi%20S5%202017%20MOB%20LODs" value="0" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="DBSync_m_GeneralCustomizationModel_land%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <int name="DBDirty_m_WheelCustomizationModel_land%20cruiser%2004%20MOB%20LODs_Skin2" value="1" />
+    <string name="m_CameraProfiles">7DYi2VsazkeoE4S1X5Yfui574xkKFOiqZPMSnLc10ka%2FKD0GNr8FBhvHsVDmtDr%2BdRwgRPzbEWaQhKQYIn9eU0CWrk04PVWMZqhqurNOE8lhM5FAIkKrkzo8gD1fOkV7zqptOxZoCPyaAzrKr8Ua1IzchGjbCVVrBFzGCq%2BhhU0%3D</string>
+    <int name="RewardSystem" value="1" />
+    <int name="DBSync_m_BillingModel" value="0" />
+    <int name="DBSync_m_AdsCarsModel" value="0" />
+    <string name="TamatemReward">%7B%0A%20%20%22Enable%22%3A%20true%2C%0A%20%20%22IsHard%22%3A%20true%2C%0A%20%20%22amount%22%3A%2050%0A%7D</string>
+    <int name="unity.services.analytics.pipl_consent_status" value="3" />
+    <int name="DBDirty_m_CarPaintingCustomizationModel_land%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <string name="m_MissionDataModel">V9N7n8iYi2TPuRIYudElvjRRHsSdQXksyYklCT97PnMkUjzSpw9%2FM4%2F3AfuT7Ib5RdDSKyNUQ0UWi6Zs6V5KWSxTSgBe3tBZ4kQMTIk08OGHjnqlFtOes1woFxOZXI4q6eLt1cKAyswfz4F6Ms2iKuCxai9oGyuNXL4TZXw8n3anSO06s6eylSOm5KFyMAAEfXxoydsUDBCtMb219mGtjSw5F5K%2BvqBMMWVy4ogDB%2FKjE00OSsSiE7rlpEFojJ1qgP1UxTDFjSWNGrnktINyNI61yrnsIX%2Bmx3%2BF3%2Fk0YWnkpepF%2FEE0BfnjMcoqXIYHBUctrIVTiqPxsTWWkE4B1K2X55pGgun8x1qxAr%2F0whpwYkMZdANUtP7Zq2Wa%2FXV6hmyowiLtfGHw8dz3C7ZFGGFd86jK8pRDVtbAlS78O%2B4TjA%2BpAiASN7VczcW9HXh%2FipMZ5A89BSrUfWBEhJFRC%2BkWYeHRWdfGBnDQ7u2NGOnoIq0cWwpLVnH43UmBMvCC5Mf9TjdUwdi%2FRwlCavNn569phe%2B%2BODuxPz7FjNKl92iG4jV7Ba0sNKsg%2F%2BereQduhJBgGV1Kbna7Ao97GIUAeiiZw5%2FUDtqPX4MHkloZDZL8lFOLQWzc7LFhC5dVRNVG30%2Fmoh3wfKAkNrY7JYR6xRG8UoXsXzgIJ%2FkVRdzvnBUAs67FVOep%2Bmg6mrQzDZMZjcdROv6ct2QUh2aRzzDEGluZlFDUcYe9u1a5qKPaIw02xLhNdSAcS8mDLPmhYRClHP2%2FBM%2BGcz7MzbAhBTOvIU8Ftj2EOPPChpNwH3iY3ySqkLwbHUrW021apCN5%2FW0hjdQAPIl0uUYaIQ9inrtjky6DOJ4fXpliOsrNaEYUoDvXQY7G1g24vcjYWRR5mt1z</string>
+    <int name="AdsSwitch" value="0" />
+    <string name="m_PlayerCurrentCarModel">lopXHlCZo5tjoqNnS3EY5L7RS7MSFb410jp9ScG4F3bP2nqw%2FaJxrIA5b%2BfE1I8yYNpDCW%2BcUuHj1ZD9kQ59cKOS95pRMjVQXq4QcfKrr2I%3D</string>
+    <int name="iraqBlock" value="1" />
+    <int name="saving_status_Data%2Fm_CarTuningCustomizationModel" value="0" />
+    <int name="DBSync_m_CarTuningCustomizationModel_land%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <int name="DBSync_m_GeneralDataModel" value="0" />
+    <int name="OfferType" value="2" />
+    <int name="saving_status_Data%2Fm_DronesStoreModel" value="0" />
+    <int name="graphicStatev3" value="1" />
+    <int name="Rated" value="1" />
+    <int name="AnalyticsSwitch" value="0" />
+    <int name="DBSync_m_BattlePassModel" value="0" />
+    <int name="DBSync_m_CarOwned" value="0" />
+    <int name="saving_status_Data%2Fm_CategoriesStoreModel" value="0" />
+    <int name="saving_status_Data%2Fm_UserProfileModel" value="0" />
+    <string name="lang">Arabic</string>
+    <int name="saving_status_Data%2Fm_PromoCode" value="0" />
+    <string name="m_BillingModel">sRdUu3hR3bQ4%2FJl8QoAA6OItVI3GSQ0ou35exL3dhOotyFTNVcr5Co65nxKdeIZ6mh2KEP9l1vH2Z50rUxJG9GgejJ9yG0Ywnc1Ra50MwZ8%3D</string>
+    <int name="DBSync_m_CarStoreModel_metadata" value="0" />
+    <string name="unity.player_session_count">9</string>
+    <int name="saving_status_Data%2Fm_WheelCustomizationModel" value="0" />
+    <int name="RateCounter" value="3" />
+    <int name="saving_status_Data%2Fm_CarPaintingCustomizationModel" value="0" />
+    <int name="DBDirty_m_CarTuningCustomizationModel_land%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <int name="saving_status_Data%2Fm_GeneralCustomizationModel%2Fland%20cruiser%2004%20MOB%20LODs_Skin2" value="0" />
+    <string name="m_LocalPlayerData">XO2EFZSbIFLS9GzK7WAVBJofMAZCfSBRTC43kHz2SnaepfPn44K2j8PfDfMiMmTHGzCttlUtjTsN19tNJt2p0KRCBSQgvQaSZH1kNBMO4e%2FLp7an9L4ol6qbe3KavDMx%2Bdi%2BEQZhLGiV4%2BVHhielcI9aPxW4vlqwcCuh5FNOc0d5jcIZoCB1bC0Od1tGemvLQBJOQTq0qZB%2FHtzXqMUl0g%3D%3D</string>
+    <string name="m_DynamicDifficulty">8SdSq%2FUx3lJ6LVXT%2FwT0ozypbs6J6wlp6Q%2BSqXTQflbTgBlcYbBFLwsBRqg%2Fm6pehuARP9vTtvcUnE1eP%2FFopQd0IWsuiU%2B89Zc83XVFNUw%3D</string>
+    <int name="DBSync_m_PromoCode" value="0" />
+    <int name="DBSync_m_CarTuningCustomizationModel_metadata" value="0" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="TamatemPlus" value="0" />
+    <string name="m_DroneModel">Uif6nudAq45XeeWuMeYHCQSuXqhgWd3XTTJR74S0K8nGW6PekmhsJSlbGT6mXAIFjyLY6bd4iEm%2Bte4yjQmsyw%3D%3D</string>
+    <int name="DBSync_m_CategoriesStoreModel" value="0" />
+    <string name="m_RewardDataModel">oOswBinkSYpG0rGwJ7gv64BXfAiZ3M9iZcOKjM3GyYT%2F5M6O5Hbd5woqi6Z%2B98yVZMpm%2F%2BZbh%2Bi8lxnyAlvh%2BQ%3D%3D</string>
+    <int name="DBSync_m_AchievementProgress" value="0" />
+    <string name="m_GeneralDataModel">hVgS19fPpeouN%2BN75kj5%2FsF0Re1WXIh0ptKEuCQPpgTU%2FmSwb5PU%2BKgkfcv9OcNfUULnjSBrG0n69v7ItxNZhAW5nepy%2BaRHkk98By3nOzjSCfj2LYop10rJSI7m%2FUob</string>
+    <string name="m_BattlePassModel">DEDs26TZ14pSuTbxkVOVQVR0%2BYy6AhbkuPvZ07cJXAKB3%2FZUGXi9809DvP7rRhP2YOXBRNLsCT%2F%2Ba%2BQZVSb%2B2FA%2Bh1Xannbtz%2BAU8iBXVYIy8lNvWGtXRRTa6mz8gRDxlG8gxJE8VuNohZvp%2B%2F0CObw7JOH%2BxP8vGWh6Aomafb%2BBOqARZ%2FGLHrf0A4vwT15Qhui%2FmSCvoEhoO4TpdmV5Gs911olMdmqXUiujn9JWthH5%2FDyraTeGszCyTUo3KeWE</string>
+    <int name="DBSync_m_LevelAndXPData" value="0" />
+</map>
