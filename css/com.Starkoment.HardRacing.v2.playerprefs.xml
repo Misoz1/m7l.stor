@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="DailyDay">06%2F04%2F2024%2012%3A00%3A00%20%D8%B5</string>
+    <int name="UnityGraphicsQuality" value="1" />
+    <int name="Achiev05_NeedSend" value="0" />
+    <int name="Tire00_TireOwned" value="1" />
+    <int name="NewLicence" value="1" />
+    <string name="unity.player_sessionid">8299997983677369948</string>
+    <int name="Achiev03_Progress" value="7063" />
+    <int name="Achiev02_NeedSend" value="0" />
+    <int name="Screenmanager%20Resolution%20Width" value="2316" />
+    <int name="Num52_NumOwned" value="1" />
+    <string name="DefUI_Steering%20Wheel">258.0999%2C-14.58468</string>
+    <string name="KeysList">RCC_units%230%7CVolume_SFX%231%7CVolume_Music%231%7CQuality%230%7CFPS%230%7CVideoOn%230%7CAchiev01_NeedSend%230%7CAchiev01_Compleet%230%7CAchiev02_NeedSend%230%7CAchiev02_Compleet%230%7CAchiev03_NeedSend%230%7CAchiev03_Compleet%230%7CAchiev04_NeedSend%230%7CAchiev04_Compleet%230%7CAchiev05_NeedSend%230%7CAchiev05_Compleet%230%7CAchiev06_NeedSend%230%7CAchiev06_Compleet%230%7CAchiev07_NeedSend%230%7CAchiev07_Compleet%230%7CAchiev08_NeedSend%230%7CAchiev08_Compleet%230%7CAchiev09_NeedSend%230%7CAchiev09_Compleet%230%7CAchiev10_NeedSend%230%7CAchiev10_Compleet%230%7CAchiev11_NeedSend%230%7CAchiev11_Compleet%230%7CAchiev12_NeedSend%230%7CAchiev12_Compleet%230%7CAchiev13_NeedSend%230%7CAchiev13_Compleet%230%7CAchiev14_NeedSend%230%7CAchiev14_Compleet%230%7CAchiev15_NeedSend%230%7CAchiev15_Compleet%230%7CAchiev16_NeedSend%230%7CAchiev16_Compleet%230%7CAchiev17_NeedSend%230%7CAchiev17_Compleet%230%7CAchiev18_NeedSend%230%7CAchiev18_Compleet%230%7CAchiev19_NeedSend%230%7CAchiev19_Compleet%230%7CAchiev20_NeedSend%230%7CAchiev20_Compleet%230%7CAchiev21_NeedSend%230%7CAchiev21_Compleet%230%7CAchiev22_NeedSend%230%7CAchiev22_Compleet%230%7CAchiev23_NeedSend%230%7CAchiev23_Compleet%230%7CAchiev24_NeedSend%230%7CAchiev24_Compleet%230%7CAchiev25_NeedSend%230%7CAchiev25_Compleet%230%7CCurrentCarID%232%7CDefUI_Gas%232%7CDefUI_Brake%232%7CDefUI_Left%232%7CDefUI_Right%232%7CDefUI_Handbrake%232%7CDefUI_Steering%20Wheel%232%7CDefUI_NOS%232%7CControl_TouchScreen_UI_Gas%232%7CControl_TouchScreen_UI_Brake%232%7CControl_TouchScreen_UI_Left%232%7CControl_TouchScreen_UI_Right%232%7CControl_TouchScreen_UI_Handbrake%232%7CControl_TouchScreen_UI_Steering%20Wheel%232%7CControl_TouchScreen_UI_NOS%232%7CToken%232%7CCar01b0_Upgrade%232%7CDmgCar_Car01b0%232%7CPostProcess%230%7CMirrorOn%230%7Ctutor3_compleet%230%7CMoney%230%7CAchiev03_Progress%230%7CAchiev04_Progress%230%7CAchiev05_Progress%230%7CAchiev06_Progress%230%7CAchiev07_Progress%230%7CNoAds%230%7CFinCount%230%7CNewTuning%230%7CNewCar%230%7CName%232%7CCar01b0_CarOwned%230%7CCar01b0_New%230%7CCar01b1_CarOwned%230%7CCar01b1_New%230%7CCar02b0_CarOwned%230%7CCar02b0_New%230%7CCar02b1_CarOwned%230%7CCar02b1_New%230%7CCar03b0_CarOwned%230%7CCar03b0_New%230%7CCar03b1_CarOwned%230%7CCar03b1_New%230%7CCar04b0_CarOwned%230%7CCar04b0_New%230%7CCar04b1_CarOwned%230%7CCar04b1_New%230%7CCar05b0_CarOwned%230%7CCar05b0_New%230%7CCar05b1_CarOwned%230%7CCar05b1_New%230%7CCar07b0_CarOwned%230%7CCar07b0_New%230%7CCar07b1_CarOwned%230%7CCar07b1_New%230%7CCar06b0_CarOwned%230%7CCar06b0_New%230%7CCar06b1_CarOwned%230%7CCar06b1_New%230%7CCar34_CarOwned%230%7CCar34_New%230%7CCar08b0_CarOwned%230%7CCar08b0_New%230%7CCar08b1_CarOwned%230%7CCar08b1_New%230%7CCar38b0_CarOwned%230%7CCar38b0_New%230%7CCar14b0_CarOwned%230%7CCar14b0_New%230%7CCar14b1_CarOwned%230%7CCar14b1_New%230%7CCar15b0_CarOwned%230%7CCar15b0_New%230%7CCar15b1_CarOwned%230%7CCar15b1_New%230%7CCar10b0_CarOwned%230%7CCar10b0_New%230%7CCar10b1_CarOwned%230%7CCar10b1_New%230%7CCar13b0_CarOwned%230%7CCar13b0_New%230%7CCar13b1_CarOwned%230%7CCar13b1_New%230%7CCar12b0_CarOwned%230%7CCar12b0_New%230%7CCar12b1_CarOwned%230%7CCar12b1_New%230%7CCar11b0_CarOwned%230%7CCar11b0_New%230%7CCar11b1_CarOwned%230%7CCar11b1_New%230%7CCar09b0_CarOwned%230%7CCar09b0_New%230%7CCar09b1_CarOwned%230%7CCar09b1_New%230%7C19c_compleet%230%7C19b_compleet%230%7C19a_compleet%230%7C20a_compleet%230%7C20b_compleet%230%7C20c_compleet%230%7C21a_compleet%230%7C21b_compleet%230%7C21c_compleet%230%7C22a_compleet%230%7C22b_compleet%230%7C22c_compleet%230%7C23a_compleet%230%7C23b_compleet%230%7C23c_compleet%230%7C24a_compleet%230%7C24b_compleet%230%7C24c_compleet%230%7C25a_compleet%230%7C25b_compleet%230%7C25c_compleet%230%7C26a_compleet%230%7C26b_compleet%230%7C26c_compleet%230%7C27a_compleet%230%7C27b_compleet%230%7C27c_compleet%230%7C37c_compleet%230%7C37b_compleet%230%7C37a_compleet%230%7C38a_compleet%230%7C38b_compleet%230%7C38c_compleet%230%7C39a_compleet%230%7C39b_compleet%230%7C39c_compleet%230%7C40a_compleet%230%7C40b_compleet%230%7C40c_compleet%230%7C41a_compleet%230%7C41b_compleet%230%7C41c_compleet%230%7C42a_compleet%230%7C42b_compleet%230%7C42c_compleet%230%7C43a_compleet%230%7C43b_compleet%230%7C43c_compleet%230%7C44a_compleet%230%7C44b_compleet%230%7C44c_compleet%230%7C45a_compleet%230%7C45b_compleet%230%7C45c_compleet%230%7C100c_compleet%230%7C100b_compleet%230%7C100a_compleet%230%7C101a_compleet%230%7C101b_compleet%230%7C101c_compleet%230%7C102a_compleet%230%7C102b_compleet%230%7C102c_compleet%230%7C103a_compleet%230%7C103b_compleet%230%7C103c_compleet%230%7C104a_compleet%230%7C104b_compleet%230%7C104c_compleet%230%7C105a_compleet%230%7C105b_compleet%230%7C105c_compleet%230%7C106a_compleet%230%7C106b_compleet%230%7C106c_compleet%230%7C107a_compleet%230%7C107b_compleet%230%7C107c_compleet%230%7C108a_compleet%230%7C108b_compleet%230%7C108c_compleet%230%7C82c_compleet%230%7C82b_compleet%230%7C82a_compleet%230%7C83a_compleet%230%7C83b_compleet%230%7C83c_compleet%230%7C84a_compleet%230%7C84b_compleet%230%7C84c_compleet%230%7C85a_compleet%230%7C85b_compleet%230%7C85c_compleet%230%7C86a_compleet%230%7C86b_compleet%230%7C86c_compleet%230%7C87a_compleet%230%7C87b_compleet%230%7C87c_compleet%230%7C88a_compleet%230%7C88b_compleet%230%7C88c_compleet%230%7C89a_compleet%230%7C89b_compleet%230%7C89c_compleet%230%7C90a_compleet%230%7C90b_compleet%230%7C90c_compleet%230%7C127c_compleet%230%7C127b_compleet%230%7C127a_compleet%230%7C128a_compleet%230%7C128b_compleet%230%7C128c_compleet%230%7C129a_compleet%230%7C129b_compleet%230%7C129c_compleet%230%7C130a_compleet%230%7C130b_compleet%230%7C130c_compleet%230%7C131a_compleet%230%7C131b_compleet%230%7C131c_compleet%230%7C132a_compleet%230%7C132b_compleet%230%7C132c_compleet%230%7C133a_compleet%230%7C133b_compleet%230%7C133c_compleet%230%7C134a_compleet%230%7C134b_compleet%230%7C134c_compleet%230%7C135a_compleet%230%7C135b_compleet%230%7C135c_compleet%230%7C46c_compleet%230%7C46b_compleet%230%7C46a_compleet%230%7C47a_compleet%230%7C47b_compleet%230%7C47c_compleet%230%7C48a_compleet%230%7C48b_compleet%230%7C48c_compleet%230%7C49a_compleet%230%7C49b_compleet%230%7C49c_compleet%230%7C50a_compleet%230%7C50b_compleet%230%7C50c_compleet%230%7C51a_compleet%230%7C51b_compleet%230%7C51c_compleet%230%7C52a_compleet%230%7C52b_compleet%230%7C52c_compleet%230%7C53a_compleet%230%7C53b_compleet%230%7C53c_compleet%230%7C54a_compleet%230%7C54b_compleet%230%7C54c_compleet%230%7C118c_compleet%230%7C118b_compleet%230%7C118a_compleet%230%7C119a_compleet%230%7C119b_compleet%230%7C119c_compleet%230%7C120a_compleet%230%7C120b_compleet%230%7C120c_compleet%230%7C121a_compleet%230%7C121b_compleet%230%7C121c_compleet%230%7C122a_compleet%230%7C122b_compleet%230%7C122c_compleet%230%7C123a_compleet%230%7C123b_compleet%230%7C123c_compleet%230%7C124a_compleet%230%7C124b_compleet%230%7C124c_compleet%230%7C125a_compleet%230%7C125b_compleet%230%7C125c_compleet%230%7C126a_compleet%230%7C126b_compleet%230%7C126c_compleet%230%7C91c_compleet%230%7C91b_compleet%230%7C91a_compleet%230%7C92a_compleet%230%7C92b_compleet%230%7C92c_compleet%230%7C93a_compleet%230%7C93b_compleet%230%7C93c_compleet%230%7C94a_compleet%230%7C94b_compleet%230%7C94c_compleet%230%7C95a_compleet%230%7C95b_compleet%230%7C95c_compleet%230%7C96a_compleet%230%7C96b_compleet%230%7C96c_compleet%230%7C97a_compleet%230%7C97b_compleet%230%7C97c_compleet%230%7C98a_compleet%230%7C98b_compleet%230%7C98c_compleet%230%7C99a_compleet%230%7C99b_compleet%230%7C99c_compleet%230%7Ce01c_compleet%230%7Ce01b_compleet%230%7Ce01a_compleet%230%7Ce02a_compleet%230%7Ce02b_compleet%230%7Ce02c_compleet%230%7Ce03a_compleet%230%7Ce03b_compleet%230%7Ce03c_compleet%230%7Ce04a_compleet%230%7Ce04b_compleet%230%7Ce04c_compleet%230%7Ce05a_compleet%230%7Ce05b_compleet%230%7Ce05c_compleet%230%7Ce06a_compleet%230%7Ce06b_compleet%230%7Ce06c_compleet%230%7Ce07a_compleet%230%7Ce07b_compleet%230%7Ce07c_compleet%230%7Ce08a_compleet%230%7Ce08b_compleet%230%7Ce08c_compleet%230%7Ce09a_compleet%230%7Ce09b_compleet%230%7Ce09c_compleet%230%7C109c_compleet%230%7C109b_compleet%230%7C109a_compleet%230%7C110a_compleet%230%7C110b_compleet%230%7C110c_compleet%230%7C111a_compleet%230%7C111b_compleet%230%7C111c_compleet%230%7C112a_compleet%230%7C112b_compleet%230%7C112c_compleet%230%7C113a_compleet%230%7C113b_compleet%230%7C113c_compleet%230%7C114a_compleet%230%7C114b_compleet%230%7C114c_compleet%230%7C115a_compleet%230%7C115b_compleet%230%7C115c_compleet%230%7C116a_compleet%230%7C116b_compleet%230%7C116c_compleet%230%7C117a_compleet%230%7C117b_compleet%230%7C117c_compleet%230%7C73c_compleet%230%7C73b_compleet%230%7C73a_compleet%230%7C74a_compleet%230%7C74b_compleet%230%7C74c_compleet%230%7C75a_compleet%230%7C75b_compleet%230%7C75c_compleet%230%7C76a_compleet%230%7C76b_compleet%230%7C76c_compleet%230%7C77a_compleet%230%7C77b_compleet%230%7C77c_compleet%230%7C78a_compleet%230%7C78b_compleet%230%7C78c_compleet%230%7C79a_compleet%230%7C79b_compleet%230%7C79c_compleet%230%7C80a_compleet%230%7C80b_compleet%230%7C80c_compleet%230%7C81a_compleet%230%7C81b_compleet%230%7C81c_compleet%230%7C10c_compleet%230%7C10b_compleet%230%7C10a_compleet%230%7C11a_compleet%230%7C11b_compleet%230%7C11c_compleet%230%7C12a_compleet%230%7C12b_compleet%230%7C12c_compleet%230%7C13a_compleet%230%7C13b_compleet%230%7C13c_compleet%230%7C14a_compleet%230%7C14b_compleet%230%7C14c_compleet%230%7C15a_compleet%230%7C15b_compleet%230%7C15c_compleet%230%7C16a_compleet%230%7C16b_compleet%230%7C16c_compleet%230%7C17a_compleet%230%7C17b_compleet%230%7C17c_compleet%230%7C18a_compleet%230%7C18b_compleet%230%7C18c_compleet%230%7C28c_compleet%230%7C28b_compleet%230%7C28a_compleet%230%7C29a_compleet%230%7C29b_compleet%230%7C29c_compleet%230%7C30a_compleet%230%7C30b_compleet%230%7C30c_compleet%230%7C31a_compleet%230%7C31b_compleet%230%7C31c_compleet%230%7C32a_compleet%230%7C32b_compleet%230%7C32c_compleet%230%7C33a_compleet%230%7C33b_compleet%230%7C33c_compleet%230%7C34a_compleet%230%7C34b_compleet%230%7C34c_compleet%230%7C35a_compleet%230%7C35b_compleet%230%7C35c_compleet%230%7C36a_compleet%230%7C36b_compleet%230%7C36c_compleet%230%7C1c_compleet%230%7C1b_compleet%230%7C1a_compleet%230%7C2a_compleet%230%7C2b_compleet%230%7C2c_compleet%230%7C3a_compleet%230%7C3b_compleet%230%7C3c_compleet%230%7C4a_compleet%230%7C4b_compleet%230%7C4c_compleet%230%7C5a_compleet%230%7C5b_compleet%230%7C5c_compleet%230%7C6a_compleet%230%7C6b_compleet%230%7C6c_compleet%230%7C7a_compleet%230%7C7b_compleet%230%7C7c_compleet%230%7C8a_compleet%230%7C8b_compleet%230%7C8c_compleet%230%7C9a_compleet%230%7C9b_compleet%230%7C9c_compleet%230%7C55c_compleet%230%7C55b_compleet%230%7C55a_compleet%230%7C56a_compleet%230%7C56b_compleet%230%7C56c_compleet%230%7C57a_compleet%230%7C57b_compleet%230%7C57c_compleet%230%7C58a_compleet%230%7C58b_compleet%230%7C58c_compleet%230%7C59a_compleet%230%7C59b_compleet%230%7C59c_compleet%230%7C60a_compleet%230%7C60b_compleet%230%7C60c_compleet%230%7C61a_compleet%230%7C61b_compleet%230%7C61c_compleet%230%7C62a_compleet%230%7C62b_compleet%230%7C62c_compleet%230%7C63a_compleet%230%7C63b_compleet%230%7C63c_compleet%230%7C64c_compleet%230%7C64b_compleet%230%7C64a_compleet%230%7C65a_compleet%230%7C65b_compleet%230%7C65c_compleet%230%7C66a_compleet%230%7C66b_compleet%230%7C66c_compleet%230%7C67a_compleet%230%7C67b_compleet%230%7C67c_compleet%230%7C68a_compleet%230%7C68b_compleet%230%7C68c_compleet%230%7C69a_compleet%230%7C69b_compleet%230%7C69c_compleet%230%7C70a_compleet%230%7C70b_compleet%230%7C70c_compleet%230%7C71a_compleet%230%7C71b_compleet%230%7C71c_compleet%230%7C72a_compleet%230%7C72b_compleet%230%7C72c_compleet%230%7CTutor_MM1%230%7CTutor_MM2%230%7CTutor_CampaingTap%230%7CDailyPrizeCount%230%7CRepairOn%230%7CDailyDay%232%7CSaleBanner%230%7CCar04b0_Upgrade%232%7CDmgCar_Car04b0%232%7CCar07b0_Upgrade%232%7CDmgCar_Car07b0%232%7CTutor_WH%230%7CCar06b0_Upgrade%232%7CDmgCar_Car06b0%232%7CCar38b0_Upgrade%232%7CDmgCar_Car38b0%232%7CTutor_Car38%230%7CCar14b0_Upgrade%232%7CDmgCar_Car14b0%232%7CCar09b0_Upgrade%232%7CDmgCar_Car09b0%232%7CCar11b0_Upgrade%232%7CDmgCar_Car11b0%232%7CRim15_RimOwned%230%7CRim15_New%230%7CNewRim%230%7CRim15_RimLocked%230%7CTire00_TireOwned%230%7CNum52_NumOwned%230%7CNum52_New%230%7CNewLicence%230%7CNum52_NumLocked%230%7CAchiev22_Progress%230%7CAchiev23_Progress%230%7CAchiev24_Progress%230%7CSpeedUnits%230%7CEMail%232%7CPass%232%7CTire04_TireOwned%230%7CTire04_New%230%7CNewTire%230%7CTire04_TireLocked%230</string>
+    <string name="DmgCar_Car04b0">0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0</string>
+    <string name="Pass"></string>
+    <int name="Achiev24_Progress" value="1" />
+    <string name="DmgCar_Car06b0">0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0</string>
+    <int name="NewRim" value="1" />
+    <int name="Achiev06_Progress" value="7063" />
+    <int name="Car03b1_New" value="0" />
+    <float name="Volume_Music" value="0.75" />
+    <int name="Tire04_TireOwned" value="1" />
+    <int name="DailyPrizeCount" value="2" />
+    <int name="Achiev24_NeedSend" value="0" />
+    <int name="Achiev07_Progress" value="7063" />
+    <int name="Achiev18_NeedSend" value="0" />
+    <int name="Car07b0_New" value="0" />
+    <int name="Car11b0_CarOwned" value="1" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <float name="Volume_SFX" value="0.75" />
+    <int name="Num52_NumLocked" value="0" />
+    <int name="VideoOn" value="0" />
+    <string name="DmgCar_Car11b0">0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0</string>
+    <int name="Achiev06_NeedSend" value="0" />
+    <string name="DmgCar_Car38b0">0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0</string>
+    <int name="Achiev23_NeedSend" value="0" />
+    <int name="MirrorOn" value="0" />
+    <int name="Car04b1_New" value="0" />
+    <int name="Car04b0_New" value="0" />
+    <string name="UnityInstallationId">e68a5932c89da880ea29bf53e15d5717</string>
+    <int name="NewTire" value="1" />
+    <int name="Rim15_RimOwned" value="1" />
+    <int name="Screenmanager%20Resolution%20Height" value="1080" />
+    <int name="Car38b0_New" value="0" />
+    <int name="Tutor_WH" value="1" />
+    <int name="Tire04_TireLocked" value="0" />
+    <int name="Achiev23_Progress" value="1" />
+    <string name="DefUI_Gas">1173.92%2C0</string>
+    <string name="DefUI_Right">355%2C30</string>
+    <string name="DefUI_NOS">0%2C190</string>
+    <string name="CurrentCarID">Car11b0</string>
+    <int name="Money" value="2000007062" />
+    <string name="DmgCar_Car01b0">0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0</string>
+    <int name="NewCar" value="-8" />
+    <int name="PostProcess" value="0" />
+    <int name="Rim15_RimLocked" value="0" />
+    <int name="Quality" value="1" />
+    <string name="DefUI_Handbrake">1280%2C190</string>
+    <int name="Achiev04_NeedSend" value="0" />
+    <int name="Tutor_CampaingTap" value="3" />
+    <int name="Rim15_New" value="1" />
+    <int name="Achiev22_NeedSend" value="0" />
+    <string name="DefUI_Brake">965.9999%2C36.01001</string>
+    <string name="unity.player_session_count">2</string>
+    <int name="Car09b0_New" value="0" />
+    <int name="Tutor_MM2" value="1" />
+    <int name="NewTuning" value="3" />
+    <int name="Tutor_MM1" value="1" />
+    <int name="Achiev22_Progress" value="1" />
+    <string name="DmgCar_Car07b0">0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0</string>
+    <string name="DmgCar_Car09b0">0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0</string>
+    <int name="Num52_New" value="1" />
+    <string name="EMail"></string>
+    <int name="Achiev04_Progress" value="7063" />
+    <string name="unity.cloud_userid">e68a5932c89da880ea29bf53e15d5717</string>
+    <int name="Achiev18_Compleet" value="1" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <string name="Gadsme_UserId">7fdb1682-0d7f-408f-b9ca-1fba255daf24</string>
+    <int name="Achiev05_Progress" value="7063" />
+    <int name="Tutor_Car38" value="1" />
+    <int name="Achiev03_NeedSend" value="0" />
+    <int name="Car06b0_New" value="0" />
+    <string name="DmgCar_Car14b0">0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0</string>
+    <string name="DefUI_Left">160%2C30</string>
+    <int name="Achiev02_Compleet" value="1" />
+    <int name="Car14b0_New" value="0" />
+    <int name="SpeedUnits" value="0" />
+    <int name="Tire04_New" value="1" />
+    <int name="Car11b0_New" value="1" />
+    <int name="FinCount" value="1" />
+    <int name="RCC_units" value="0" />
+</map>
