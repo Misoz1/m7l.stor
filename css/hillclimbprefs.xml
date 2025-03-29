@@ -33,12 +33,14 @@
     <int name="junkyard_monster_jumprec" value="20" />
     <int name="dragster_stability" value="20" />
     <int name="volcano_snowmobile_highscore" value="25" />
+    <int name="mudpool_fastbike_highscore" value="0" />
     <int name="forest_spider_highscore" value="25" />
     <int name="truck_unlocked" value="1" />
     <int name="dragster_engineH" value="20" />
     <int name="firetruck_engineH" value="20" />
     <int name="VEHICLES_UNLOCKED_5_steps" value="20" />
     <int name="super_countryside_snowmobile_jumprec" value="0" />
+    <int name="neon_fastbike_jumprec" value="0" />
     <int name="mega_desert_racecar_jumprec" value="0" />
     <int name="mega_desert_moonlander_jumprec" value="0" />
     <int name="challenge_5_superhillclimber_jumprec" value="0" />
@@ -60,9 +62,10 @@
     <int name="arctic_minibike_jumprec" value="20" />
     <int name="volcano_onewheeler_highscore" value="25" />
     <int name="ragnarok_electric_jumprec" value="20" />
+    <int name="bootcamp_fastbike_highscore" value="0" />
     <int name="mountain_dragster_jumprec" value="20" />
     <int name="challenge_3_chopperbike_highscore" value="20" />
-    <int name="challenge_4_moonlander_highscore" value="20" />
+    <int name="challenge_4_moonlander_highscore" value="25" />
     <int name="is_double_money_active" value="0" />
     <int name="night_lowrider_jumprec" value="20" />
     <int name="bog_hachiroku_highscore" value="0" />
@@ -85,14 +88,16 @@
     <int name="challenge_7_firetruck_jumprec" value="20" />
     <int name="alienplanet_minibike_jumprec" value="20" />
     <int name="bigfinger_engine" value="16" />
+    <int name="arcticcave_fastbike_jumprec" value="0" />
     <int name="countryside_carcar_jumprec" value="0" />
     <int name="challenge_7_superhillclimber_highscore" value="0" />
     <int name="night_hotrod_highscore" value="25" />
-    <int name="bubblecar_tiresH" value="20" />
+    <int name="bubblecar_tiresH" value="25" />
     <int name="mars_bike_jumprec" value="20" />
     <int name="haunted_tractor_highscore" value="25" />
-    <int name="actionhero_hachiroku_highscore" value="0" />
+    <int name="actionhero_hachiroku_highscore" value="382" />
     <int name="quadbike_awd" value="20" />
+    <int name="fingersports_jeep_highscore" value="0" />
     <int name="challenge_3_hachiroku_jumprec" value="0" />
     <int name="actionhero_onewheeler_jumprec" value="0" />
     <int name="challenge_5_dunebuggy_jumprec" value="20" />
@@ -102,19 +107,22 @@
     <int name="challenge_6_monster_jumprec" value="20" />
     <int name="highway_hippievan_jumprec" value="20" />
     <int name="suburbs_tank_jumprec" value="0" />
-    <int name="challenge_4_superoffroad_highscore" value="20" />
+    <int name="challenge_4_superoffroad_highscore" value="25" />
     <int name="challenge_5_racecar_highscore" value="20" />
     <int name="train_engineH" value="20" />
     <int name="mega_highway_hippievan_jumprec" value="0" />
+    <int name="forest_fastbike_highscore" value="0" />
     <int name="seasons_dragster_highscore" value="25" />
     <int name="gemCompensationForExcessiveNitros" value="2000" />
     <int name="dieseltruck_fuelH" value="20" />
+    <int name="arcticcave_fastbike_highscore" value="0" />
     <int name="challenge_3_spider_highscore" value="20" />
     <int name="neon_bigfinger_jumprec" value="20" />
     <int name="prog_shapeshifter_highscore" value="25" />
     <int name="TOTAL_DISTANCE_10_000_unlocked" value="1" />
     <int name="nuclear_luxury_jumprec" value="20" />
     <int name="retro_mission_hippievan_highscore" value="0" />
+    <int name="challenge_2_fastbike_highscore" value="0" />
     <int name="countryside_dieseltruck_jumprec" value="20" />
     <int name="hippievan_boostH" value="20" />
     <int name="ragnarok_bubblecar_jumprec" value="20" />
@@ -141,6 +149,7 @@
     <int name="GP_1NP" value="1" />
     <int name="aircar_chestconsumed" value="0" />
     <int name="challenge_4_superoffroad_jumprec" value="20" />
+    <int name="fingersports_quadbike_jumprec" value="0" />
     <int name="challenge_7_chopperbike_jumprec" value="20" />
     <int name="rollercoaster_dieseltruck_jumprec" value="20" />
     <int name="jungle_dieseltruck_jumprec" value="20" />
@@ -164,7 +173,10 @@
     <int name="junkyard_dieseltruck_highscore" value="25" />
     <int name="challenge_6_dragster_jumprec" value="20" />
     <int name="desert_hippievan_jumprec" value="20" />
+    <int name="alienplanet_fastbike_highscore" value="0" />
+    <int name="fingersports_tractor_highscore" value="0" />
     <int name="alienplanet_hovercraft_highscore" value="25" />
+    <int name="challenge_1_fastbike_jumprec" value="0" />
     <int name="factory_luxury_jumprec" value="20" />
     <int name="cave_custom1_highscore" value="25" />
     <int name="factory_hippievan_jumprec" value="20" />
@@ -181,6 +193,7 @@
     <int name="ragnarok_spider_jumprec" value="20" />
     <int name="highway_quadbike_jumprec" value="20" />
     <int name="video_ads_enabled" value="1" />
+    <int name="fingersports_chestconsumed" value="0" />
     <int name="haunted_spider_highscore" value="25" />
     <int name="mountain_hovercraft_highscore" value="25" />
     <int name="rainbow_tank_highscore" value="25" />
@@ -225,7 +238,7 @@
     <int name="rollercoaster_aircar_highscore" value="0" />
     <int name="northpole_carcar_highscore" value="0" />
     <int name="rainbow_dieseltruck_highscore" value="25" />
-    <int name="actionhero_highscore" value="0" />
+    <int name="actionhero_highscore" value="928" />
     <int name="GP_17UL" value="0" />
     <int name="cave_train_highscore" value="25" />
     <int name="super_countryside_sleigh_highscore" value="0" />
@@ -243,7 +256,7 @@
     <int name="tricktrack_dragster_highscore" value="25" />
     <int name="cave_policecar_highscore" value="25" />
     <int name="mountain_hachiroku_jumprec" value="0" />
-    <int name="countryside_luxury_highscore" value="25" />
+    <int name="countryside_luxury_highscore" value="1018" />
     <int name="cave_carcar_jumprec" value="0" />
     <int name="challenge_5_lowrider_jumprec" value="20" />
     <int name="mega_highway_level" value="0" />
@@ -257,7 +270,7 @@
     <int name="rainbow_truck_jumprec" value="20" />
     <int name="superoffroad_downforce" value="20" />
     <int name="mega_desert_screwfinger_highscore" value="0" />
-    <int name="challenge_4_bigfinger_highscore" value="20" />
+    <int name="challenge_4_bigfinger_highscore" value="25" />
     <int name="challenge_6_train_jumprec" value="20" />
     <int name="beach_bigfinger_highscore" value="25" />
     <int name="actionhero_hotrod_highscore" value="0" />
@@ -270,7 +283,7 @@
     <int name="GP_1CN" value="32" />
     <int name="seasons_onewheeler_jumprec" value="20" />
     <int name="mega_highway_electric_highscore" value="0" />
-    <int name="challenge_4_hippievan_highscore" value="20" />
+    <int name="challenge_4_hippievan_highscore" value="25" />
     <int name="challenge_7_trophytruck_jumprec" value="20" />
     <int name="beach_hippievan_highscore" value="25" />
     <int name="haunted_ambulance_highscore" value="25" />
@@ -282,6 +295,7 @@
     <int name="rooftops_sleigh_highscore" value="25" />
     <int name="bigfinger_mastery_steps" value="25" />
     <int name="junkyard_carcar_highscore" value="0" />
+    <int name="fastbike_turboH" value="1" />
     <int name="challenge_1_ambulance_jumprec" value="20" />
     <int name="hachiroku_powerupsel" value="0" />
     <int name="challenge_6_spider_jumprec" value="20" />
@@ -291,7 +305,7 @@
     <int name="moonlander_mastery_unlocked" value="1" />
     <int name="TOTAL_DISTANCE_10_000_steps" value="1143" />
     <int name="mega_highway_ambulance_highscore" value="0" />
-    <int name="numberOfMissionsSkipped" value="3" />
+    <int name="numberOfMissionsSkipped" value="0" />
     <int name="suburbs_superhillclimber_highscore" value="0" />
     <int name="night_minibike_highscore" value="25" />
     <int name="week_challenge_enabled" value="1" />
@@ -304,7 +318,7 @@
     <int name="VEHICLES_UPGRADED_10_steps" value="20" />
     <int name="rooftops_hippievan_jumprec" value="20" />
     <int name="challenge_4_tank_jumprec" value="20" />
-    <int name="challenge_4_policecar_highscore" value="20" />
+    <int name="challenge_4_policecar_highscore" value="25" />
     <int name="rainbow_dragster_jumprec" value="20" />
     <int name="jungle_minibike_jumprec" value="20" />
     <int name="bog_hippievan_jumprec" value="20" />
@@ -324,6 +338,7 @@
     <int name="highway_luxury_jumprec" value="20" />
     <int name="xmas_tractor_jumprec" value="20" />
     <int name="mars_jeep_highscore" value="25" />
+    <int name="determinedGdprLocation" value="0" />
     <int name="retro_mission_firetruck_highscore" value="0" />
     <int name="forest_hovercraft_highscore" value="25" />
     <int name="highway_superhillclimber_jumprec" value="0" />
@@ -384,11 +399,12 @@
     <int name="ragnarok_dieseltruck_jumprec" value="20" />
     <int name="rainbow_electric_highscore" value="25" />
     <int name="GP_2CN" value="14" />
-    <int name="new_day" value="0" />
+    <int name="new_day" value="1" />
     <int name="challenge_6_shapeshifter_jumprec" value="20" />
     <int name="highway_superoffroad_highscore" value="25" />
     <int name="train_mastery_steps" value="25" />
     <int name="challenge_2_carcar_highscore" value="0" />
+    <int name="northpole_fastbike_jumprec" value="0" />
     <int name="bog_rallycar_jumprec" value="20" />
     <int name="rainbow_hippievan_jumprec" value="20" />
     <int name="screw_finger_engine" value="20" />
@@ -402,7 +418,7 @@
     <int name="arctic_superoffroad_jumprec" value="20" />
     <int name="rooftops_snowmobile_highscore" value="25" />
     <int name="highway_bubblecar_highscore" value="25" />
-    <int name="TOTAL_BACKFLIPS_1_000_steps" value="25" />
+    <int name="TOTAL_BACKFLIPS_1_000_steps" value="52" />
     <int name="nuclear_rallycar_jumprec" value="20" />
     <int name="xmas_moonlander_jumprec" value="20" />
     <int name="beach_moonlander_highscore" value="25" />
@@ -423,7 +439,7 @@
     <int name="jungle_hachiroku_jumprec" value="0" />
     <int name="xmas_quadbike_jumprec" value="20" />
     <int name="bigfinger_stability" value="18" />
-    <int name="TOTAL_DISTANCE_1_000_000_steps" value="1143" />
+    <int name="TOTAL_DISTANCE_1_000_000_steps" value="9600" />
     <int name="mars_chopperbike_highscore" value="25" />
     <int name="forest_level" value="25" />
     <int name="bog_monster_jumprec" value="20" />
@@ -455,11 +471,14 @@
     <int name="daily_mission_first_run_complete_V4" value="1" />
     <int name="tricktrack_spider_jumprec" value="20" />
     <int name="dunebuggy_chestconsumed" value="1" />
+    <int name="mega_highway_fastbike_highscore" value="0" />
     <int name="factory_moonlander_jumprec" value="20" />
+    <int name="prog_fastbike_jumprec" value="0" />
     <int name="factory_tractor_jumprec" value="20" />
     <int name="super_countryside_bigfinger_jumprec" value="0" />
     <int name="SINGLE_RUN_1_000_000_unlocked" value="1" />
     <int name="nuclear_train_jumprec" value="20" />
+    <int name="suburbs_fastbike_highscore" value="0" />
     <int name="rooftops_policecar_jumprec" value="20" />
     <int name="rooftops_electric_jumprec" value="20" />
     <int name="mars_dieseltruck_highscore" value="25" />
@@ -468,7 +487,7 @@
     <int name="bubblecar_rocket" value="20" />
     <int name="retro_mission_tractor_highscore" value="0" />
     <int name="volcano_carcar_highscore" value="0" />
-    <int name="suburbs_unlocked" value="0" />
+    <int name="suburbs_unlocked" value="1" />
     <int name="actionhero_ambulance_highscore" value="0" />
     <int name="nuclear_shapeshifter_jumprec" value="20" />
     <int name="arctic_tractor_jumprec" value="20" />
@@ -478,6 +497,7 @@
     <int name="mountain_custom1_jumprec" value="20" />
     <int name="arctic_bubblecar_jumprec" value="20" />
     <int name="night_moonlander_highscore" value="25" />
+    <int name="fingersports_touristbus_highscore" value="0" />
     <int name="countryside_dragster_jumprec" value="20" />
     <int name="mars_tractor_jumprec" value="20" />
     <int name="challenge_3_screwfinger_highscore" value="20" />
@@ -488,11 +508,14 @@
     <int name="rainbow_lowrider_jumprec" value="20" />
     <int name="challenge_1_sleigh_jumprec" value="20" />
     <int name="mega_highway_ambulance_jumprec" value="0" />
+    <int name="fingersports_truck_highscore" value="0" />
     <int name="challenge_3_dragster_highscore" value="20" />
     <int name="factory_quadbike_jumprec" value="20" />
     <int name="beach_onewheeler_highscore" value="25" />
     <int name="super_countryside_hovercraft_highscore" value="0" />
+    <int name="tricktrack_fastbike_jumprec" value="0" />
     <int name="cave_chopperbike_jumprec" value="20" />
+    <int name="rainbow_fastbike_highscore" value="0" />
     <int name="night_sleigh_jumprec" value="20" />
     <int name="display_mode" value="0" />
     <int name="rainbow_bike_jumprec" value="20" />
@@ -546,7 +569,7 @@
     <int name="desert_superoffroad_highscore" value="25" />
     <int name="challenge_4_ambulance_jumprec" value="20" />
     <int name="challenge_5_tank_highscore" value="20" />
-    <int name="challenge_4_shapeshifter_highscore" value="20" />
+    <int name="challenge_4_shapeshifter_highscore" value="25" />
     <int name="bog_truck_highscore" value="25" />
     <int name="luxury_engine" value="20" />
     <int name="forest_carcar_highscore" value="0" />
@@ -566,6 +589,7 @@
     <int name="bigfinger_rollcageH" value="20" />
     <int name="challenge_1_onewheeler_jumprec" value="20" />
     <int name="bog_bike_jumprec" value="20" />
+    <int name="fingersports_dieseltruck_jumprec" value="0" />
     <int name="countryside_custom1_jumprec" value="20" />
     <int name="GP_18CN" value="9" />
     <int name="volcano_jeep_jumprec" value="20" />
@@ -577,7 +601,7 @@
     <int name="rooftops_highscore" value="25" />
     <int name="rooftops_bike_jumprec" value="20" />
     <int name="spacemission_trophytruck_highscore" value="25" />
-    <int name="countryside_highscore" value="691" />
+    <int name="countryside_highscore" value="1018" />
     <int name="bog_policecar_jumprec" value="20" />
     <int name="rooftops_tank_highscore" value="25" />
     <int name="super_countryside_rallycar_highscore" value="0" />
@@ -585,16 +609,16 @@
     <int name="GP_22UL" value="0" />
     <int name="rooftops_onewheeler_jumprec" value="20" />
     <int name="construction_hovercraft_highscore" value="25" />
-    <int name="challenge_4_bubblecar_highscore" value="20" />
+    <int name="challenge_4_bubblecar_highscore" value="25" />
     <int name="beach_snowmobile_highscore" value="25" />
     <int name="onewheeler_suspensionH" value="20" />
     <int name="beach_hachiroku_jumprec" value="0" />
-    <int name="show_GDPR_V3_dialog" value="1" />
+    <int name="show_GDPR_V3_dialog" value="0" />
     <int name="bike_forkH" value="20" />
     <int name="actionhero_screwfinger_highscore" value="0" />
-    <int name="train_tiresH" value="20" />
+    <int name="train_tiresH" value="25" />
     <int name="challenge_4_electric_jumprec" value="20" />
-    <int name="bigfinger_fuel" value="20" />
+    <int name="bigfinger_fuel" value="25" />
     <int name="challenge_2_spider_highscore" value="20" />
     <int name="arctic_chopperbike_jumprec" value="20" />
     <int name="factory_screwfinger_highscore" value="25" />
@@ -610,6 +634,7 @@
     <int name="alienplanet_ambulance_highscore" value="25" />
     <int name="rooftops_dieseltruck_jumprec" value="20" />
     <int name="rainbow_dieseltruck_jumprec" value="20" />
+    <int name="fingersports_monster_jumprec" value="0" />
     <int name="nuclear_firetruck_jumprec" value="20" />
     <int name="spacemission_sleigh_jumprec" value="20" />
     <int name="challenge_1_bigfinger_highscore" value="20" />
@@ -626,15 +651,17 @@
     <int name="volcano_custom1_jumprec" value="20" />
     <int name="jungle_minibike_highscore" value="25" />
     <int name="forest_racecar_jumprec" value="20" />
-    <int name="train_tires" value="20" />
+    <int name="train_tires" value="25" />
     <string name="bigfinger_attachments"></string>
     <int name="spacemission_chopperbike_highscore" value="25" />
     <int name="dieseltruck_mastery_unlocked" value="1" />
     <int name="rainbow_chopperbike_highscore" value="25" />
     <int name="arcticcave_tractor_highscore" value="25" />
     <int name="challenge_7_onewheeler_jumprec" value="20" />
+    <int name="arctic_fastbike_highscore" value="0" />
     <int name="rainbow_truck_highscore" value="25" />
     <int name="SKIJUMP_JUMPS_COMPLETED_steps" value="20" />
+    <int name="fingersports_moonlander_jumprec" value="0" />
     <int name="VEHICLES_UPGRADED_1_steps" value="20" />
     <int name="tricktrack_policecar_jumprec" value="20" />
     <int name="NECKFLIP_WITHIN_5S_steps" value="20" />
@@ -658,6 +685,7 @@
     <int name="challenge_6_electric_jumprec" value="20" />
     <int name="neon_spider_highscore" value="25" />
     <int name="SKIJUMP_JUMPS_COMPLETED_unlocked" value="1" />
+    <int name="fingersports_custom1_jumprec" value="0" />
     <string name="id_of_current_week_challenge"></string>
     <int name="challenge_1_truck_jumprec" value="20" />
     <string name="sleigh_attachments"></string>
@@ -665,12 +693,13 @@
     <int name="countryside_electric_highscore" value="25" />
     <int name="bog_truck_jumprec" value="20" />
     <int name="challenge_5_hovercraft_highscore" value="20" />
-    <int name="challenge_4_onewheeler_highscore" value="20" />
+    <int name="challenge_4_onewheeler_highscore" value="25" />
     <int name="haunted_hippievan_highscore" value="25" />
     <int name="junkyard_chestconsumed" value="1" />
     <int name="tricktrack_hippievan_jumprec" value="20" />
     <int name="ragnarok_tank_jumprec" value="20" />
     <int name="BACKFLIPS_IN_ONE_RUN_10_unlocked" value="1" />
+    <int name="highway_fastbike_highscore" value="0" />
     <int name="factory_minibike_jumprec" value="20" />
     <int name="mountain_electric_highscore" value="25" />
     <int name="sleigh_mastery_unlocked" value="1" />
@@ -716,6 +745,7 @@
     <int name="construction_screwfinger_jumprec" value="20" />
     <int name="bubblecar_rocketH" value="20" />
     <int name="construction_custom1_highscore" value="25" />
+    <string name="country_code"></string>
     <int name="night_aircar_jumprec" value="0" />
     <int name="challenge_3_electric_jumprec" value="20" />
     <int name="POTATO_PICKER_unlocked" value="0" />
@@ -724,6 +754,7 @@
     <int name="rooftops_hovercraft_jumprec" value="20" />
     <int name="prog_dieseltruck_highscore" value="25" />
     <int name="night_sleigh_highscore" value="25" />
+    <int name="challenge_4_fastbike_highscore" value="0" />
     <int name="ragnarok_rallycar_highscore" value="25" />
     <int name="actionhero_hippievan_jumprec" value="0" />
     <int name="challenge_6_rallycar_jumprec" value="20" />
@@ -735,7 +766,7 @@
     <int name="actionhero_rallycar_highscore" value="0" />
     <int name="alienplanet_monster_highscore" value="25" />
     <int name="rooftops_firetruck_jumprec" value="20" />
-    <int name="last_saved_timestamp" value="1709509321" />
+    <int name="last_saved_timestamp" value="1743224828" />
     <int name="actionhero_ambulance_jumprec" value="0" />
     <int name="challenge_4_tractor_jumprec" value="20" />
     <int name="challenge_4_dragster_jumprec" value="20" />
@@ -768,6 +799,7 @@
     <int name="prog_policecar_highscore" value="25" />
     <int name="mega_highway_screwfinger_jumprec" value="0" />
     <int name="northpole_spider_jumprec" value="20" />
+    <int name="mountain_fastbike_highscore" value="0" />
     <int name="highway_rallycar_highscore" value="25" />
     <int name="policecar_fuel" value="20" />
     <int name="bootcamp_quadbike_jumprec" value="20" />
@@ -778,7 +810,7 @@
     <int name="challenge_7_bubblecar_highscore" value="20" />
     <int name="beach_superhillclimber_highscore" value="0" />
     <int name="brew" value="0" />
-    <int name="hachiroku_stiffness" value="1" />
+    <int name="hachiroku_stiffness" value="10" />
     <int name="challenge_4_hippievan_jumprec" value="20" />
     <int name="retro_mission_moonlander_jumprec" value="0" />
     <int name="construction_snowmobile_jumprec" value="20" />
@@ -800,7 +832,7 @@
     <int name="challenge_4_chopperbike_jumprec" value="20" />
     <int name="tricktrack_quadbike_highscore" value="25" />
     <int name="spider_mastery_unlocked" value="1" />
-    <int name="minibike_fuel" value="20" />
+    <int name="minibike_fuel" value="25" />
     <int name="seasons_hovercraft_highscore" value="25" />
     <int name="volcano_hovercraft_highscore" value="25" />
     <int name="mountain_onewheeler_highscore" value="25" />
@@ -817,6 +849,7 @@
     <int name="neon_hotrod_jumprec" value="20" />
     <int name="challenge_1_quadbike_highscore" value="20" />
     <int name="challenge_4_unlocked" value="1" />
+    <int name="forest_fastbike_jumprec" value="0" />
     <int name="mountain_lowrider_jumprec" value="20" />
     <int name="construction_quadbike_highscore" value="25" />
     <int name="highway_rallycar_jumprec" value="20" />
@@ -843,8 +876,9 @@
     <int name="policecar_suspensionH" value="20" />
     <int name="beach_highscore" value="25" />
     <int name="arctic_screwfinger_jumprec" value="20" />
+    <int name="spacemission_fastbike_jumprec" value="0" />
     <int name="alienplanet_sleigh_jumprec" value="20" />
-    <int name="challenge_4_sleigh_highscore" value="20" />
+    <int name="challenge_4_sleigh_highscore" value="25" />
     <int name="spacemission_shapeshifter_jumprec" value="20" />
     <int name="rollercoaster_hachiroku_jumprec" value="0" />
     <int name="tank_fuel" value="20" />
@@ -878,7 +912,7 @@
     <int name="arctic_dunebuggy_jumprec" value="20" />
     <int name="rollercoaster_aircar_jumprec" value="0" />
     <int name="mars_truck_jumprec" value="20" />
-    <int name="previous_day_in_month" value="4" />
+    <int name="previous_day_in_month" value="29" />
     <int name="challenge_6_shapeshifter_highscore" value="25" />
     <int name="cave_policecar_jumprec" value="20" />
     <int name="mountain_train_highscore" value="25" />
@@ -899,6 +933,7 @@
     <int name="mars_trophytruck_highscore" value="25" />
     <int name="challenge_1_monster_jumprec" value="20" />
     <int name="junkyard_snowmobile_highscore" value="25" />
+    <int name="mission_1_claimed" value="0" />
     <int name="rooftops_truck_jumprec" value="20" />
     <int name="neon_minibike_jumprec" value="20" />
     <int name="nuclear_dieseltruck_jumprec" value="20" />
@@ -925,10 +960,12 @@
     <int name="cave_hippievan_jumprec" value="20" />
     <int name="forest_firetruck_jumprec" value="20" />
     <int name="super_countryside_hovercraft_jumprec" value="0" />
+    <int name="bog_fastbike_highscore" value="0" />
     <int name="challenge_5_snowmobile_jumprec" value="20" />
     <int name="volcano_policecar_jumprec" value="20" />
     <int name="spacemission_minibike_jumprec" value="20" />
     <int name="challenge_5_truck_jumprec" value="20" />
+    <int name="fingersports_moonlander_highscore" value="0" />
     <int name="GP_19NP" value="1" />
     <int name="factory_ambulance_highscore" value="25" />
     <int name="cave_truck_jumprec" value="20" />
@@ -955,7 +992,7 @@
     <int name="rooftops_truck_highscore" value="25" />
     <int name="tricktrack_minibike_jumprec" value="20" />
     <int name="northpole_tractor_highscore" value="25" />
-    <int name="hachiroku_tiresH" value="1" />
+    <int name="hachiroku_tiresH" value="15" />
     <int name="challenge_7_monster_highscore" value="20" />
     <int name="challenge_2_carcar_jumprec" value="0" />
     <int name="nuclear_quadbike_jumprec" value="20" />
@@ -971,7 +1008,7 @@
     <int name="GP_24CN" value="5" />
     <int name="suburbs_spider_highscore" value="0" />
     <int name="suburbs_bike_jumprec" value="0" />
-    <int name="countryside_jeep_highscore" value="279" />
+    <int name="countryside_jeep_highscore" value="679" />
     <int name="arcticcave_train_highscore" value="25" />
     <int name="mudpool_screwfinger_jumprec" value="20" />
     <int name="mudpool_hachiroku_highscore" value="0" />
@@ -1008,7 +1045,7 @@
     <int name="challenge_1_firetruck_highscore" value="20" />
     <int name="bog_bike_highscore" value="25" />
     <int name="unlockg" value="0" />
-    <int name="lowrider_tiresH" value="20" />
+    <int name="lowrider_tiresH" value="25" />
     <int name="suburbs_bigfinger_jumprec" value="0" />
     <int name="countryside_snowmobile_highscore" value="25" />
     <int name="jungle_superoffroad_jumprec" value="20" />
@@ -1057,6 +1094,7 @@
     <int name="xmas_truck_jumprec" value="20" />
     <int name="jungle_hachiroku_highscore" value="0" />
     <int name="highway_trophytruck_highscore" value="25" />
+    <int name="construction_fastbike_jumprec" value="0" />
     <string name="onewheeler_attachments"></string>
     <int name="cave_lowrider_highscore" value="25" />
     <int name="moon_luxury_jumprec" value="20" />
@@ -1084,7 +1122,7 @@
     <int name="prog_hovercraft_jumprec" value="20" />
     <int name="challenge_4_carcar_jumprec" value="0" />
     <int name="junkyard_custom1_highscore" value="25" />
-    <int name="actionhero_unlocked" value="0" />
+    <int name="actionhero_unlocked" value="1" />
     <int name="LOYAL_CUSTOMER_steps" value="0" />
     <int name="seasons_touristbus_jumprec" value="20" />
     <int name="rooftops_bike_highscore" value="25" />
@@ -1095,18 +1133,22 @@
     <int name="super_countryside_chopperbike_highscore" value="0" />
     <int name="mega_desert_moonlander_highscore" value="0" />
     <int name="countryside_racecar_jumprec" value="20" />
-    <int name="moonlander_fuel" value="20" />
+    <int name="moonlander_fuel" value="25" />
     <int name="car_selection" value="35" />
     <int name="TOTAL_FLIPS_10_steps" value="20" />
     <int name="highway_chopperbike_highscore" value="25" />
     <int name="touristbus_fuel" value="20" />
     <int name="hovercraft_frictionH" value="20" />
+    <int name="fingersports_unlocked" value="1" />
     <int name="moon_luxury_highscore" value="25" />
+    <int name="retro_mission_fastbike_highscore" value="0" />
     <int name="night_hovercraft_jumprec" value="20" />
     <int name="moon_rallycar_jumprec" value="20" />
+    <int name="bootcamp_fastbike_jumprec" value="0" />
     <int name="prog_tank_jumprec" value="20" />
     <int name="desert_hotrod_jumprec" value="20" />
     <int name="snowmobile_mastery_unlocked" value="1" />
+    <int name="countryside_fastbike_highscore" value="0" />
     <string name="bubblecar_attachments"></string>
     <int name="bootcamp_ambulance_jumprec" value="20" />
     <int name="jungle_tractor_jumprec" value="20" />
@@ -1132,6 +1174,7 @@
     <int name="challenge_7_hippievan_jumprec" value="20" />
     <int name="prog_bubblecar_jumprec" value="20" />
     <int name="challenge_3_touristbus_highscore" value="20" />
+    <int name="fastbike_engine" value="1" />
     <int name="nuclear_quadbike_highscore" value="25" />
     <int name="forest_dieseltruck_highscore" value="25" />
     <int name="arcticcave_monster_jumprec" value="20" />
@@ -1144,6 +1187,7 @@
     <int name="highway_electric_highscore" value="25" />
     <int name="bog_ambulance_highscore" value="25" />
     <int name="actionhero_spider_highscore" value="0" />
+    <int name="fingersports_superhillclimber_jumprec" value="0" />
     <int name="GP_19CN" value="8" />
     <int name="desert_spider_jumprec" value="20" />
     <int name="challenge_4_trophytruck_jumprec" value="20" />
@@ -1159,7 +1203,8 @@
     <int name="bog_onewheeler_highscore" value="25" />
     <int name="haunted_moonlander_jumprec" value="20" />
     <int name="super_countryside_touristbus_jumprec" value="0" />
-    <int name="challenge_4_dunebuggy_highscore" value="20" />
+    <string name="lippujaon">true</string>
+    <int name="challenge_4_dunebuggy_highscore" value="25" />
     <int name="night_monster_jumprec" value="20" />
     <int name="GP_23UL" value="0" />
     <int name="super_countryside_hachiroku_highscore" value="0" />
@@ -1176,8 +1221,10 @@
     <int name="challenge_4_bike_jumprec" value="20" />
     <int name="highway_hotrod_jumprec" value="20" />
     <int name="TOTAL_FLIPS_1_000_unlocked" value="1" />
-    <int name="challenge_4_monster_highscore" value="20" />
+    <int name="challenge_4_monster_highscore" value="25" />
+    <int name="mustontulluurheiluhullu" value="305419890" />
     <int name="super_countryside_snowmobile_highscore" value="0" />
+    <int name="fingersports_spider_jumprec" value="0" />
     <int name="challenge_2_tractor_jumprec" value="20" />
     <int name="construction_highscore" value="25" />
     <int name="SINGLE_RUN_1_000_000_steps" value="20" />
@@ -1185,15 +1232,18 @@
     <int name="NEON_KING_steps" value="20" />
     <int name="aircar_mastery_unlocked" value="0" />
     <int name="mudpool_onewheeler_highscore" value="25" />
-    <int name="challenge_4_electric_highscore" value="20" />
+    <int name="challenge_4_electric_highscore" value="25" />
+    <int name="challenge_2_fastbike_jumprec" value="0" />
     <int name="neon_unlocked" value="1" />
     <int name="mega_desert_train_highscore" value="0" />
     <int name="challenge_7_jeep_jumprec" value="20" />
-    <int name="jeep_mastery_steps" value="452" />
+    <int name="jeep_mastery_steps" value="5443" />
     <int name="retro_mission_racecar_jumprec" value="0" />
     <int name="ragnarok_tank_highscore" value="25" />
     <int name="mudpool_ambulance_highscore" value="25" />
     <int name="mudpool_sleigh_highscore" value="25" />
+    <int name="spacemission_fastbike_highscore" value="0" />
+    <int name="ragnarok_fastbike_jumprec" value="0" />
     <int name="construction_snowmobile_highscore" value="25" />
     <int name="challenge_5_carcar_jumprec" value="0" />
     <int name="mountain_racecar_jumprec" value="20" />
@@ -1238,7 +1288,7 @@
     <int name="challenge_3_level" value="20" />
     <int name="bootcamp_chopperbike_jumprec" value="20" />
     <int name="mars_lowrider_highscore" value="25" />
-    <int name="train_fuelH" value="20" />
+    <int name="train_fuelH" value="25" />
     <int name="rainbow_superhillclimber_highscore" value="0" />
     <int name="bootcamp_highscore" value="25" />
     <int name="volcano_tractor_highscore" value="25" />
@@ -1253,12 +1303,14 @@
     <int name="challenge_3_chestconsumed" value="1" />
     <int name="night_tractor_jumprec" value="20" />
     <int name="beach_chestconsumed" value="1" />
+    <int name="fingersports_superoffroad_highscore" value="0" />
     <int name="tricktrack_dieseltruck_highscore" value="25" />
     <int name="lowrider_suspension_rear" value="20" />
     <int name="construction_tractor_highscore" value="25" />
     <int name="highway_train_jumprec" value="20" />
     <int name="moon_aircar_jumprec" value="0" />
     <int name="mega_highway_snowmobile_jumprec" value="0" />
+    <int name="rainbow_fastbike_jumprec" value="0" />
     <int name="haunted_snowmobile_jumprec" value="20" />
     <int name="tricktrack_bike_jumprec" value="20" />
     <int name="jungle_racecar_jumprec" value="20" />
@@ -1268,7 +1320,7 @@
     <int name="jungle_bubblecar_jumprec" value="20" />
     <int name="touristbus_mastery_unlocked" value="1" />
     <int name="rollercoaster_shapeshifter_highscore" value="25" />
-    <int name="challenge_4_hovercraft_highscore" value="20" />
+    <int name="challenge_4_hovercraft_highscore" value="25" />
     <int name="challenge_4_chestconsumed" value="1" />
     <int name="challenge_1_rallycar_highscore" value="20" />
     <int name="touristbus_engineH" value="20" />
@@ -1297,7 +1349,7 @@
     <int name="shapeshifter_mastery_unlocked" value="1" />
     <int name="STAGES_UNLOCKED_2_steps" value="20" />
     <int name="bootcamp_bike_jumprec" value="20" />
-    <int name="onewheeler_tiresH" value="20" />
+    <int name="onewheeler_tiresH" value="25" />
     <int name="junkyard_dunebuggy_jumprec" value="20" />
     <int name="xmas_luxury_highscore" value="25" />
     <int name="tricktrack_touristbus_jumprec" value="20" />
@@ -1338,11 +1390,13 @@
     <int name="challenge_6_carcar_jumprec" value="0" />
     <int name="rollercoaster_hovercraft_jumprec" value="20" />
     <int name="jungle_level" value="25" />
+    <int name="mega_desert_fastbike_highscore" value="0" />
     <int name="countryside_dunebuggy_jumprec" value="20" />
     <int name="night_rallycar_jumprec" value="20" />
     <int name="mega_highway_rallycar_highscore" value="0" />
     <int name="haunted_rallycar_highscore" value="25" />
     <int name="challenge_1_minibike_highscore" value="20" />
+    <int name="night_fastbike_jumprec" value="0" />
     <int name="forest_touristbus_jumprec" value="20" />
     <int name="neon_hippievan_jumprec" value="20" />
     <int name="challenge_1_policecar_highscore" value="20" />
@@ -1357,7 +1411,7 @@
     <int name="mega_highway_superoffroad_highscore" value="0" />
     <int name="junkyard_sleigh_jumprec" value="20" />
     <int name="mudpool_dragster_jumprec" value="20" />
-    <int name="challenge_4_luxury_highscore" value="20" />
+    <int name="challenge_4_luxury_highscore" value="25" />
     <int name="forest_policecar_jumprec" value="20" />
     <int name="cave_dunebuggy_jumprec" value="20" />
     <int name="rainbow_superoffroad_jumprec" value="20" />
@@ -1422,6 +1476,7 @@
     <int name="challenge_1_snowmobile_jumprec" value="20" />
     <int name="rainbow_superhillclimber_jumprec" value="0" />
     <int name="factory_dunebuggy_highscore" value="25" />
+    <int name="rollercoaster_fastbike_jumprec" value="0" />
     <int name="actionhero_shapeshifter_highscore" value="0" />
     <int name="GP_28UL" value="0" />
     <int name="tricktrack_dragster_jumprec" value="20" />
@@ -1438,7 +1493,7 @@
     <int name="rooftops_spider_highscore" value="25" />
     <int name="night_luxury_highscore" value="25" />
     <int name="challenge_3_policecar_jumprec" value="20" />
-    <int name="gdpr_requested" value="20" />
+    <int name="gdpr_requested" value="1" />
     <int name="beach_bubblecar_jumprec" value="20" />
     <int name="mega_highway_chestconsumed" value="0" />
     <int name="rallycar_tiresH" value="20" />
@@ -1454,7 +1509,7 @@
     <int name="rooftops_rallycar_highscore" value="25" />
     <int name="seasons_bigfinger_highscore" value="25" />
     <int name="challenge_5_chestconsumed" value="1" />
-    <int name="aircar_unlocked" value="0" />
+    <int name="aircar_unlocked" value="1" />
     <int name="forest_minibike_highscore" value="25" />
     <int name="northpole_screwfinger_highscore" value="25" />
     <int name="luxury_mastery_steps" value="20" />
@@ -1465,7 +1520,7 @@
     <int name="screw_finger_fuelH" value="20" />
     <int name="forest_truck_jumprec" value="20" />
     <int name="WATCH_CREDITS_steps" value="20" />
-    <int name="show_eula_counter" value="3" />
+    <int name="show_eula_counter" value="0" />
     <int name="mars_superoffroad_jumprec" value="20" />
     <int name="arcticcave_minibike_highscore" value="25" />
     <int name="countryside_trophytruck_highscore" value="25" />
@@ -1521,6 +1576,7 @@
     <int name="beach_level" value="25" />
     <int name="rooftops_shapeshifter_highscore" value="25" />
     <int name="retro_mission_shapeshifter_highscore" value="0" />
+    <int name="super_countryside_fastbike_highscore" value="0" />
     <int name="challenge_1_monster_highscore" value="20" />
     <int name="ragnarok_jeep_highscore" value="25" />
     <int name="prog_quadbike_jumprec" value="20" />
@@ -1538,6 +1594,7 @@
     <int name="challenge_1_chopperbike_jumprec" value="20" />
     <int name="beach_tractor_jumprec" value="20" />
     <int name="rainbow_firetruck_highscore" value="25" />
+    <int name="cave_fastbike_jumprec" value="0" />
     <int name="moon_hovercraft_highscore" value="25" />
     <int name="cave_luxury_jumprec" value="20" />
     <int name="suburbs_lowrider_highscore" value="0" />
@@ -1556,7 +1613,7 @@
     <int name="mars_dieseltruck_jumprec" value="20" />
     <int name="rooftops_hotrod_jumprec" value="20" />
     <int name="adsWatchedToday" value="0" />
-    <int name="train_fuel" value="20" />
+    <int name="train_fuel" value="25" />
     <int name="night_hachiroku_jumprec" value="0" />
     <int name="cave_ambulance_highscore" value="25" />
     <int name="mudpool_lowrider_jumprec" value="20" />
@@ -1590,6 +1647,7 @@
     <int name="moon_hachiroku_highscore" value="0" />
     <int name="rollercoaster_dragster_highscore" value="25" />
     <int name="challenge_3_superhillclimber_highscore" value="0" />
+    <int name="challenge_4_fastbike_jumprec" value="0" />
     <int name="desert_onewheeler_jumprec" value="20" />
     <int name="TOTAL_DISTANCE_100_000_steps" value="1143" />
     <int name="mudpool_truck_jumprec" value="20" />
@@ -1671,6 +1729,7 @@
     <int name="seasons_moonlander_jumprec" value="20" />
     <int name="desert_hippievan_highscore" value="25" />
     <int name="jungle_truck_highscore" value="25" />
+    <int name="fingersports_superoffroad_jumprec" value="0" />
     <int name="xmas_unlocked" value="1" />
     <int name="tricktrack_truck_jumprec" value="20" />
     <int name="mountain_moonlander_highscore" value="25" />
@@ -1692,9 +1751,12 @@
     <int name="retro_mission_firetruck_jumprec" value="0" />
     <int name="construction_policecar_jumprec" value="20" />
     <int name="challenge_1_touristbus_highscore" value="20" />
+    <int name="fingersports_aircar_highscore" value="0" />
     <int name="bootcamp_luxury_jumprec" value="20" />
     <int name="mudpool_shapeshifter_jumprec" value="20" />
+    <int name="fingersports_luxury_highscore" value="0" />
     <int name="tricktrack_level" value="25" />
+    <int name="retro_mission_fastbike_jumprec" value="0" />
     <int name="rollercoaster_hovercraft_highscore" value="25" />
     <int name="moon_bike_highscore" value="25" />
     <int name="construction_hotrod_highscore" value="25" />
@@ -1703,6 +1765,7 @@
     <int name="screw_finger_stabilityH" value="20" />
     <string name="touristbus_attachments"></string>
     <int name="arcticcave_bigfinger_jumprec" value="20" />
+    <int name="ruutu" value="2050506521" />
     <int name="arctic_spider_highscore" value="25" />
     <int name="xmas_moonlander_highscore" value="25" />
     <int name="mudpool_touristbus_jumprec" value="20" />
@@ -1724,9 +1787,11 @@
     <int name="rooftops_bigfinger_jumprec" value="20" />
     <int name="prog_snowmobile_highscore" value="25" />
     <int name="GP_16AN" value="1" />
+    <int name="fingersports_firetruck_highscore" value="0" />
     <int name="retro_mission_jeep_jumprec" value="0" />
     <int name="retro_hiscoretable_0" value="4999490" />
     <int name="bubblecar_unlocked" value="1" />
+    <int name="fingersports_lowrider_highscore" value="0" />
     <int name="alienplanet_rallycar_jumprec" value="20" />
     <int name="retro_hiscoretable_4" value="5719374" />
     <int name="retro_hiscoretable_3" value="0" />
@@ -1738,6 +1803,7 @@
     <int name="retro_hiscoretable_8" value="5132116" />
     <int name="retro_hiscoretable_7" value="0" />
     <int name="retro_hiscoretable_6" value="1792" />
+    <int name="fingersports_dunebuggy_highscore" value="0" />
     <int name="jungle_moonlander_highscore" value="25" />
     <int name="retro_hiscoretable_5" value="700" />
     <int name="challenge_2_hippievan_jumprec" value="20" />
@@ -1766,6 +1832,7 @@
     <int name="challenge_1_shapeshifter_highscore" value="20" />
     <int name="mega_highway_chopperbike_jumprec" value="0" />
     <string name="aircar_attachments"></string>
+    <int name="fingersports_electric_highscore" value="0" />
     <int name="nuclear_jeep_jumprec" value="20" />
     <int name="challenge_2_tractor_highscore" value="20" />
     <int name="alienplanet_dieseltruck_highscore" value="25" />
@@ -1796,6 +1863,7 @@
     <int name="challenge_6_lowrider_highscore" value="25" />
     <int name="super_countryside_bike_highscore" value="0" />
     <int name="PICKUP_FUEL_WITH_EMPTY_TANK_steps" value="20" />
+    <int name="moon_fastbike_jumprec" value="0" />
     <int name="northpole_aircar_jumprec" value="0" />
     <int name="suburbs_train_highscore" value="0" />
     <int name="challenge_7_superoffroad_jumprec" value="20" />
@@ -1846,6 +1914,7 @@
     <int name="mega_desert_hovercraft_highscore" value="0" />
     <int name="beach_electric_jumprec" value="20" />
     <int name="tricktrack_onewheeler_highscore" value="25" />
+    <int name="fingersports_bubblecar_jumprec" value="0" />
     <int name="actionhero_carcar_jumprec" value="0" />
     <int name="tricktrack_minibike_highscore" value="25" />
     <int name="challenge_4_bubblecar_jumprec" value="20" />
@@ -1865,7 +1934,7 @@
     <int name="seasons_spider_highscore" value="25" />
     <int name="ragnarok_spider_highscore" value="25" />
     <int name="jungle_dunebuggy_highscore" value="25" />
-    <int name="actionhero_bubblecar_highscore" value="0" />
+    <int name="actionhero_bubblecar_highscore" value="928" />
     <int name="volcano_truck_jumprec" value="20" />
     <int name="neon_hippievan_highscore" value="25" />
     <int name="ragnarok_sleigh_highscore" value="25" />
@@ -1879,13 +1948,16 @@
     <int name="challenge_7_hovercraft_highscore" value="20" />
     <int name="tricktrack_superoffroad_highscore" value="25" />
     <int name="superoffroad_fuelH" value="20" />
+    <int name="fingersports_fastbike_highscore" value="0" />
     <int name="super_countryside_highscore" value="0" />
+    <int name="last_recorded_claims" value="0" />
     <int name="bootcamp_truck_jumprec" value="20" />
     <int name="mars_screwfinger_jumprec" value="20" />
     <int name="jungle_hippievan_highscore" value="25" />
     <int name="challenge_2_custom1_highscore" value="20" />
     <int name="desert_chopperbike_jumprec" value="20" />
     <int name="moon_dieseltruck_jumprec" value="20" />
+    <int name="fingersports_rallycar_jumprec" value="0" />
     <int name="offlineRewardGarageCards" value="0" />
     <int name="bog_aircar_jumprec" value="0" />
     <int name="neon_sleigh_highscore" value="25" />
@@ -1899,6 +1971,7 @@
     <int name="jungle_sleigh_jumprec" value="20" />
     <int name="bog_unlocked" value="1" />
     <int name="desert_lowrider_highscore" value="25" />
+    <int name="tasohoula" value="305419896" />
     <int name="construction_custom1_jumprec" value="20" />
     <int name="bog_dunebuggy_jumprec" value="20" />
     <int name="bootcamp_aircar_jumprec" value="0" />
@@ -1909,7 +1982,7 @@
     <int name="volcano_superhillclimber_jumprec" value="0" />
     <int name="desert_hovercraft_highscore" value="25" />
     <int name="night_quadbike_highscore" value="25" />
-    <int name="challenge_4_custom1_highscore" value="20" />
+    <int name="challenge_4_custom1_highscore" value="25" />
     <int name="highway_aircar_jumprec" value="0" />
     <int name="xmas_aircar_highscore" value="0" />
     <int name="actionhero_tank_highscore" value="0" />
@@ -1921,7 +1994,7 @@
     <int name="super_countryside_luxury_highscore" value="0" />
     <int name="monster_engineH" value="20" />
     <int name="bog_chopperbike_jumprec" value="20" />
-    <int name="challenge_4_firetruck_highscore" value="20" />
+    <int name="challenge_4_firetruck_highscore" value="25" />
     <int name="retro_mission_minibike_jumprec" value="0" />
     <int name="arcticcave_spider_highscore" value="25" />
     <int name="desert_screwfinger_highscore" value="25" />
@@ -1932,6 +2005,7 @@
     <int name="prog_touristbus_highscore" value="25" />
     <int name="firetruck_fuel" value="20" />
     <int name="highway_bubblecar_jumprec" value="20" />
+    <int name="beach_fastbike_jumprec" value="0" />
     <int name="northpole_jeep_highscore" value="25" />
     <int name="tricktrack_superoffroad_jumprec" value="20" />
     <int name="xmas_carcar_jumprec" value="0" />
@@ -1948,6 +2022,7 @@
     <int name="alienplanet_bigfinger_jumprec" value="20" />
     <int name="challenge_3_firetruck_highscore" value="20" />
     <int name="rollercoaster_monster_highscore" value="25" />
+    <int name="beach_fastbike_highscore" value="0" />
     <string name="language">translations/english.po</string>
     <int name="bundlerefsh" value="1709509008" />
     <int name="bootcamp_trophytruck_highscore" value="25" />
@@ -1988,9 +2063,13 @@
     <int name="retro_mission_chopperbike_highscore" value="0" />
     <int name="rainbow_tractor_highscore" value="25" />
     <int name="ragnarok_screwfinger_highscore" value="25" />
-    <int name="superhillclimber_unlocked" value="0" />
+    <int name="superhillclimber_unlocked" value="1" />
+    <int name="fastbike_turbo" value="1" />
     <int name="northpole_unlocked" value="1" />
     <int name="challenge_4_aircar_highscore" value="0" />
+    <int name="fingersports_carcar_highscore" value="0" />
+    <int name="challenge_3_fastbike_jumprec" value="0" />
+    <int name="fingersports_carcar_jumprec" value="0" />
     <int name="actionhero_aircar_highscore" value="0" />
     <int name="mudpool_hippievan_jumprec" value="20" />
     <int name="superoffroad_engineH" value="20" />
@@ -2015,6 +2094,7 @@
     <int name="factory_hippievan_highscore" value="25" />
     <int name="mars_rallycar_jumprec" value="20" />
     <int name="northpole_bubblecar_jumprec" value="20" />
+    <int name="fingersports_train_jumprec" value="0" />
     <int name="neon_trophytruck_highscore" value="25" />
     <int name="highway_tractor_jumprec" value="20" />
     <int name="spacemission_carcar_jumprec" value="0" />
@@ -2042,13 +2122,14 @@
     <int name="xmas_sleigh_jumprec" value="20" />
     <int name="jungle_tractor_highscore" value="25" />
     <int name="nuclear_moonlander_jumprec" value="20" />
-    <int name="bubblecar_tires" value="20" />
+    <int name="bubblecar_tires" value="25" />
     <int name="alienplanet_quadbike_highscore" value="25" />
     <int name="snowmobile_engineH" value="20" />
     <int name="countryside_policecar_jumprec" value="20" />
     <int name="GP_21CN" value="37" />
     <int name="mega_desert_lowrider_highscore" value="0" />
     <int name="factory_level" value="25" />
+    <int name="mars_fastbike_highscore" value="0" />
     <int name="jungle_tank_highscore" value="25" />
     <int name="tricktrack_custom1_highscore" value="25" />
     <int name="alienplanet_bike_jumprec" value="20" />
@@ -2063,11 +2144,12 @@
     <int name="construction_electric_highscore" value="25" />
     <int name="haunted_hachiroku_jumprec" value="0" />
     <int name="mars_tank_highscore" value="25" />
+    <int name="fingersports_snowmobile_jumprec" value="0" />
     <int name="arcticcave_trophytruck_highscore" value="25" />
     <int name="northpole_quadbike_jumprec" value="20" />
     <int name="carcar_suspensionH" value="1" />
     <int name="spacemission_trophytruck_jumprec" value="20" />
-    <int name="moonlander_fuelH" value="20" />
+    <int name="moonlander_fuelH" value="25" />
     <int name="arctic_dieseltruck_highscore" value="25" />
     <int name="challenge_1_superhillclimber_jumprec" value="0" />
     <int name="factory_chopperbike_jumprec" value="20" />
@@ -2087,6 +2169,7 @@
     <int name="tricktrack_electric_highscore" value="25" />
     <int name="neon_jeep_jumprec" value="20" />
     <int name="trophytruck_suspension" value="20" />
+    <int name="fingersports_tank_highscore" value="0" />
     <int name="ragnarok_tractor_highscore" value="25" />
     <int name="challenge_1_spider_highscore" value="20" />
     <int name="haunted_tractor_jumprec" value="20" />
@@ -2095,6 +2178,7 @@
     <int name="northpole_hovercraft_highscore" value="25" />
     <int name="neon_tractor_jumprec" value="20" />
     <int name="rooftops_hachiroku_jumprec" value="0" />
+    <int name="sahanpuru" value="305419896" />
     <int name="challenge_3_lowrider_highscore" value="20" />
     <int name="factory_dragster_jumprec" value="20" />
     <int name="arctic_shapeshifter_jumprec" value="20" />
@@ -2124,6 +2208,7 @@
     <int name="actionhero_lowrider_highscore" value="0" />
     <int name="nuclear_screwfinger_highscore" value="25" />
     <int name="ragnarok_lowrider_highscore" value="25" />
+    <int name="jungle_fastbike_jumprec" value="0" />
     <int name="mega_desert_chestconsumed" value="0" />
     <int name="prog_screwfinger_jumprec" value="20" />
     <int name="superhillclimber_suspensionH" value="1" />
@@ -2146,7 +2231,7 @@
     <int name="challenge_2_onewheeler_jumprec" value="20" />
     <int name="moon_shapeshifter_highscore" value="25" />
     <int name="electric_chestconsumed" value="1" />
-    <int name="CHTS" value="1620794364" />
+    <int name="CHTS" value="1615781081" />
     <int name="superhillclimber_awdH" value="1" />
     <int name="super_countryside_dieseltruck_jumprec" value="0" />
     <int name="tricktrack_hovercraft_jumprec" value="20" />
@@ -2154,6 +2239,7 @@
     <int name="arcticcave_superoffroad_jumprec" value="20" />
     <int name="bootcamp_luxury_highscore" value="25" />
     <int name="suburbs_firetruck_highscore" value="0" />
+    <int name="haunted_fastbike_jumprec" value="0" />
     <int name="challenge_7_monster_jumprec" value="20" />
     <int name="haunted_truck_jumprec" value="20" />
     <int name="countryside_lowrider_jumprec" value="20" />
@@ -2184,6 +2270,7 @@
     <int name="bootcamp_tractor_highscore" value="25" />
     <int name="alienplanet_hovercraft_jumprec" value="20" />
     <int name="super_countryside_dragster_highscore" value="0" />
+    <int name="fingersports_dunebuggy_jumprec" value="0" />
     <int name="challenge_4_minibike_jumprec" value="20" />
     <int name="train_suspension" value="20" />
     <int name="challenge_2_electric_jumprec" value="20" />
@@ -2241,12 +2328,13 @@
     <int name="nuclear_carcar_highscore" value="0" />
     <int name="arctic_train_highscore" value="25" />
     <int name="GP_17NP" value="1" />
-    <int name="hachiroku_engine" value="1" />
+    <int name="hachiroku_engine" value="15" />
     <int name="GDPR_consent" value="1" />
     <int name="arctic_bike_jumprec" value="20" />
     <int name="beach_hippievan_jumprec" value="20" />
     <int name="prog_dunebuggy_jumprec" value="20" />
     <int name="super_countryside_carcar_highscore" value="0" />
+    <int name="fingersports_custom1_highscore" value="0" />
     <int name="super_countryside_shapeshifter_highscore" value="0" />
     <int name="cave_sleigh_highscore" value="25" />
     <int name="rooftops_unlocked" value="1" />
@@ -2263,7 +2351,7 @@
     <int name="mountain_carcar_highscore" value="0" />
     <int name="challenge_6_superoffroad_highscore" value="25" />
     <int name="prog_chopperbike_highscore" value="25" />
-    <int name="challenge_4_lowrider_highscore" value="20" />
+    <int name="challenge_4_lowrider_highscore" value="54" />
     <int name="actionhero_rallycar_jumprec" value="0" />
     <int name="nuclear_superhillclimber_highscore" value="0" />
     <int name="nuclear_truck_highscore" value="25" />
@@ -2277,7 +2365,7 @@
     <int name="truck_chestconsumed" value="1" />
     <int name="nuclear_carcar_jumprec" value="0" />
     <int name="suburbs_hotrod_jumprec" value="0" />
-    <int name="challenge_4_jeep_highscore" value="20" />
+    <int name="challenge_4_jeep_highscore" value="295" />
     <int name="nuclear_train_highscore" value="25" />
     <int name="tricktrack_rallycar_highscore" value="25" />
     <int name="highway_dieseltruck_highscore" value="25" />
@@ -2290,7 +2378,7 @@
     <int name="challenge_4_luxury_jumprec" value="20" />
     <int name="rooftops_superoffroad_jumprec" value="20" />
     <int name="ambulance_tires" value="20" />
-    <int name="onewheeler_tires" value="20" />
+    <int name="onewheeler_tires" value="25" />
     <int name="rollercoaster_minibike_jumprec" value="20" />
     <int name="tricktrack_luxury_jumprec" value="20" />
     <int name="alienplanet_snowmobile_highscore" value="25" />
@@ -2316,6 +2404,7 @@
     <int name="junkyard_monster_highscore" value="25" />
     <int name="super_countryside_tank_highscore" value="0" />
     <int name="haunted_chopperbike_highscore" value="25" />
+    <int name="fingersports_jeep_jumprec" value="0" />
     <int name="suburbs_chopperbike_highscore" value="0" />
     <int name="mega_highway_spider_highscore" value="0" />
     <int name="haunted_ambulance_jumprec" value="20" />
@@ -2324,11 +2413,13 @@
     <int name="super_countryside_superhillclimber_highscore" value="0" />
     <int name="mars_unlocked" value="1" />
     <int name="tricktrack_tractor_highscore" value="25" />
+    <int name="factory_fastbike_jumprec" value="0" />
     <int name="junkyard_train_jumprec" value="20" />
     <int name="snowmobile_fuelH" value="20" />
     <int name="spacemission_highscore" value="25" />
     <int name="alienplanet_firetruck_highscore" value="25" />
     <int name="beach_dragster_jumprec" value="20" />
+    <int name="fastbike_chestconsumed" value="0" />
     <int name="seasons_screwfinger_highscore" value="25" />
     <int name="actionhero_bike_jumprec" value="0" />
     <int name="rainbow_superoffroad_highscore" value="25" />
@@ -2376,6 +2467,7 @@
     <int name="mega_highway_tractor_jumprec" value="0" />
     <int name="northpole_firetruck_highscore" value="25" />
     <int name="shapeshifter_downforceH" value="20" />
+    <int name="fingersports_onewheeler_jumprec" value="0" />
     <int name="policecar_tires" value="20" />
     <int name="mega_desert_truck_jumprec" value="0" />
     <int name="challenge_3_onewheeler_jumprec" value="20" />
@@ -2399,7 +2491,7 @@
     <int name="haunted_onewheeler_jumprec" value="20" />
     <int name="challenge_2_jeep_highscore" value="20" />
     <int name="night_dieseltruck_jumprec" value="20" />
-    <int name="chalrew" value="140" />
+    <int name="chalrew" value="150" />
     <int name="racecar_engineH" value="20" />
     <int name="ragnarok_truck_jumprec" value="20" />
     <int name="challenge_3_truck_jumprec" value="20" />
@@ -2408,9 +2500,11 @@
     <int name="nuclear_aircar_highscore" value="0" />
     <int name="retro_mission_quadbike_highscore" value="0" />
     <int name="arctic_bigfinger_highscore" value="25" />
+    <int name="volcano_fastbike_jumprec" value="0" />
     <int name="alienplanet_hachiroku_jumprec" value="0" />
     <int name="mega_desert_onewheeler_jumprec" value="0" />
     <int name="xmas_racecar_jumprec" value="20" />
+    <int name="fingersports_shapeshifter_highscore" value="0" />
     <int name="xmas_truck_highscore" value="25" />
     <int name="policecar_engine" value="20" />
     <int name="challenge_5_firetruck_jumprec" value="20" />
@@ -2441,6 +2535,8 @@
     <int name="night_firetruck_jumprec" value="20" />
     <int name="desert_onewheeler_highscore" value="25" />
     <int name="countryside_aircar_highscore" value="0" />
+    <int name="fingersports_sleigh_jumprec" value="0" />
+    <int name="cave_fastbike_highscore" value="0" />
     <int name="seasons_tractor_jumprec" value="20" />
     <int name="highway_moonlander_highscore" value="25" />
     <int name="countryside_hippievan_highscore" value="25" />
@@ -2472,6 +2568,7 @@
     <int name="construction_hippievan_highscore" value="25" />
     <int name="mega_desert_aircar_jumprec" value="0" />
     <int name="challenge_6_chopperbike_highscore" value="25" />
+    <int name="fingersports_level" value="0" />
     <int name="rollercoaster_policecar_jumprec" value="20" />
     <int name="challenge_5_rallycar_jumprec" value="20" />
     <int name="arctic_superhillclimber_highscore" value="0" />
@@ -2493,7 +2590,7 @@
     <int name="rooftops_ambulance_jumprec" value="20" />
     <int name="mudpool_snowmobile_highscore" value="25" />
     <int name="junkyard_tank_jumprec" value="20" />
-    <int name="prog_highscore" value="102" />
+    <int name="prog_highscore" value="259" />
     <int name="rollercoaster_dunebuggy_highscore" value="25" />
     <int name="construction_truck_highscore" value="25" />
     <int name="nuclear_hachiroku_highscore" value="0" />
@@ -2522,7 +2619,7 @@
     <int name="retro_mission_onewheeler_jumprec" value="0" />
     <int name="volcano_quadbike_highscore" value="25" />
     <int name="minibike_engineH" value="20" />
-    <int name="challenge_4_screwfinger_highscore" value="20" />
+    <int name="challenge_4_screwfinger_highscore" value="25" />
     <int name="beach_sleigh_highscore" value="25" />
     <int name="nuclear_hippievan_highscore" value="25" />
     <int name="suburbs_onewheeler_jumprec" value="0" />
@@ -2571,6 +2668,7 @@
     <int name="bootcamp_firetruck_highscore" value="25" />
     <int name="forest_quadbike_jumprec" value="20" />
     <int name="rollercoaster_chestconsumed" value="1" />
+    <int name="moon_fastbike_highscore" value="0" />
     <int name="beach_firetruck_jumprec" value="20" />
     <int name="nuclear_racecar_jumprec" value="20" />
     <int name="spacemission_level" value="25" />
@@ -2593,9 +2691,11 @@
     <int name="challenge_1_luxury_highscore" value="20" />
     <int name="mega_desert_hachiroku_jumprec" value="0" />
     <int name="beach_truck_highscore" value="25" />
-    <int name="challenge_4_tractor_highscore" value="20" />
+    <int name="challenge_4_tractor_highscore" value="25" />
+    <int name="fastbike_tiresH" value="1" />
     <int name="neon_custom1_highscore" value="25" />
     <int name="cave_aircar_highscore" value="0" />
+    <int name="challenge_1_fastbike_highscore" value="0" />
     <int name="rallycar_mastery_steps" value="25" />
     <int name="mudpool_bubblecar_jumprec" value="20" />
     <int name="desert_touristbus_jumprec" value="20" />
@@ -2614,10 +2714,11 @@
     <int name="bootcamp_dunebuggy_jumprec" value="20" />
     <int name="forest_firetruck_highscore" value="25" />
     <int name="actionhero_spider_jumprec" value="0" />
+    <int name="rooftops_fastbike_highscore" value="0" />
     <int name="mars_hovercraft_jumprec" value="20" />
     <int name="desert_racecar_highscore" value="25" />
     <int name="mudpool_jeep_highscore" value="25" />
-    <int name="challenge_4_dragster_highscore" value="20" />
+    <int name="challenge_4_dragster_highscore" value="25" />
     <int name="spacemission_lowrider_highscore" value="25" />
     <int name="seasons_bigfinger_jumprec" value="20" />
     <int name="spacemission_unlocked" value="1" />
@@ -2638,7 +2739,7 @@
     <int name="junkyard_minibike_highscore" value="25" />
     <int name="factory_jeep_jumprec" value="20" />
     <int name="rollercoaster_jeep_jumprec" value="20" />
-    <int name="hachiroku_engineH" value="1" />
+    <int name="hachiroku_engineH" value="15" />
     <int name="arctic_lowrider_highscore" value="25" />
     <int name="spacemission_policecar_jumprec" value="20" />
     <int name="actionhero_bubblecar_jumprec" value="0" />
@@ -2649,6 +2750,7 @@
     <int name="nuclear_level" value="25" />
     <int name="electric_battery" value="20" />
     <int name="spacemission_quadbike_highscore" value="25" />
+    <int name="fingersports_screwfinger_highscore" value="0" />
     <int name="tricktrack_rallycar_jumprec" value="20" />
     <int name="moon_bigfinger_highscore" value="25" />
     <int name="hovercraft_stabilityH" value="20" />
@@ -2664,10 +2766,11 @@
     <int name="challenge_1_rallycar_jumprec" value="20" />
     <int name="bootcamp_hotrod_highscore" value="25" />
     <int name="GP_31AN" value="1" />
-    <int name="hachiroku_mastery_steps" value="0" />
+    <int name="hachiroku_mastery_steps" value="385" />
     <int name="alienplanet_shapeshifter_highscore" value="25" />
     <int name="jungle_hovercraft_highscore" value="25" />
     <int name="challenge_6_highscore" value="25" />
+    <int name="fingersports_policecar_jumprec" value="0" />
     <int name="highway_spider_highscore" value="25" />
     <int name="arcticcave_luxury_highscore" value="25" />
     <int name="JUNGLE_KING_unlocked" value="1" />
@@ -2706,7 +2809,7 @@
     <int name="spider_gripH" value="20" />
     <int name="STAGES_UNLOCKED_ALL_steps" value="20" />
     <int name="cave_minibike_highscore" value="25" />
-    <int name="bigfinger_fuelH" value="20" />
+    <int name="bigfinger_fuelH" value="25" />
     <int name="GP_13NP" value="1" />
     <int name="neon_highscore" value="25" />
     <int name="challenge_5_hippievan_jumprec" value="20" />
@@ -2720,6 +2823,7 @@
     <int name="highway_onewheeler_highscore" value="25" />
     <int name="xmas_electric_jumprec" value="20" />
     <int name="beach_screwfinger_highscore" value="25" />
+    <int name="fingersports_policecar_highscore" value="0" />
     <int name="junkyard_shapeshifter_highscore" value="25" />
     <int name="mars_custom1_jumprec" value="20" />
     <int name="GP_31CN" value="8" />
@@ -2744,18 +2848,22 @@
     <int name="mars_shapeshifter_highscore" value="25" />
     <int name="factory_racecar_highscore" value="25" />
     <int name="prog_hachiroku_highscore" value="0" />
+    <int name="bog_fastbike_jumprec" value="0" />
     <int name="night_racecar_jumprec" value="20" />
     <int name="rollercoaster_policecar_highscore" value="25" />
     <int name="TOTAL_FLIPS_10_unlocked" value="1" />
     <int name="countryside_firetruck_jumprec" value="20" />
     <int name="ragnarok_chopperbike_jumprec" value="20" />
     <int name="minibike_mastery_unlocked" value="1" />
+    <int name="tricktrack_fastbike_highscore" value="0" />
     <int name="mars_dunebuggy_jumprec" value="20" />
     <int name="rooftops_electric_highscore" value="25" />
     <int name="truck_tiresH" value="20" />
+    <int name="fingersports_spider_highscore" value="0" />
     <int name="construction_tank_jumprec" value="20" />
     <int name="challenge_7_bigfinger_jumprec" value="20" />
     <int name="haunted_unlocked" value="1" />
+    <int name="fingersports_hippievan_jumprec" value="0" />
     <int name="mars_racecar_highscore" value="25" />
     <int name="ambulance_fuel" value="20" />
     <int name="northpole_tank_jumprec" value="20" />
@@ -2774,13 +2882,14 @@
     <int name="cave_rallycar_highscore" value="25" />
     <int name="forest_truck_highscore" value="25" />
     <int name="haunted_electric_highscore" value="25" />
-    <int name="challenge_4_train_highscore" value="20" />
+    <int name="challenge_4_train_highscore" value="25" />
     <int name="junkyard_luxury_highscore" value="25" />
     <int name="countryside_bubblecar_highscore" value="25" />
     <int name="challenge_7_highscore" value="20" />
     <int name="cave_bike_jumprec" value="20" />
     <int name="seasons_chopperbike_jumprec" value="20" />
     <string name="chopperbike_attachments"></string>
+    <int name="northpole_fastbike_highscore" value="0" />
     <int name="nuclear_tractor_highscore" value="25" />
     <int name="jungle_lowrider_highscore" value="25" />
     <int name="seasons_level" value="25" />
@@ -2789,6 +2898,7 @@
     <int name="dragster_fuel" value="20" />
     <int name="arctic_highscore" value="25" />
     <int name="seasons_hotrod_jumprec" value="20" />
+    <int name="gdprLocation" value="2" />
     <int name="TOTAL_DISTANCE_1_000_unlocked" value="1" />
     <int name="beach_custom1_highscore" value="25" />
     <int name="minibike_tires" value="20" />
@@ -2814,6 +2924,7 @@
     <int name="countryside_bike_jumprec" value="20" />
     <int name="electric_mastery_steps" value="25" />
     <int name="mega_highway_lowrider_highscore" value="0" />
+    <int name="challenge_3_fastbike_highscore" value="0" />
     <int name="construction_hotrod_jumprec" value="20" />
     <int name="alienplanet_lowrider_highscore" value="25" />
     <int name="challenge_3_hotrod_jumprec" value="20" />
@@ -2832,6 +2943,7 @@
     <int name="challenge_5_train_jumprec" value="20" />
     <int name="trophytruck_tires" value="20" />
     <int name="rainbow_racecar_highscore" value="25" />
+    <int name="fingersports_hovercraft_highscore" value="0" />
     <int name="bootcamp_racecar_highscore" value="25" />
     <int name="jungle_dieseltruck_highscore" value="25" />
     <int name="jungle_screwfinger_highscore" value="25" />
@@ -2843,6 +2955,7 @@
     <int name="screwfinger_mastery_steps" value="25" />
     <int name="rollercoaster_chopperbike_jumprec" value="20" />
     <int name="neon_train_jumprec" value="20" />
+    <int name="prog_fastbike_highscore" value="0" />
     <int name="challenge_6_firetruck_highscore" value="25" />
     <int name="adfree" value="1" />
     <int name="touristbus_chestconsumed" value="1" />
@@ -2857,7 +2970,7 @@
     <int name="suburbs_quadbike_jumprec" value="0" />
     <int name="rooftops_racecar_highscore" value="25" />
     <int name="racecar_suspension" value="20" />
-    <int name="hachiroku_suspension" value="1" />
+    <int name="hachiroku_suspension" value="15" />
     <int name="mountain_monster_highscore" value="25" />
     <int name="snowmobile_tires" value="20" />
     <int name="trophytruck_mastery_unlocked" value="1" />
@@ -2896,6 +3009,7 @@
     <int name="spider_engine" value="10" />
     <int name="arcticcave_firetruck_highscore" value="25" />
     <int name="mega_desert_jeep_highscore" value="0" />
+    <int name="actionhero_fastbike_highscore" value="0" />
     <int name="chalv" value="1" />
     <int name="tricktrack_trophytruck_jumprec" value="20" />
     <int name="bog_racecar_highscore" value="25" />
@@ -2906,12 +3020,14 @@
     <int name="retro_mission_superoffroad_jumprec" value="0" />
     <int name="challenge_6_racecar_jumprec" value="20" />
     <int name="factory_tank_highscore" value="25" />
+    <int name="construction_fastbike_highscore" value="0" />
     <int name="bog_touristbus_highscore" value="25" />
     <int name="retro_mission_hotrod_highscore" value="0" />
     <int name="construction_rallycar_jumprec" value="20" />
     <int name="arctic_sleigh_highscore" value="25" />
     <int name="bootcamp_tractor_jumprec" value="20" />
     <int name="arcticcave_onewheeler_jumprec" value="20" />
+    <int name="seasons_fastbike_highscore" value="0" />
     <int name="challenge_6_rallycar_highscore" value="25" />
     <int name="xmas_luxury_jumprec" value="20" />
     <int name="countryside_minibike_jumprec" value="20" />
@@ -2923,7 +3039,7 @@
     <int name="ragnarok_superoffroad_jumprec" value="20" />
     <int name="challenge_7_dieseltruck_jumprec" value="20" />
     <int name="highway_train_highscore" value="25" />
-    <int name="chalc" value="0" />
+    <int name="chalc" value="3" />
     <int name="nuclear_firetruck_highscore" value="25" />
     <int name="bog_racecar_jumprec" value="20" />
     <int name="neon_minibike_highscore" value="25" />
@@ -2931,6 +3047,7 @@
     <int name="forest_dragster_highscore" value="25" />
     <int name="challenge_6_bubblecar_jumprec" value="20" />
     <int name="onewheeler_engineH" value="20" />
+    <int name="haunted_fastbike_highscore" value="0" />
     <int name="sleigh_suspension" value="15" />
     <int name="GP_31UL" value="0" />
     <int name="mega_highway_lowrider_jumprec" value="0" />
@@ -2949,6 +3066,7 @@
     <int name="rainbow_snowmobile_highscore" value="25" />
     <int name="mega_desert_spider_highscore" value="0" />
     <int name="mega_highway_tractor_highscore" value="0" />
+    <int name="fingersports_chopperbike_highscore" value="0" />
     <int name="moon_ambulance_jumprec" value="20" />
     <int name="countryside_tractor_jumprec" value="20" />
     <int name="nuclear_racecar_highscore" value="25" />
@@ -2980,6 +3098,7 @@
     <int name="mega_desert_firetruck_highscore" value="0" />
     <int name="seasons_aircar_jumprec" value="0" />
     <int name="dunebuggy_unlocked" value="1" />
+    <string name="fastbike_attachments"></string>
     <int name="factory_custom1_jumprec" value="20" />
     <string name="saved_battle">megavsdessert192,mega_highway,mega_desert,metal-pedal-mega,pop-pedal,1705521996,1710522000</string>
     <int name="arctic_custom1_jumprec" value="20" />
@@ -2987,9 +3106,12 @@
     <int name="junkyard_chopperbike_jumprec" value="20" />
     <int name="seasons_bike_highscore" value="25" />
     <int name="challenge_1_dunebuggy_jumprec" value="20" />
-    <int name="daily_missions_fetched_time" value="1709508821" />
+    <int name="daily_missions_fetched_time" value="1743224673" />
     <int name="mega_highway_screwfinger_highscore" value="0" />
+    <int name="fingersports_trophytruck_jumprec" value="0" />
+    <int name="fingersports_tank_jumprec" value="0" />
     <int name="prog_electric_highscore" value="25" />
+    <int name="fingersports_luxury_jumprec" value="0" />
     <int name="firetruck_unlocked" value="1" />
     <int name="junkyard_rallycar_highscore" value="25" />
     <int name="challenge_1_tractor_highscore" value="20" />
@@ -2997,10 +3119,13 @@
     <int name="actionhero_monster_jumprec" value="0" />
     <int name="countryside_hotrod_jumprec" value="20" />
     <int name="countryside_bigfinger_highscore" value="25" />
+    <int name="fingersports_electric_jumprec" value="0" />
     <int name="bootcamp_sleigh_highscore" value="25" />
     <int name="volcano_rallycar_jumprec" value="20" />
+    <int name="fingersports_dragster_highscore" value="0" />
     <int name="beach_aircar_highscore" value="0" />
     <int name="jeep_mastery_unlocked" value="1" />
+    <int name="fingersports_ambulance_jumprec" value="0" />
     <int name="neon_touristbus_jumprec" value="20" />
     <int name="nuclear_hovercraft_highscore" value="25" />
     <int name="challenge_3_spider_jumprec" value="20" />
@@ -3022,6 +3147,7 @@
     <int name="arcticcave_rallycar_jumprec" value="20" />
     <int name="prog_sleigh_jumprec" value="20" />
     <int name="spacemission_hachiroku_highscore" value="0" />
+    <int name="mission_3_claimed" value="0" />
     <int name="mega_desert_dunebuggy_highscore" value="0" />
     <int name="bootcamp_dragster_highscore" value="25" />
     <int name="construction_bike_jumprec" value="20" />
@@ -3036,6 +3162,7 @@
     <int name="super_countryside_moonlander_jumprec" value="0" />
     <int name="bootcamp_dragster_jumprec" value="20" />
     <int name="GP_31NP" value="1" />
+    <int name="mudpool_fastbike_jumprec" value="0" />
     <int name="beach_spider_jumprec" value="20" />
     <int name="rainbow_bubblecar_jumprec" value="20" />
     <int name="reindeers" value="4" />
@@ -3096,7 +3223,7 @@
     <int name="jungle_moonlander_jumprec" value="20" />
     <int name="xmas_spider_highscore" value="25" />
     <int name="WATCH_CREDITS_unlocked" value="1" />
-    <int name="remote_offers_fetched" value="1620779969" />
+    <int name="remote_offers_fetched" value="1743224672" />
     <int name="mars_rallycar_highscore" value="25" />
     <int name="challenge_3_quadbike_jumprec" value="20" />
     <int name="construction_bike_highscore" value="25" />
@@ -3116,7 +3243,7 @@
     <int name="actionhero_bike_highscore" value="0" />
     <int name="retro_mission_rallycar_highscore" value="0" />
     <int name="spacemission_truck_jumprec" value="20" />
-    <int name="challenge_4_rallycar_highscore" value="20" />
+    <int name="challenge_4_rallycar_highscore" value="25" />
     <int name="neon_quadbike_jumprec" value="20" />
     <int name="challenge_2_hovercraft_jumprec" value="20" />
     <int name="forest_jeep_jumprec" value="20" />
@@ -3171,6 +3298,7 @@
     <int name="moon_train_highscore" value="25" />
     <int name="desert_firetruck_highscore" value="25" />
     <int name="mega_highway_onewheeler_jumprec" value="0" />
+    <int name="fingersports_tractor_jumprec" value="0" />
     <int name="bog_trophytruck_jumprec" value="20" />
     <int name="volcano_dunebuggy_highscore" value="25" />
     <int name="arcticcave_bike_highscore" value="25" />
@@ -3185,6 +3313,7 @@
     <int name="volcano_tractor_jumprec" value="20" />
     <int name="countryside_rallycar_highscore" value="25" />
     <int name="countryside_tank_jumprec" value="20" />
+    <int name="fingersports_hotrod_jumprec" value="0" />
     <int name="junkyard_sleigh_highscore" value="25" />
     <int name="rollercoaster_racecar_highscore" value="25" />
     <int name="challenge_5_moonlander_jumprec" value="20" />
@@ -3194,6 +3323,7 @@
     <int name="xmas_chestconsumed" value="1" />
     <int name="spacemission_snowmobile_highscore" value="25" />
     <int name="show_GDPR_dialog" value="1" />
+    <int name="challenge_5_fastbike_highscore" value="0" />
     <int name="VEHICLES_UNLOCKED_2_unlocked" value="1" />
     <int name="challenge_1_aircar_highscore" value="0" />
     <int name="challenge_2_superhillclimber_jumprec" value="0" />
@@ -3218,6 +3348,7 @@
     <int name="VEHICLES_UNLOCKED_2_steps" value="20" />
     <int name="rooftops_train_jumprec" value="20" />
     <int name="retro_mission_snowmobile_jumprec" value="0" />
+    <int name="fingersports_bigfinger_highscore" value="0" />
     <int name="highway_racecar_jumprec" value="20" />
     <int name="night_dieseltruck_highscore" value="25" />
     <int name="retro_upgrades" value="8191" />
@@ -3285,13 +3416,14 @@
     <int name="bog_level" value="25" />
     <int name="hippievan_fuel" value="20" />
     <int name="minibike_chestconsumed" value="1" />
-    <int name="TOTAL_BACKFLIPS_100_steps" value="25" />
+    <int name="TOTAL_BACKFLIPS_100_steps" value="52" />
     <int name="cave_dieseltruck_highscore" value="25" />
     <int name="challenge_7_quadbike_highscore" value="20" />
     <int name="moon_dragster_jumprec" value="20" />
     <int name="bog_spider_highscore" value="25" />
     <int name="GRASSHOPPER_steps" value="20" />
     <int name="GP_14NP" value="1" />
+    <int name="fingersports_bike_highscore" value="0" />
     <int name="challenge_5_bubblecar_highscore" value="20" />
     <int name="countryside_ambulance_jumprec" value="20" />
     <int name="rooftops_luxury_jumprec" value="20" />
@@ -3306,6 +3438,7 @@
     <int name="junkyard_jeep_highscore" value="25" />
     <int name="moon_ambulance_highscore" value="25" />
     <int name="ragnarok_policecar_highscore" value="25" />
+    <int name="rollercoaster_fastbike_highscore" value="0" />
     <int name="challenge_5_touristbus_highscore" value="20" />
     <int name="haunted_superoffroad_jumprec" value="20" />
     <int name="actionhero_tractor_jumprec" value="0" />
@@ -3332,6 +3465,7 @@
     <int name="rooftops_policecar_highscore" value="25" />
     <int name="mega_highway_trophytruck_jumprec" value="0" />
     <int name="mountain_unlocked" value="1" />
+    <int name="fingersports_rallycar_highscore" value="0" />
     <int name="policecar_chestconsumed" value="1" />
     <int name="haunted_shapeshifter_jumprec" value="20" />
     <int name="arcticcave_shapeshifter_highscore" value="25" />
@@ -3355,23 +3489,27 @@
     <int name="countryside_firetruck_highscore" value="25" />
     <int name="dunebuggy_suspensionH" value="20" />
     <int name="volcano_jeep_highscore" value="25" />
-    <int name="lowrider_tires" value="20" />
+    <int name="lowrider_tires" value="25" />
     <int name="desert_dragster_jumprec" value="20" />
     <int name="haunted_racecar_jumprec" value="20" />
     <int name="challenge_5_superoffroad_highscore" value="20" />
     <int name="nuclear_superhillclimber_jumprec" value="0" />
     <int name="challenge_5_trophytruck_jumprec" value="20" />
+    <int name="fingersports_touristbus_jumprec" value="0" />
     <int name="northpole_firetruck_jumprec" value="20" />
     <int name="suburbs_trophytruck_jumprec" value="0" />
     <int name="mega_highway_electric_jumprec" value="0" />
     <int name="LIFTOFF_unlocked" value="1" />
-    <int name="countryside_level" value="3" />
+    <int name="countryside_level" value="5" />
     <int name="bike_chestconsumed" value="1" />
     <int name="spacemission_firetruck_highscore" value="25" />
     <int name="jungle_superhillclimber_jumprec" value="0" />
     <int name="forest_rallycar_jumprec" value="20" />
+    <int name="highway_fastbike_jumprec" value="0" />
     <int name="challenge_1_train_jumprec" value="20" />
+    <int name="challenge_7_fastbike_jumprec" value="0" />
     <string name="custom1_attachments"></string>
+    <int name="fingersports_onewheeler_highscore" value="0" />
     <int name="challenge_6_onewheeler_jumprec" value="20" />
     <int name="factory_dunebuggy_jumprec" value="20" />
     <int name="factory_spider_jumprec" value="20" />
@@ -3383,6 +3521,7 @@
     <int name="offlineRewardGems" value="5" />
     <int name="challenge_3_electric_highscore" value="20" />
     <int name="haunted_touristbus_highscore" value="25" />
+    <int name="rooftops_fastbike_jumprec" value="0" />
     <int name="alienplanet_luxury_highscore" value="25" />
     <int name="suburbs_minibike_highscore" value="0" />
     <int name="xmas_hippievan_highscore" value="25" />
@@ -3397,6 +3536,7 @@
     <int name="retro_mission_monster_jumprec" value="0" />
     <int name="volcano_shapeshifter_highscore" value="25" />
     <int name="countryside_snowmobile_jumprec" value="20" />
+    <int name="super_countryside_fastbike_jumprec" value="0" />
     <int name="VEHICLES_UPGRADED_5_steps" value="20" />
     <int name="moonlander_suspension" value="15" />
     <int name="alienplanet_trophytruck_highscore" value="25" />
@@ -3404,6 +3544,7 @@
     <int name="challenge_3_aircar_jumprec" value="0" />
     <int name="alienplanet_lowrider_jumprec" value="20" />
     <int name="rooftops_superhillclimber_highscore" value="0" />
+    <int name="fingersports_minibike_highscore" value="0" />
     <int name="challenge_7_minibike_jumprec" value="20" />
     <int name="junkyard_highscore" value="25" />
     <int name="GP_27NP" value="1" />
@@ -3427,6 +3568,7 @@
     <int name="ragnarok_chopperbike_highscore" value="25" />
     <int name="mountain_carcar_jumprec" value="0" />
     <int name="rollercoaster_superhillclimber_jumprec" value="0" />
+    <int name="neon_fastbike_highscore" value="0" />
     <int name="countryside_monster_jumprec" value="20" />
     <int name="desert_dieseltruck_jumprec" value="20" />
     <int name="arctic_trophytruck_highscore" value="25" />
@@ -3434,6 +3576,7 @@
     <int name="actionhero_trophytruck_highscore" value="0" />
     <int name="challenge_6_screwfinger_highscore" value="25" />
     <int name="ragnarok_sleigh_jumprec" value="20" />
+    <string name="hippikaara">1743224673</string>
     <int name="nuclear_superoffroad_highscore" value="25" />
     <int name="chopperbike_mastery_unlocked" value="1" />
     <int name="mountain_touristbus_highscore" value="25" />
@@ -3458,6 +3601,7 @@
     <int name="challenge_3_moonlander_jumprec" value="20" />
     <int name="challenge_5_electric_highscore" value="20" />
     <int name="beach_touristbus_highscore" value="25" />
+    <int name="mega_desert_fastbike_jumprec" value="0" />
     <int name="rallycar_tires" value="17" />
     <int name="challenge_2_screwfinger_highscore" value="20" />
     <int name="bog_tractor_jumprec" value="20" />
@@ -3483,15 +3627,16 @@
     <int name="luxury_engineH" value="20" />
     <int name="bootcamp_tank_jumprec" value="20" />
     <int name="rollercoaster_firetruck_highscore" value="25" />
+    <int name="nuclear_fastbike_jumprec" value="0" />
     <int name="volcano_truck_highscore" value="25" />
     <int name="mudpool_dunebuggy_jumprec" value="20" />
-    <int name="actionhero_level" value="0" />
+    <int name="actionhero_level" value="3" />
     <int name="xmas_screwfinger_highscore" value="25" />
     <int name="junkyard_bigfinger_jumprec" value="20" />
     <int name="volcano_touristbus_highscore" value="25" />
     <int name="beach_monster_jumprec" value="20" />
     <int name="moon_jeep_highscore" value="25" />
-    <int name="minibike_fuelH" value="20" />
+    <int name="minibike_fuelH" value="25" />
     <int name="actionhero_superoffroad_jumprec" value="0" />
     <int name="factory_highscore" value="259" />
     <int name="suburbs_touristbus_jumprec" value="0" />
@@ -3545,7 +3690,9 @@
     <int name="GP_5CN" value="3" />
     <int name="mars_jeep_jumprec" value="20" />
     <int name="dieseltruck_powerupsel" value="0" />
+    <int name="desert_fastbike_jumprec" value="0" />
     <int name="forest_hachiroku_jumprec" value="0" />
+    <int name="mission_2_claimed" value="0" />
     <int name="haunted_trophytruck_jumprec" value="20" />
     <int name="mudpool_custom1_highscore" value="25" />
     <int name="moon_tank_highscore" value="25" />
@@ -3570,21 +3717,22 @@
     <int name="moon_hippievan_jumprec" value="20" />
     <int name="rallycar_mastery_unlocked" value="1" />
     <int name="cave_onewheeler_highscore" value="25" />
-    <int name="challenge_4_highscore" value="20" />
+    <int name="challenge_4_highscore" value="295" />
     <int name="moon_monster_highscore" value="25" />
     <int name="mega_highway_rallycar_jumprec" value="0" />
     <int name="xmas_bike_highscore" value="25" />
     <int name="factory_minibike_highscore" value="25" />
     <int name="mega_highway_spider_jumprec" value="0" />
+    <int name="ragnarok_fastbike_highscore" value="0" />
     <int name="cave_sleigh_jumprec" value="20" />
     <string name="minibike_attachments"></string>
     <int name="retro_mission_luxury_jumprec" value="0" />
     <int name="rainbow_jeep_jumprec" value="20" />
     <int name="prog_minibike_highscore" value="25" />
     <int name="HIP_HOPPER_unlocked" value="1" />
-    <int name="challenge_4_chopperbike_highscore" value="20" />
+    <int name="challenge_4_chopperbike_highscore" value="25" />
     <int name="arctic_truck_jumprec" value="20" />
-    <int name="hachiroku_unlocked" value="0" />
+    <int name="hachiroku_unlocked" value="1" />
     <int name="highway_level" value="25" />
     <int name="arcticcave_rallycar_highscore" value="25" />
     <int name="rainbow_onewheeler_jumprec" value="20" />
@@ -3597,11 +3745,12 @@
     <int name="challenge_6_monster_highscore" value="25" />
     <int name="rollercoaster_dunebuggy_jumprec" value="20" />
     <int name="suburbs_chopperbike_jumprec" value="0" />
+    <int name="fastbike_engineH" value="1" />
     <int name="mudpool_carcar_highscore" value="0" />
     <int name="prog_dragster_jumprec" value="20" />
     <int name="suburbs_aircar_jumprec" value="0" />
     <int name="rainbow_monster_highscore" value="25" />
-    <int name="challenge_4_touristbus_highscore" value="20" />
+    <int name="challenge_4_touristbus_highscore" value="25" />
     <int name="hippievan_mastery_steps" value="25" />
     <int name="northpole_superhillclimber_highscore" value="0" />
     <int name="mega_highway_hachiroku_jumprec" value="0" />
@@ -3614,11 +3763,13 @@
     <int name="VEHICLES_UNLOCKED_5_unlocked" value="1" />
     <int name="neon_rallycar_highscore" value="25" />
     <int name="challenge_6_snowmobile_jumprec" value="20" />
+    <int name="fingersports_monster_highscore" value="0" />
     <int name="mudpool_dragster_highscore" value="25" />
     <int name="bog_dragster_highscore" value="25" />
     <int name="tricktrack_quadbike_jumprec" value="20" />
     <int name="policecar_tiresH" value="20" />
     <int name="xmas_monster_highscore" value="25" />
+    <int name="fingersports_hippievan_highscore" value="0" />
     <int name="factory_hachiroku_highscore" value="0" />
     <int name="prog_rallycar_jumprec" value="20" />
     <int name="jungle_lowrider_jumprec" value="20" />
@@ -3643,6 +3794,7 @@
     <int name="chestr" value="0" />
     <int name="bog_shapeshifter_highscore" value="25" />
     <int name="chests" value="0" />
+    <int name="fingersports_lowrider_jumprec" value="0" />
     <int name="alienplanet_tank_highscore" value="25" />
     <int name="offlineRewardLegendaryGarageCards" value="0" />
     <int name="factory_bike_highscore" value="25" />
@@ -3657,7 +3809,9 @@
     <int name="chestg" value="0" />
     <int name="TOTAL_PUMPKINS_steps" value="25" />
     <int name="haunted_superhillclimber_jumprec" value="0" />
+    <int name="fingersports_hovercraft_jumprec" value="0" />
     <int name="factory_lowrider_jumprec" value="20" />
+    <int name="countryside_fastbike_jumprec" value="0" />
     <int name="mars_minibike_highscore" value="25" />
     <int name="neon_electric_highscore" value="25" />
     <int name="mudpool_racecar_highscore" value="25" />
@@ -3705,13 +3859,15 @@
     <int name="arctic_bigfinger_jumprec" value="20" />
     <int name="challenge_3_hovercraft_highscore" value="20" />
     <int name="challenge_6_carcar_highscore" value="0" />
+    <int name="fingersports_chopperbike_jumprec" value="0" />
     <int name="mudpool_bubblecar_highscore" value="25" />
     <int name="countryside_chestconsumed" value="1" />
     <int name="moon_policecar_jumprec" value="20" />
-    <int name="hachiroku_suspensionH" value="1" />
+    <int name="hachiroku_suspensionH" value="15" />
     <int name="actionhero_trophytruck_jumprec" value="0" />
     <int name="alienplanet_train_highscore" value="25" />
     <int name="jungle_bubblecar_highscore" value="25" />
+    <int name="xmas_fastbike_jumprec" value="0" />
     <int name="arcticcave_hachiroku_highscore" value="0" />
     <int name="challenge_6_onewheeler_highscore" value="25" />
     <int name="arctic_unlocked" value="1" />
@@ -3723,10 +3879,11 @@
     <int name="junkyard_aircar_highscore" value="0" />
     <int name="daily_double_used" value="0" />
     <int name="desert_chestconsumed" value="1" />
-    <int name="super_countryside_unlocked" value="0" />
+    <int name="super_countryside_unlocked" value="1" />
     <int name="spacemission_jeep_highscore" value="25" />
     <int name="night_touristbus_highscore" value="25" />
     <int name="xmas_touristbus_jumprec" value="20" />
+    <int name="fingersports_hotrod_highscore" value="0" />
     <int name="volcano_shapeshifter_jumprec" value="20" />
     <int name="SHARE_RESULT_steps" value="20" />
     <int name="highway_spider_jumprec" value="20" />
@@ -3740,7 +3897,9 @@
     <int name="highway_dieseltruck_jumprec" value="20" />
     <int name="forest_hippievan_jumprec" value="20" />
     <int name="rainbow_hotrod_jumprec" value="20" />
+    <int name="fingersports_ambulance_highscore" value="0" />
     <int name="challenge_1_custom1_highscore" value="20" />
+    <int name="junkyard_fastbike_highscore" value="0" />
     <int name="mudpool_bigfinger_highscore" value="25" />
     <int name="xmas_policecar_highscore" value="25" />
     <int name="arcticcave_electric_jumprec" value="20" />
@@ -3751,6 +3910,7 @@
     <int name="nuclear_dragster_highscore" value="25" />
     <int name="snowmobile_suspension" value="20" />
     <int name="GP_3UL" value="0" />
+    <int name="seasons_fastbike_jumprec" value="0" />
     <int name="seasons_truck_highscore" value="25" />
     <int name="mountain_dunebuggy_jumprec" value="20" />
     <int name="offlineRewardNitros" value="99999999" />
@@ -3765,6 +3925,7 @@
     <int name="bootcamp_dieseltruck_highscore" value="25" />
     <int name="highway_monster_highscore" value="25" />
     <int name="tractor_stabilityH" value="20" />
+    <int name="night_fastbike_highscore" value="0" />
     <int name="bog_superhillclimber_jumprec" value="0" />
     <int name="bootcamp_trophytruck_jumprec" value="20" />
     <int name="construction_aircar_highscore" value="0" />
@@ -3780,6 +3941,7 @@
     <int name="bubblecar_suspension" value="20" />
     <int name="arcticcave_bubblecar_highscore" value="25" />
     <int name="hovercraft_mastery_unlocked" value="1" />
+    <int name="fingersports_quadbike_highscore" value="0" />
     <string name="lowrider_attachments"></string>
     <int name="desert_jeep_highscore" value="25" />
     <int name="factory_hotrod_jumprec" value="20" />
@@ -3792,7 +3954,7 @@
     <int name="beach_quadbike_jumprec" value="20" />
     <int name="junkyard_ambulance_highscore" value="25" />
     <int name="mudpool_moonlander_jumprec" value="20" />
-    <int name="rainbow_bigfinger_highscore" value="25" />
+    <int name="rainbow_bigfinger_highscore" value="622" />
     <int name="northpole_racecar_jumprec" value="20" />
     <int name="ragnarok_carcar_highscore" value="0" />
     <int name="seasons_hippievan_highscore" value="25" />
@@ -3863,11 +4025,13 @@
     <int name="seasons_jeep_jumprec" value="20" />
     <int name="arctic_jeep_jumprec" value="20" />
     <int name="aircar_engineH" value="1" />
-    <int name="chalprev" value="63" />
+    <int name="chalprev" value="87" />
     <int name="xmas_lowrider_highscore" value="25" />
     <int name="xmas_dieseltruck_jumprec" value="20" />
     <int name="beach_jeep_jumprec" value="20" />
+    <int name="fastbike_tires" value="1" />
     <int name="seasons_chestconsumed" value="1" />
+    <int name="desert_fastbike_highscore" value="0" />
     <int name="spacemission_truck_highscore" value="25" />
     <int name="alienplanet_snowmobile_jumprec" value="20" />
     <int name="ragnarok_dieseltruck_highscore" value="25" />
@@ -3912,12 +4076,13 @@
     <int name="challenge_6_custom1_jumprec" value="20" />
     <int name="challenge_2_racecar_jumprec" value="20" />
     <int name="seasons_luxury_jumprec" value="20" />
+    <int name="fastbike_suspension" value="1" />
     <int name="superhillclimber_engineH" value="1" />
     <int name="spacemission_spider_highscore" value="25" />
     <int name="challenge_6_hotrod_jumprec" value="20" />
     <int name="jeep_suspensionH" value="20" />
     <int name="ragnarok_touristbus_jumprec" value="20" />
-    <int name="prog_jeep_highscore" value="25" />
+    <int name="prog_jeep_highscore" value="259" />
     <int name="junkyard_dunebuggy_highscore" value="25" />
     <int name="northpole_lowrider_jumprec" value="20" />
     <int name="challenge_3_tank_highscore" value="20" />
@@ -3925,7 +4090,7 @@
     <int name="prog_racecar_highscore" value="25" />
     <int name="night_superhillclimber_highscore" value="0" />
     <int name="junkyard_screwfinger_jumprec" value="20" />
-    <int name="challenge_4_trophytruck_highscore" value="20" />
+    <int name="challenge_4_trophytruck_highscore" value="25" />
     <int name="screwfinger_powerupsel" value="0" />
     <int name="challenge_1_unlocked" value="1" />
     <int name="mega_highway_monster_jumprec" value="0" />
@@ -3971,6 +4136,7 @@
     <int name="factory_snowmobile_highscore" value="25" />
     <int name="countryside_ambulance_highscore" value="25" />
     <int name="GP_11CN" value="15" />
+    <int name="fingersports_sleigh_highscore" value="0" />
     <int name="highway_truck_highscore" value="25" />
     <int name="super_countryside_spider_jumprec" value="0" />
     <int name="arcticcave_moonlander_jumprec" value="20" />
@@ -4002,10 +4168,12 @@
     <int name="rooftops_chopperbike_highscore" value="25" />
     <int name="challenge_7_electric_highscore" value="20" />
     <string name="monster_attachments"></string>
+    <int name="fingersports_minibike_jumprec" value="0" />
     <int name="mountain_superoffroad_jumprec" value="20" />
     <int name="spider_grip" value="10" />
     <int name="night_custom1_jumprec" value="20" />
     <int name="mega_desert_level" value="0" />
+    <int name="fingersports_screwfinger_jumprec" value="0" />
     <int name="construction_spider_jumprec" value="20" />
     <int name="challenge_3_bubblecar_highscore" value="20" />
     <int name="ragnarok_quadbike_highscore" value="25" />
@@ -4019,7 +4187,7 @@
     <int name="arcticcave_dieseltruck_jumprec" value="20" />
     <int name="junkyard_lowrider_jumprec" value="20" />
     <int name="rainbow_rallycar_jumprec" value="20" />
-    <int name="retro_mission_unlocked" value="0" />
+    <int name="retro_mission_unlocked" value="1" />
     <int name="jungle_hovercraft_jumprec" value="20" />
     <int name="junkyard_truck_jumprec" value="20" />
     <int name="nuclear_chopperbike_jumprec" value="20" />
@@ -4050,6 +4218,7 @@
     <int name="challenge_7_tank_highscore" value="20" />
     <int name="desert_electric_highscore" value="25" />
     <int name="desert_shapeshifter_jumprec" value="20" />
+    <int name="suburbs_fastbike_jumprec" value="0" />
     <int name="mountain_policecar_jumprec" value="20" />
     <int name="forest_dieseltruck_jumprec" value="20" />
     <int name="volcano_bike_highscore" value="25" />
@@ -4063,6 +4232,7 @@
     <int name="mudpool_hachiroku_jumprec" value="0" />
     <int name="rollercoaster_hachiroku_highscore" value="0" />
     <int name="desert_sleigh_highscore" value="25" />
+    <int name="mountain_fastbike_jumprec" value="0" />
     <int name="dunebuggy_engine" value="20" />
     <int name="actionhero_aircar_jumprec" value="0" />
     <int name="mudpool_electric_jumprec" value="20" />
@@ -4079,10 +4249,12 @@
     <int name="volcano_ambulance_jumprec" value="20" />
     <int name="haunted_onewheeler_highscore" value="25" />
     <int name="desert_bike_jumprec" value="20" />
+    <int name="actionhero_fastbike_jumprec" value="0" />
     <int name="bigfinger_powerupsel" value="0" />
     <int name="challenge_1_bike_jumprec" value="20" />
     <int name="seasons_truck_jumprec" value="20" />
     <int name="alienplanet_jeep_jumprec" value="20" />
+    <int name="mega_highway_fastbike_jumprec" value="0" />
     <int name="arcticcave_snowmobile_jumprec" value="20" />
     <int name="nuclear_bike_jumprec" value="20" />
     <int name="nuclear_hovercraft_jumprec" value="20" />
@@ -4094,6 +4266,7 @@
     <int name="mega_desert_hippievan_jumprec" value="0" />
     <int name="challenge_3_dieseltruck_jumprec" value="20" />
     <int name="mega_highway_onewheeler_highscore" value="0" />
+    <int name="fingersports_highscore" value="0" />
     <int name="CHAUFFEUR_unlocked" value="1" />
     <int name="GP_12CN" value="44" />
     <int name="GRASSHOPPER_unlocked" value="1" />
@@ -4105,7 +4278,7 @@
     <int name="spacemission_snowmobile_jumprec" value="20" />
     <int name="challenge_3_quadbike_highscore" value="20" />
     <int name="haunted_snowmobile_highscore" value="25" />
-    <int name="hotrod_mastery_steps" value="25" />
+    <int name="hotrod_mastery_steps" value="69" />
     <int name="neon_luxury_jumprec" value="20" />
     <int name="forest_superhillclimber_highscore" value="0" />
     <int name="mega_desert_sleigh_highscore" value="0" />
@@ -4113,6 +4286,7 @@
     <int name="nuclear_sleigh_highscore" value="25" />
     <int name="tricktrack_aircar_highscore" value="0" />
     <int name="mega_highway_snowmobile_highscore" value="0" />
+    <int name="fastbike_powerupsel" value="0" />
     <int name="countryside_hippievan_jumprec" value="20" />
     <int name="rooftops_carcar_highscore" value="0" />
     <int name="tricktrack_hachiroku_jumprec" value="0" />
@@ -4149,6 +4323,7 @@
     <int name="ragnarok_hovercraft_highscore" value="25" />
     <int name="challenge_3_minibike_highscore" value="20" />
     <int name="luxury_wealthH" value="20" />
+    <int name="challenge_6_fastbike_highscore" value="0" />
     <int name="challenge_5_trophytruck_highscore" value="20" />
     <int name="challenge_6_truck_jumprec" value="20" />
     <int name="tricktrack_bike_highscore" value="25" />
@@ -4187,6 +4362,7 @@
     <int name="super_countryside_policecar_jumprec" value="0" />
     <int name="junkyard_dragster_jumprec" value="20" />
     <int name="racecar_suspensionH" value="20" />
+    <int name="challenge_7_fastbike_highscore" value="0" />
     <int name="forest_bubblecar_jumprec" value="20" />
     <int name="night_lowrider_highscore" value="25" />
     <int name="mars_minibike_jumprec" value="20" />
@@ -4195,6 +4371,7 @@
     <int name="alienplanet_moonlander_jumprec" value="20" />
     <int name="volcano_moonlander_highscore" value="25" />
     <int name="nuclear_custom1_highscore" value="25" />
+    <int name="fingersports_trophytruck_highscore" value="0" />
     <int name="spacemission_bigfinger_highscore" value="25" />
     <int name="challenge_2_train_highscore" value="20" />
     <int name="challenge_3_policecar_highscore" value="20" />
@@ -4204,7 +4381,7 @@
     <int name="northpole_carcar_jumprec" value="0" />
     <int name="mega_desert_superhillclimber_highscore" value="0" />
     <int name="tricktrack_snowmobile_highscore" value="25" />
-    <int name="challenge_4_tank_highscore" value="20" />
+    <int name="challenge_4_tank_highscore" value="25" />
     <int name="suburbs_luxury_jumprec" value="0" />
     <int name="touristbus_powerupsel" value="0" />
     <int name="mega_highway_dieseltruck_highscore" value="0" />
@@ -4218,6 +4395,7 @@
     <int name="firetruck_brakesH" value="20" />
     <int name="xmas_electric_highscore" value="25" />
     <int name="construction_shapeshifter_highscore" value="25" />
+    <int name="fingersports_train_highscore" value="0" />
     <int name="challenge_5_hippievan_highscore" value="20" />
     <int name="challenge_6_electric_highscore" value="25" />
     <int name="volcano_spider_highscore" value="25" />
@@ -4230,6 +4408,7 @@
     <int name="seasons_rallycar_highscore" value="25" />
     <int name="actionhero_minibike_highscore" value="0" />
     <int name="mudpool_snowmobile_jumprec" value="20" />
+    <int name="challenge_5_fastbike_jumprec" value="0" />
     <int name="challenge_2_truck_highscore" value="20" />
     <int name="spacemission_onewheeler_jumprec" value="20" />
     <int name="moon_touristbus_jumprec" value="20" />
@@ -4240,7 +4419,7 @@
     <int name="jungle_aircar_jumprec" value="0" />
     <int name="night_electric_highscore" value="25" />
     <int name="challenge_2_minibike_jumprec" value="20" />
-    <int name="rainbow_highscore" value="25" />
+    <int name="rainbow_highscore" value="622" />
     <int name="ragnarok_bike_highscore" value="25" />
     <int name="challenge_2_quadbike_highscore" value="20" />
     <int name="super_countryside_jeep_jumprec" value="0" />
@@ -4276,7 +4455,7 @@
     <int name="mega_highway_truck_highscore" value="0" />
     <int name="xmas_bubblecar_jumprec" value="20" />
     <int name="rollercoaster_shapeshifter_jumprec" value="20" />
-    <int name="challenge_4_ambulance_highscore" value="20" />
+    <int name="challenge_4_ambulance_highscore" value="25" />
     <int name="volcano_hovercraft_jumprec" value="20" />
     <int name="countryside_sleigh_jumprec" value="20" />
     <int name="factory_shapeshifter_highscore" value="25" />
@@ -4300,6 +4479,7 @@
     <int name="carcar_carness" value="1" />
     <int name="suburbs_touristbus_highscore" value="0" />
     <int name="challenge_5_tractor_jumprec" value="20" />
+    <int name="fingersports_superhillclimber_highscore" value="0" />
     <int name="northpole_chopperbike_highscore" value="25" />
     <int name="tank_engineH" value="20" />
     <int name="haunted_tank_jumprec" value="20" />
@@ -4354,11 +4534,12 @@
     <int name="northpole_minibike_jumprec" value="20" />
     <int name="mudpool_monster_highscore" value="25" />
     <int name="TOTAL_FLIPS_100_steps" value="25" />
-    <int name="challenge_4_dieseltruck_highscore" value="20" />
+    <int name="challenge_4_dieseltruck_highscore" value="25" />
     <int name="actionhero_bigfinger_jumprec" value="0" />
     <int name="retro_mission_trophytruck_highscore" value="0" />
     <int name="forest_carcar_jumprec" value="0" />
     <int name="countryside_superoffroad_highscore" value="25" />
+    <int name="fingersports_truck_jumprec" value="0" />
     <int name="moon_hachiroku_jumprec" value="0" />
     <int name="challenge_2_onewheeler_highscore" value="20" />
     <int name="challenge_7_dragster_highscore" value="20" />
@@ -4377,10 +4558,12 @@
     <int name="suburbs_ambulance_highscore" value="0" />
     <int name="seasons_snowmobile_jumprec" value="20" />
     <int name="nuclear_electric_highscore" value="25" />
+    <int name="volcano_fastbike_highscore" value="0" />
     <int name="challenge_3_screwfinger_jumprec" value="20" />
     <int name="nuclear_rallycar_highscore" value="25" />
     <int name="bootcamp_carcar_jumprec" value="0" />
     <int name="challenge_6_lowrider_jumprec" value="20" />
+    <int name="fingersports_shapeshifter_jumprec" value="0" />
     <int name="challenge_2_unlocked" value="1" />
     <int name="neon_screwfinger_highscore" value="25" />
     <int name="spacemission_hotrod_jumprec" value="20" />
@@ -4394,13 +4577,14 @@
     <int name="tricktrack_racecar_jumprec" value="20" />
     <int name="ragnarok_hachiroku_highscore" value="0" />
     <int name="challenge_6_hachiroku_jumprec" value="0" />
+    <int name="jungle_fastbike_highscore" value="0" />
     <int name="actionhero_firetruck_highscore" value="0" />
     <int name="neon_racecar_jumprec" value="20" />
     <int name="electric_engine_rearH" value="20" />
     <int name="northpole_aircar_highscore" value="0" />
     <int name="challenge_6_touristbus_jumprec" value="20" />
     <int name="suburbs_dieseltruck_jumprec" value="0" />
-    <int name="challenge_4_minibike_highscore" value="20" />
+    <int name="challenge_4_minibike_highscore" value="25" />
     <int name="bike_suspension" value="20" />
     <int name="challenge_6_dieseltruck_jumprec" value="20" />
     <int name="bog_firetruck_highscore" value="25" />
@@ -4416,15 +4600,17 @@
     <int name="tank_tires" value="20" />
     <int name="desert_touristbus_highscore" value="25" />
     <int name="rollercoaster_tractor_jumprec" value="20" />
+    <int name="fingersports_dieseltruck_highscore" value="0" />
     <int name="beach_rallycar_jumprec" value="20" />
     <int name="highway_carcar_jumprec" value="0" />
-    <int name="challenge_4_snowmobile_highscore" value="20" />
+    <int name="challenge_4_snowmobile_highscore" value="25" />
     <int name="forest_highscore" value="25" />
     <int name="prog_luxury_jumprec" value="20" />
     <int name="GP_2NP" value="1" />
     <int name="challenge_3_tractor_highscore" value="20" />
     <int name="bog_carcar_jumprec" value="0" />
     <int name="bigfinger_stabilityH" value="20" />
+    <int name="mars_fastbike_jumprec" value="0" />
     <int name="GP_30CN" value="6" />
     <int name="volcano_firetruck_jumprec" value="20" />
     <int name="spider_torque" value="10" />
@@ -4446,6 +4632,7 @@
     <int name="rainbow_bubblecar_highscore" value="25" />
     <int name="junkyard_train_highscore" value="25" />
     <int name="moga_pro_guide" value="1" />
+    <int name="fingersports_firetruck_jumprec" value="0" />
     <int name="jungle_luxury_jumprec" value="20" />
     <int name="night_onewheeler_jumprec" value="20" />
     <int name="mega_desert_tractor_highscore" value="0" />
@@ -4461,7 +4648,7 @@
     <int name="seasons_train_highscore" value="25" />
     <int name="rollercoaster_hotrod_jumprec" value="20" />
     <int name="tricktrack_custom1_jumprec" value="20" />
-    <int name="dunebuggy_tires" value="20" />
+    <int name="dunebuggy_tires" value="25" />
     <int name="nuclear_dunebuggy_highscore" value="25" />
     <int name="challenge_7_tractor_jumprec" value="20" />
     <int name="shapeshifter_powerupsel" value="0" />
@@ -4470,7 +4657,7 @@
     <int name="BACKFLIPS_IN_ONE_RUN_10_steps" value="20" />
     <int name="moon_hovercraft_jumprec" value="20" />
     <int name="night_firetruck_highscore" value="25" />
-    <int name="TOTAL_NECKFLIPS_50_steps" value="20" />
+    <int name="TOTAL_NECKFLIPS_50_steps" value="43" />
     <int name="challenge_2_racecar_highscore" value="20" />
     <int name="junkyard_minibike_jumprec" value="20" />
     <int name="bog_dragster_jumprec" value="20" />
@@ -4487,6 +4674,7 @@
     <int name="NECKFLIP_WITHIN_5S_unlocked" value="1" />
     <int name="custom1_powerupsel" value="0" />
     <int name="bootcamp_truck_highscore" value="25" />
+    <int name="challenge_6_fastbike_jumprec" value="0" />
     <int name="cave_hippievan_highscore" value="25" />
     <int name="bog_touristbus_jumprec" value="20" />
     <int name="arcticcave_shapeshifter_jumprec" value="20" />
@@ -4499,6 +4687,7 @@
     <int name="spacemission_chopperbike_jumprec" value="20" />
     <int name="challenge_5_dieseltruck_highscore" value="20" />
     <int name="bootcamp_shapeshifter_jumprec" value="20" />
+    <int name="fingersports_racecar_jumprec" value="0" />
     <int name="volcano_rallycar_highscore" value="25" />
     <int name="super_countryside_dunebuggy_jumprec" value="0" />
     <int name="super_countryside_superhillclimber_jumprec" value="0" />
@@ -4512,14 +4701,16 @@
     <int name="actionhero_tank_jumprec" value="0" />
     <int name="beach_luxury_highscore" value="25" />
     <int name="tricktrack_trophytruck_highscore" value="25" />
+    <int name="fingersports_aircar_jumprec" value="0" />
     <int name="prog_dragster_highscore" value="25" />
     <int name="bog_sleigh_highscore" value="25" />
     <int name="challenge_2_firetruck_jumprec" value="20" />
     <int name="racecar_mastery_unlocked" value="1" />
     <int name="mega_highway_tank_highscore" value="0" />
+    <int name="fingersports_hachiroku_jumprec" value="0" />
     <int name="haunted_bubblecar_jumprec" value="20" />
     <int name="retro_mission_chestconsumed" value="0" />
-    <int name="challenge_4_spider_highscore" value="20" />
+    <int name="challenge_4_spider_highscore" value="25" />
     <int name="truck_mastery_steps" value="25" />
     <int name="bootcamp_sleigh_jumprec" value="20" />
     <int name="GP_30AN" value="1" />
@@ -4529,6 +4720,7 @@
     <int name="beach_ambulance_jumprec" value="20" />
     <int name="construction_shapeshifter_jumprec" value="20" />
     <int name="beach_monster_highscore" value="25" />
+    <int name="factory_fastbike_highscore" value="0" />
     <int name="bootcamp_chopperbike_highscore" value="25" />
     <int name="mudpool_onewheeler_jumprec" value="20" />
     <int name="moon_dragster_highscore" value="25" />
@@ -4566,6 +4758,7 @@
     <int name="mudpool_jeep_jumprec" value="20" />
     <int name="moon_hotrod_highscore" value="25" />
     <int name="suburbs_train_jumprec" value="0" />
+    <int name="fingersports_snowmobile_highscore" value="0" />
     <int name="construction_trophytruck_jumprec" value="20" />
     <int name="arcticcave_snowmobile_highscore" value="25" />
     <int name="jungle_rallycar_jumprec" value="20" />
@@ -4578,17 +4771,19 @@
     <int name="arcticcave_chopperbike_highscore" value="25" />
     <int name="haunted_moonlander_highscore" value="25" />
     <int name="alienplanet_bigfinger_highscore" value="25" />
+    <int name="xmas_fastbike_highscore" value="0" />
     <int name="challenge_5_hotrod_jumprec" value="20" />
     <int name="xmas_onewheeler_jumprec" value="20" />
     <int name="factory_unlocked" value="1" />
     <int name="haunted_rallycar_jumprec" value="20" />
     <int name="northpole_touristbus_highscore" value="25" />
     <int name="construction_carcar_highscore" value="0" />
-    <int name="challenge_4_racecar_highscore" value="20" />
+    <int name="challenge_4_racecar_highscore" value="25" />
     <int name="suburbs_trophytruck_highscore" value="0" />
     <int name="xmas_dragster_highscore" value="25" />
     <string name="snowmobile_attachments"></string>
     <int name="moon_touristbus_highscore" value="25" />
+    <int name="fingersports_hachiroku_highscore" value="0" />
     <int name="challenge_2_train_jumprec" value="20" />
     <int name="moon_shapeshifter_jumprec" value="20" />
     <int name="rainbow_hachiroku_highscore" value="0" />
@@ -4604,10 +4799,11 @@
     <int name="haunted_custom1_jumprec" value="20" />
     <int name="countryside_trophytruck_jumprec" value="20" />
     <int name="firetruck_powerupsel" value="0" />
+    <int name="fingersports_fastbike_jumprec" value="0" />
     <int name="tricktrack_bigfinger_jumprec" value="20" />
     <int name="desert_shapeshifter_highscore" value="25" />
     <int name="haunted_sleigh_jumprec" value="20" />
-    <int name="carcar_unlocked" value="0" />
+    <int name="carcar_unlocked" value="1" />
     <int name="challenge_3_train_jumprec" value="20" />
     <int name="mudpool_tank_jumprec" value="20" />
     <int name="challenge_1_minibike_jumprec" value="20" />
@@ -4632,6 +4828,7 @@
     <int name="haunted_quadbike_highscore" value="25" />
     <int name="snowmobile_tiresH" value="20" />
     <int name="tricktrack_shapeshifter_jumprec" value="20" />
+    <int name="fingersports_dragster_jumprec" value="0" />
     <int name="challenge_2_lowrider_jumprec" value="20" />
     <int name="tricktrack_firetruck_jumprec" value="20" />
     <int name="forest_tank_highscore" value="25" />
@@ -4640,10 +4837,11 @@
     <int name="retro_mission_truck_jumprec" value="0" />
     <int name="challenge_6_minibike_highscore" value="25" />
     <int name="rollercoaster_trophytruck_jumprec" value="20" />
-    <int name="challenge_4_truck_highscore" value="20" />
+    <int name="challenge_4_truck_highscore" value="25" />
     <int name="mudpool_chopperbike_jumprec" value="20" />
     <int name="prog_custom1_jumprec" value="20" />
     <int name="night_tractor_highscore" value="25" />
+    <int name="fingersports_racecar_highscore" value="0" />
     <int name="desert_hotrod_highscore" value="25" />
     <string name="hippievan_attachments"></string>
     <int name="mega_highway_sleigh_jumprec" value="0" />
@@ -4654,10 +4852,11 @@
     <int name="desert_aircar_jumprec" value="0" />
     <int name="challenge_6_bike_highscore" value="25" />
     <int name="countryside_lowrider_highscore" value="25" />
+    <int name="arctic_fastbike_jumprec" value="0" />
     <int name="GP_3CN" value="15" />
     <int name="ragnarok_moonlander_highscore" value="25" />
     <int name="junkyard_hippievan_jumprec" value="20" />
-    <int name="dunebuggy_tiresH" value="20" />
+    <int name="dunebuggy_tiresH" value="25" />
     <int name="challenge_7_bike_highscore" value="20" />
     <int name="racecar_tires" value="20" />
     <int name="retro_mission_bike_jumprec" value="0" />
@@ -4671,7 +4870,7 @@
     <int name="ragnarok_racecar_highscore" value="25" />
     <int name="nuclear_electric_jumprec" value="20" />
     <int name="northpole_truck_highscore" value="25" />
-    <int name="TOTAL_FLIPS_1_000_steps" value="25" />
+    <int name="TOTAL_FLIPS_1_000_steps" value="103" />
     <int name="challenge_2_shapeshifter_highscore" value="20" />
     <int name="moon_spider_highscore" value="25" />
     <int name="mountain_touristbus_jumprec" value="20" />
@@ -4729,6 +4928,7 @@
     <int name="construction_superhillclimber_highscore" value="0" />
     <int name="mars_truck_highscore" value="25" />
     <int name="rollercoaster_quadbike_jumprec" value="20" />
+    <int name="fingersports_bike_jumprec" value="0" />
     <int name="cave_hotrod_jumprec" value="20" />
     <int name="rooftops_bubblecar_highscore" value="25" />
     <int name="ragnarok_bigfinger_jumprec" value="20" />
@@ -4737,7 +4937,7 @@
     <int name="NEON_KING_unlocked" value="1" />
     <int name="ragnarok_minibike_highscore" value="25" />
     <int name="GP_26AN" value="1" />
-    <int name="maalitynnyrit" value="305419896" />
+    <int name="maalitynnyrit" value="398571143" />
     <int name="beach_chopperbike_jumprec" value="20" />
     <int name="spacemission_hippievan_highscore" value="25" />
     <int name="factory_monster_jumprec" value="20" />
@@ -4757,18 +4957,27 @@
     <int name="GP_13AN" value="1" />
     <int name="actionhero_racecar_jumprec" value="0" />
     <int name="challenge_2_bigfinger_jumprec" value="20" />
-    <int name="challenge_4_bike_highscore" value="20" />
+    <int name="challenge_4_bike_highscore" value="25" />
+    <int name="fingersports_bubblecar_highscore" value="0" />
+    <float name="party_scores_level_5" value="0.0" />
     <int name="countryside_electric_jumprec" value="20" />
     <int name="cave_bike_highscore" value="25" />
+    <float name="party_scores_level_4" value="0.0" />
     <int name="xmas_hachiroku_highscore" value="0" />
+    <float name="party_scores_level_7" value="0.0" />
     <int name="mudpool_quadbike_jumprec" value="20" />
     <int name="junkyard_chopperbike_highscore" value="25" />
+    <float name="party_scores_level_6" value="0.0" />
+    <float name="party_scores_level_1" value="0.0" />
     <int name="arcticcave_bubblecar_jumprec" value="20" />
     <int name="super_countryside_dieseltruck_highscore" value="0" />
+    <float name="party_scores_level_0" value="0.0" />
+    <float name="party_scores_level_3" value="0.0" />
     <int name="challenge_4_dieseltruck_jumprec" value="20" />
     <int name="countryside_screwfinger_highscore" value="25" />
     <int name="bootcamp_electric_jumprec" value="20" />
     <int name="neon_luxury_highscore" value="25" />
+    <float name="party_scores_level_2" value="0.0" />
     <int name="xmas_screwfinger_jumprec" value="20" />
     <int name="arctic_firetruck_highscore" value="25" />
     <int name="night_snowmobile_jumprec" value="20" />
@@ -4781,7 +4990,7 @@
     <int name="mega_highway_firetruck_highscore" value="0" />
     <int name="tractor_fuelH" value="20" />
     <int name="GP_3AN" value="1" />
-    <int name="hachiroku_stiffnessH" value="1" />
+    <int name="hachiroku_stiffnessH" value="10" />
     <int name="superhillclimber_engine" value="1" />
     <int name="neon_trophytruck_jumprec" value="20" />
     <int name="GP_26CN" value="9" />
@@ -4818,11 +5027,12 @@
     <int name="nuclear_bubblecar_jumprec" value="20" />
     <int name="jungle_firetruck_jumprec" value="20" />
     <int name="neon_custom1_jumprec" value="20" />
-    <int name="chalgoal" value="3300" />
+    <int name="chalgoal" value="5600" />
     <int name="seasons_dieseltruck_highscore" value="25" />
     <int name="highway_hotrod_highscore" value="25" />
     <int name="factory_aircar_jumprec" value="0" />
     <int name="northpole_touristbus_jumprec" value="20" />
+    <int name="nuclear_fastbike_highscore" value="0" />
     <int name="mountain_jeep_highscore" value="25" />
     <int name="prog_snowmobile_jumprec" value="20" />
     <int name="spacemission_electric_jumprec" value="20" />
@@ -4833,17 +5043,19 @@
     <int name="volcano_dragster_highscore" value="25" />
     <int name="challenge_6_racecar_highscore" value="25" />
     <int name="spacemission_superhillclimber_highscore" value="0" />
-    <int name="hachiroku_tires" value="1" />
+    <int name="hachiroku_tires" value="15" />
     <int name="super_countryside_electric_jumprec" value="0" />
     <int name="junkyard_touristbus_jumprec" value="20" />
     <int name="junkyard_hovercraft_jumprec" value="20" />
     <int name="mega_highway_minibike_jumprec" value="0" />
+    <int name="junkyard_fastbike_jumprec" value="0" />
     <int name="alienplanet_tank_jumprec" value="20" />
     <int name="factory_bike_jumprec" value="20" />
     <int name="challenge_6_trophytruck_highscore" value="25" />
     <string name="racecar_attachments"></string>
     <int name="mudpool_sleigh_jumprec" value="20" />
     <int name="challenge_2_hachiroku_highscore" value="0" />
+    <int name="fastbike_suspensionH" value="1" />
     <int name="ragnarok_aircar_highscore" value="0" />
     <int name="nuclear_shapeshifter_highscore" value="25" />
     <int name="rooftops_touristbus_highscore" value="25" />
@@ -4855,7 +5067,7 @@
     <int name="bubblecar_engine" value="20" />
     <int name="alienplanet_truck_jumprec" value="20" />
     <int name="nuclear_moonlander_highscore" value="25" />
-    <int name="challenge_4_quadbike_highscore" value="20" />
+    <int name="challenge_4_quadbike_highscore" value="25" />
     <int name="forest_sleigh_jumprec" value="20" />
     <int name="challenge_2_screwfinger_jumprec" value="20" />
     <int name="CPPA_consent" value="1" />
@@ -4872,13 +5084,14 @@
     <int name="xmas_ambulance_highscore" value="25" />
     <int name="hippievan_engine" value="20" />
     <int name="shapeshifter_downforce" value="20" />
+    <int name="alienplanet_fastbike_jumprec" value="0" />
     <int name="GARBAGE_COLLECTOR_unlocked" value="0" />
     <int name="factory_superhillclimber_jumprec" value="0" />
     <int name="northpole_minibike_highscore" value="25" />
     <int name="TOTAL_PUMPKINS_unlocked" value="1" />
     <int name="jeep_engineH" value="20" />
     <int name="volcano_superoffroad_highscore" value="25" />
-    <int name="challenge_4_hotrod_highscore" value="20" />
+    <int name="challenge_4_hotrod_highscore" value="25" />
     <int name="xmas_tank_jumprec" value="20" />
     <int name="beach_moonlander_jumprec" value="20" />
     <int name="bike_rotation" value="20" />
@@ -4910,6 +5123,7 @@
     <int name="challenge_2_ambulance_highscore" value="20" />
     <int name="mars_monster_jumprec" value="20" />
     <int name="cave_superoffroad_highscore" value="25" />
+    <int name="eula_accepted_version" value="1" />
     <int name="mudpool_policecar_jumprec" value="20" />
     <int name="challenge_2_hachiroku_jumprec" value="0" />
     <int name="superoffroad_powerupsel" value="0" />
@@ -4924,6 +5138,7 @@
     <int name="night_luxury_jumprec" value="20" />
     <int name="moonlander_chestconsumed" value="1" />
     <int name="factory_snowmobile_jumprec" value="20" />
+    <int name="fastbike_unlocked" value="0" />
     <int name="moon_firetruck_jumprec" value="20" />
     <int name="challenge_2_bubblecar_highscore" value="20" />
     <int name="neon_aircar_jumprec" value="0" />
@@ -4950,6 +5165,7 @@
     <int name="carcar_tiresH" value="1" />
     <int name="rainbow_shapeshifter_jumprec" value="20" />
     <int name="monster_mastery_steps" value="691" />
+    <int name="fingersports_bigfinger_jumprec" value="0" />
     <int name="ragnarok_firetruck_jumprec" value="20" />
     <int name="tricktrack_racecar_highscore" value="25" />
     <int name="bog_quadbike_highscore" value="25" />
