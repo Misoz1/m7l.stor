@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="unity.player_sessionid">7648436659934663029</string>
+    <int name="QualitySettings" value="2" />
+    <int name="LEVELSUNLOCK" value="20" />
+    <string name="Gun11_Original">Unlock</string>
+    <string name="Gun1_Original">Unlock</string>
+    <int name="2_Complete" value="1" />
+    <int name="Levels_LockedLevel_Click" value="1" />
+    <int name="TotalRewards" value="999999999" />
+    <string name="Gun7_Original">Unlock</string>
+    <string name="Gun10">Unlock</string>
+    <string name="subscriptionProducts_0">%D9%A1%D9%A9%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <string name="subscriptionProducts_1">%D9%A1%D9%A9%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <string name="subscriptionProducts_2">%D9%A2%D9%A9%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <string name="Gun20_Original">Unlock</string>
+    <int name="2_Start" value="1" />
+    <string name="Gun2">Unlock</string>
+    <string name="Gun3">Unlock</string>
+    <string name="Gun1">Unlock</string>
+    <string name="Gun6">Unlock</string>
+    <int name="1_Complete" value="1" />
+    <string name="Gun7">Unlock</string>
+    <string name="Gun4">Unlock</string>
+    <string name="Gun5">Unlock</string>
+    <int name="FailEvent" value="1" />
+    <string name="Gun8">Unlock</string>
+    <string name="Gun9">Unlock</string>
+    <string name="Gun20">Unlock</string>
+    <int name="1_Start" value="1" />
+    <string name="Gun3_Original">Unlock</string>
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <int name="Help" value="1" />
+    <int name="Notificationtimerindex" value="9" />
+    <string name="Gun19_Original">Unlock</string>
+    <string name="nonConsumableProducts_1">%D9%A9%D9%A9%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <string name="nonConsumableProducts_2">%D9%A4%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <int name="Upgrades_UpgradePage_Click" value="1" />
+    <string name="Gun6_Original">Unlock</string>
+    <string name="Gun10_Original">Unlock</string>
+    <string name="nonConsumableProducts_0">%D9%A9%D9%A9%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <int name="Totalcash" value="999999999" />
+    <int name="UpgradePageNavigationCount" value="0" />
+    <string name="nonConsumableProducts_3">%D9%A4%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <string name="nonConsumableProducts_4">%D9%A1%D9%A9%D9%A9%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <int name="Sensitivityvalue" value="0" />
+    <int name="UpgradeEvent" value="1" />
+    <int name="LevelSelectionEvent" value="1" />
+    <int name="RewardKey" value="0" />
+    <int name="Upgrades_PopUp_Click" value="1" />
+    <string name="IsGotWelcomeGift">true</string>
+    <string name="Gun19">Unlock</string>
+    <string name="Gun18">Unlock</string>
+    <string name="Gun17">Unlock</string>
+    <string name="Gun16">Unlock</string>
+    <string name="Gun15">Unlock</string>
+    <string name="Gun14">Unlock</string>
+    <string name="Gun13">Unlock</string>
+    <int name="MenuPageNavigationCount" value="13" />
+    <string name="Gun12">Unlock</string>
+    <string name="Gun11">Unlock</string>
+    <int name="MenuEvent" value="1" />
+    <string name="Gun12_Original">Unlock</string>
+    <int name="OneTimeInGame" value="0" />
+    <string name="unity.cloud_userid">3a83afb7c5f9483168b2c94a9e4ec43f</string>
+    <int name="SessionCount" value="8" />
+    <string name="Gun17_Original">Unlock</string>
+    <string name="Gun8_Original">Unlock</string>
+    <int name="LEVELSUNLOCK_Original" value="20" />
+    <int name="UnityGraphicsQuality" value="2" />
+    <string name="ResumeAlways">false</string>
+    <int name="Screenmanager%20Resolution%20Width" value="1800" />
+    <string name="Gun4_Original">Unlock</string>
+    <int name="Upgradepopuptype" value="0" />
+    <int name="Upgrades_LockedUpgrade_Click" value="1" />
+    <int name="TeamMode" value="1" />
+    <int name="Stopnotification" value="1" />
+    <int name="Storeteammodelevel" value="1" />
+    <string name="Gun5_Original">Unlock</string>
+    <int name="Store_FullGame_Click" value="1" />
+    <string name="Gun15_Original">Unlock</string>
+    <string name="CoinPack_1">false</string>
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="CoinPack_2">false</string>
+    <string name="Gun14_Original">Unlock</string>
+    <int name="Totalmissionsunlocked" value="20" />
+    <int name="LevelsPageNavigationCount" value="0" />
+    <int name="LEVELS_CHALLENGING" value="20" />
+    <string name="Gun9_Original">Unlock</string>
+    <int name="Dailyrewardpopup" value="0" />
+    <int name="STORECOINS" value="999848999" />
+    <int name="StartEvent" value="1" />
+    <string name="Gun16_Original">Unlock</string>
+    <string name="Gun13_Original">Unlock</string>
+    <string name="unity.player_session_count">25</string>
+    <string name="UnlockAllGuns">false</string>
+    <string name="Gun2_Original">Unlock</string>
+    <string name="Gun18_Original">Unlock</string>
+    <string name="consumableProducts_1">%D9%A9%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <string name="consumableProducts_0">%D9%A4%D9%AB%D9%A9%D9%A9%C2%A0US%24</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="BonusLevel" value="0" />
+    <int name="3_Start" value="1" />
+    <string name="IsPlayingSound">true</string>
+</map>
