@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="nvgirl" value="9" />
+    <int name="Screenmanager%20Resolution%20Height" value="1800" />
+    <string name="unity.player_sessionid">2955039256103914324</string>
+    <string name="selectedvan">vanchinh</string>
+    <int name="Screenmanager%20Resolution%20Width" value="810" />
+    <string name="nowcharacter">nvgirl</string>
+    <int name="setting" value="8" />
+    <int name="nvgau" value="0" />
+    <int name="key" value="999999999" />
+    <string name="unity.player_session_count">3</string>
+    <int name="van" value="6" />
+    <int name="itemfly" value="0" />
+    <int name="coinmuving" value="481" />
+    <int name="vancamap" value="0" />
+    <int name="vantron" value="0" />
+    <int name="giay" value="0" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="magnet" value="0" />
+    <string name="unity.cloud_userid">f241098f9cbdeca2cab0a1f8914ee5cb</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="fly" value="0" />
+    <int name="x2" value="0" />
+    <int name="vanchinh" value="1" />
+    <int name="nvchinh" value="0" />
+    <int name="alowgetcoin" value="0" />
+    <int name="hd" value="8" />
+    <int name="coin" value="999998215" />
+</map>

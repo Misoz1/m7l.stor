@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="" value="75" />
+    <int name="ChooseMapBtn1" value="9" />
+    <int name="UnityGraphicsQuality" value="1" />
+    <int name="ShowModeTipsNum_Team" value="10" />
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <string name="I2%20Language">English</string>
+    <string name="unity.player_sessionid">4883798025357834610</string>
+    <int name="PlayerMedicalKitNum" value="99999997" />
+    <int name="FreeLuckDrawDay" value="23" />
+    <string name="NotificationHelper.Scheduled">1443672798%7C2120824650%7C1505402833</string>
+    <int name="IsHadUnlockAllWeapon_Luckys" value="1" />
+    <int name="IsHadPlayOnce" value="1" />
+    <int name="HeadshotNum" value="109" />
+    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="sHadShownModeAnimations" value="1" />
+    <int name="IsRewardAWP" value="1" />
+    <string name="ChooseMapNameTeam">ChooseMapBtn_Team3</string>
+    <int name="HighAIQuality" value="1" />
+    <int name="PlayerMoney" value="998063749" />
+    <string name="unity.player_session_count">12</string>
+    <int name="IsHighEnemyNum" value="1" />
+    <int name="IsChangedSensivity" value="1" />
+    <int name="CsShootGrenadeNum" value="781" />
+    <string name="gunweapons">111111111111111111</string>
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="PlayerAPILevel" value="99" />
+    <int name="KillNum" value="111" />
+    <int name="ChooseMapBtn_Team3" value="2" />
+    <string name="unity.cloud_userid">60c5ce04524bc677db9344b91341c8b4</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <string name="ChooseMapName">ChooseMapBtn1</string>
+    <int name="IsAutoAttack" value="1" />
+    <string name="LastUsedWeaponDisplayName">SG533</string>
+    <string name="SelfName">HAKROMAN</string>
+    <int name="IsNeedCrossHair" value="1" />
+    <string name="ChooseMapNameDefuse">ChooseMapBtn_Defuse1</string>
+    <int name="ShowModeTipsNum_Normal" value="5" />
+    <int name="DefaultGameType" value="5" />
+    <int name="SelfHeadIndex" value="999" />
+    <int name="ShowModeTipsNum_Unknown" value="1" />
+</map>

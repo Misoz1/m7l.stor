@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="IAPPackItemEnabled" value="false" />
+    <int name="savedDateRewardWday" value="6" />
+    <float name="YCheckPointPlayer" value="0.0" />
+    <int name="Coins" value="1000065" />
+    <boolean name="IAPSuperLepEnabled" value="false" />
+    <int name="tournament_collectedCoins" value="999999" />
+    <boolean name="tutLevelBShowed" value="false" />
+    <int name="infinityDateSec" value="34" />
+    <int name="backToMenuDateHour" value="22" />
+    <int name="infinityDateMin" value="10" />
+    <string name="InApp_30a_Price">٠٫٩٩ US$</string>
+    <string name="ultAltLevelArray">00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</string>
+    <int name="selectedLevel" value="99" />
+    <int name="freeTimeBacks" value="99" />
+    <int name="tournament_wonGames" value="99999" />
+    <string name="InApp_34a_Price">٠٫٩٩ US$</string>
+    <int name="schatzDateBWday" value="6" />
+    <int name="1tempLifes" value="10" />
+    <boolean name="tutorialFinish" value="true" />
+    <boolean name="giftPopupReward" value="false" />
+    <boolean name="Tutorial" value="true" />
+    <boolean name="UnlimitedHearts" value="true" />
+    <string name="MapUpdate">true</string>
+    <int name="giftDayTimerWday" value="1" />
+    <int name="backToMenuDateMday" value="29" />
+    <string name="GemUpdateVar">true</string>
+    <int name="infinityDateYday" value="136" />
+    <int name="savedDateRewardHour" value="22" />
+    <boolean name="Sound" value="true" />
+    <string name="InApp_34f">at.ner.lepsworld.inapp34f</string>
+    <boolean name="IAPZombieLep" value="false" />
+    <string name="InApp_34d">at.ner.lepsworld.inapp34d</string>
+    <string name="InApp_34e">at.ner.lepsworld.inapp34e</string>
+    <string name="gdprAccepted">true</string>
+    <int name="wheelDayTimerMin" value="0" />
+    <int name="wheelDayTimerSec" value="4" />
+    <boolean name="heartPopup" value="false" />
+    <int name="IAPoptimizedAds" value="1" />
+    <string name="iCloud">true</string>
+    <boolean name="IAPGirlLepEnabled" value="false" />
+    <string name="InApp_30f_Price">٩٩٫٩٩ US$</string>
+    <int name="1tempAllGold" value="1" />
+    <boolean name="IAPBuyed" value="false" />
+    <string name="InApp_32_Price">٤٫٤٩ US$</string>
+    <string name="InApp_52">at.ner.lepsworld.inapp52</string>
+    <float name="IAP6PriceDouble" value="4.49" />
+    <int name="backToMenuDateYear" value="121" />
+    <int name="giftDayTimerHour" value="3" />
+    <int name="tournament_WonWithoutKill" value="99999" />
+    <string name="FireBaseUpdateB">false</string>
+    <string name="InApp_34f_Price">٩٩٫٩٩ US$</string>
+    <boolean name="WheelAvailable" value="true" />
+    <int name="Inches" value="5" />
+    <boolean name="BoostBSelected" value="false" />
+    <int name="tournament_destroyedBlock" value="99999" />
+    <boolean name="IAPKidLep" value="true" />
+    <int name="lepEloScore" value="100" />
+    <int name="1tempTutorial" value="0" />
+    <int name="playedTime" value="0" />
+    <int name="WheelGoldPots" value="0" />
+    <string name="CCSTest">true</string>
+    <int name="1tempZapfen" value="3" />
+    <int name="lepEloScoreCheckVar" value="6694" />
+    <int name="backToMenuDateSec" value="21" />
+    <boolean name="giftPopup" value="false" />
+    <int name="backToMenuDateMin" value="40" />
+    <string name="InApp_50">at.ner.lepsworld.inapp50</string>
+    <int name="savedDateMon" value="4" />
+    <string name="InApp_51">at.ner.lepsworld.inapp51</string>
+    <float name="xCheckPointPlayer" value="0.0" />
+    <boolean name="Music" value="true" />
+    <int name="schatzDateBMon" value="4" />
+    <int name="tournament_collectedKlee" value="99999" />
+    <float name="xCheckPointMap" value="0.0" />
+    <int name="savedDateMday" value="17" />
+    <boolean name="IAPRoboterLepEnabled" value="false" />
+    <int name="schatzDateAWday" value="6" />
+    <string name="AdOptimizeUpdate">true</string>
+    <int name="savedDateRewardYear" value="121" />
+    <int name="infinityDateMday" value="17" />
+    <boolean name="BoostAavailable" value="true" />
+    <boolean name="IAPOriginalLep" value="true" />
+    <int name="1tempCoins" value="94" />
+    <boolean name="giftVideoAvailable" value="false" />
+    <int name="backToMenuDateYday" value="148" />
+    <int name="1tempLevel" value="2" />
+    <boolean name="Test" value="false" />
+    <int name="Spins" value="0" />
+    <int name="wheelDayTimerYday" value="136" />
+    <int name="dailyGiftCount" value="0" />
+    <boolean name="heartVideoAvailable" value="true" />
+    <int name="schatzDateBYear" value="121" />
+    <int name="savedDateRewardSec" value="21" />
+    <string name="configFireBaseProperties">true</string>
+    <int name="savedDateRewardMin" value="40" />
+    <boolean name="BoostBavailable" value="true" />
+    <int name="savedDateHour" value="3" />
+    <string name="InApp_34c_Price">١٠٫٩٩ US$</string>
+    <string name="newAdKeys">true</string>
+    <boolean name="charPopup" value="false" />
+    <boolean name="alternativeLevel" value="false" />
+    <string name="InApp_31_Price">١٫٩٩ US$</string>
+    <boolean name="IAPGirlLep" value="true" />
+    <boolean name="iPhoneV" value="true" />
+    <int name="endLevel" value="160" />
+    <int name="1tempPoints" value="53227" />
+    <int name="tournament_KilledBeetle" value="999999" />
+    <int name="savedDateSec" value="34" />
+    <int name="savedDateMin" value="10" />
+    <int name="SuccessLevel" value="2" />
+    <int name="schatzDateBMin" value="42" />
+    <int name="potsUnlockedTournament" value="3" />
+    <string name="CCSTestOptimizedB">true</string>
+    <int name="schatzDateBSec" value="10" />
+    <int name="currentSlot" value="1" />
+    <boolean name="newLevel" value="false" />
+    <boolean name="lvl24Rate" value="false" />
+    <int name="schatzDateBMday" value="29" />
+    <boolean name="recording" value="false" />
+    <int name="savedPots" value="3" />
+    <string name="InApp_34b_Price">٥٫٤٩ US$</string>
+    <int name="backToMenuDateMon" value="4" />
+    <int name="savedDateRewardMday" value="29" />
+    <int name="levelPart" value="1" />
+    <string name="Language">FRA</string>
+    <int name="characterInfoUpdate" value="0" />
+    <int name="schatzDateAMon" value="4" />
+    <int name="1tempState" value="2" />
+    <int name="infinityDateYear" value="121" />
+    <int name="tournament_WonWithoutBrick" value="9999999" />
+    <int name="tournament_WonWithoutLeft" value="0" />
+    <int name="Kills" value="3" />
+    <boolean name="lvl35Rate" value="false" />
+    <boolean name="Lite" value="true" />
+    <string name="ultMedalArray">00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</string>
+    <boolean name="realRestart" value="false" />
+    <boolean name="lvl8Rate" value="false" />
+    <int name="schatzDateBHour" value="22" />
+    <int name="tournament_WonWithinTime" value="0" />
+    <int name="Levels" value="802" />
+    <boolean name="1tempTopf1" value="false" />
+    <int name="tutorialVar" value="0" />
+    <boolean name="1tempTopf3" value="false" />
+    <boolean name="1tempTopf2" value="false" />
+    <int name="selectedBoost" value="2" />
+    <int name="wheelDayTimerMon" value="4" />
+    <int name="facebooklike" value="0" />
+    <string name="InApp_30d_Price">٢١٫٩٩ US$</string>
+    <boolean name="IAPSpeedItemEnabled" value="false" />
+    <string name="FireBaseUpdate">false</string>
+    <int name="giftDayTimerMon" value="4" />
+    <int name="BackgroundVariable" value="1" />
+    <string name="ultGoldtoepfe">10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</string>
+    <int name="wheelDayTimerMday" value="17" />
+    <boolean name="IAPJumpItemEnabled" value="false" />
+    <boolean name="BoostCSelected" value="true" />
+    <boolean name="IAPTimeBonusEnabled" value="false" />
+    <int name="schatzDateAYear" value="121" />
+    <string name="gdprPopup">ture</string>
+    <int name="tournament_WonWithoutShoot" value="0" />
+    <int name="Goldtoepfe" value="1" />
+    <boolean name="GiftAvailable" value="true" />
+    <string name="InApp_34d_Price">٢١٫٩٩ US$</string>
+    <boolean name="eventPopupShowAble" value="true" />
+    <boolean name="Bossfight" value="false" />
+    <int name="schatzDateASec" value="10" />
+    <string name="GDCUpdate">true</string>
+    <int name="schatzDateAMin" value="42" />
+    <boolean name="IAPZombieLepEnabled" value="false" />
+    <string name="ultPotsPerWorldArray">010000000000000000000000000000000000000000000000000000000000000000000000</string>
+    <int name="newEloPoints" value="0" />
+    <int name="maxLevels" value="160" />
+    <int name="IAPBuyedVar" value="0" />
+    <boolean name="tutLevelEShowed" value="false" />
+    <int name="ItemsGC" value="2" />
+    <int name="totalMoney" value="0" />
+    <string name="ManhattanUpdateA">true</string>
+    <boolean name="mergeTileMaps" value="false" />
+    <string name="ForestUpdateA">false</string>
+    <int name="startWithReward" value="1" />
+    <boolean name="dailyChallengeScene" value="false" />
+    <int name="wheelDayTimerHour" value="3" />
+    <boolean name="CoinPopup" value="false" />
+    <int name="tournament_wonGameCampaign" value="3" />
+    <int name="savedDateWday" value="1" />
+    <string name="CCSTestOptimizedA">true</string>
+    <int name="infinityDateMon" value="4" />
+    <int name="CoinStart" value="1" />
+    <boolean name="Mapscene" value="true" />
+    <string name="MapSceneRateIt">true</string>
+    <boolean name="IAPMagnetItemEnabled" value="false" />
+    <string name="megaAndroidMergeUpdate">true</string>
+    <int name="savedDateRewardYday" value="148" />
+    <boolean name="boostPopupReward" value="false" />
+    <int name="schatzDateBYday" value="148" />
+    <boolean name="IAPOriginalLepEnabled" value="false" />
+    <int name="infinityDateHour" value="3" />
+    <int name="schatzDateAMday" value="29" />
+    <string name="ultFriendsArray">002004007012017021024035042053061067072004</string>
+    <boolean name="subscriptionPopup" value="false" />
+    <int name="wheelDayTimerYear" value="121" />
+    <int name="timeTries" value="0" />
+    <int name="tournament_KilledRedSnail" value="0" />
+    <boolean name="IAPPiratLep" value="true" />
+    <int name="tournament_KilledStachel" value="0" />
+    <int name="1tempImmortalTime" value="0" />
+    <string name="MarioUpdate">true</string>
+    <int name="Steine" value="22" />
+    <int name="schatzDateAHour" value="22" />
+    <int name="infinityDateWday" value="1" />
+    <int name="1tempCheck" value="0" />
+    <int name="tournament_WonLastSec" value="0" />
+    <boolean name="comeFromMain" value="false" />
+    <boolean name="IAPAngelLep" value="true" />
+    <int name="tournament_collectedPots" value="0" />
+    <boolean name="NotificationEnabled" value="true" />
+    <string name="InApp_34e_Price">٥٤٫٩٩ US$</string>
+    <string name="InApp_30e_Price">٥٤٫٩٩ US$</string>
+    <boolean name="IAPHelmetItemEnabled" value="false" />
+    <int name="tutLevelE" value="0" />
+    <int name="tutLevelB" value="0" />
+    <int name="tutLevelA" value="2" />
+    <int name="tutLevelD" value="0" />
+    <boolean name="IAPAngelLepEnabled" value="false" />
+    <int name="tutLevelC" value="0" />
+    <boolean name="IAPRoboterLep" value="false" />
+    <int name="mapLevelAnimation" value="2" />
+    <string name="InApp_31">at.ner.lepsworld.inapp31</string>
+    <string name="InApp_32">at.ner.lepsworld.inapp32</string>
+    <int name="tournament_WonWithoutDJump" value="99999" />
+    <boolean name="BoostASelected" value="false" />
+    <boolean name="PremiumSub" value="true" />
+    <boolean name="wheelPopup" value="false" />
+    <float name="YCheckPointMap" value="0.0" />
+    <int name="levelPerBonus" value="8" />
+    <int name="giftDayTimerMday" value="17" />
+    <float name="zoomFaktor" value="1.01" />
+    <boolean name="IAPSuperLep" value="false" />
+    <string name="InApp_30c_Price">١٠٫٩٩ US$</string>
+    <boolean name="FireBaseTestUser" value="false" />
+    <int name="giftDayTimerYear" value="121" />
+    <int name="tournament_collectedPines" value="0" />
+    <string name="subscriptionUpdate">true</string>
+    <int name="newWheelGoldPots" value="0" />
+    <int name="savedDateYear" value="121" />
+    <int name="tournament_destroyedItem" value="0" />
+    <string name="friendsArray">002004007012017021024035042053061067072004</string>
+    <boolean name="bockerlBoos" value="false" />
+    <int name="tournament_KilledBlueSnail" value="0" />
+    <int name="tileSize" value="27" />
+    <int name="1tempTime" value="0" />
+    <boolean name="lvl16Rate" value="false" />
+    <int name="iHerzLifes" value="10" />
+    <boolean name="IAPPiratLepEnabled" value="true" />
+    <int name="availableHearts" value="10" />
+    <int name="LW_Version" value="1" />
+    <boolean name="wheelVideoAvailable" value="false" />
+    <int name="giftDayTimerSec" value="34" />
+    <string name="InApp_30b_Price">٥٫٤٩ US$</string>
+    <int name="schatzDateAYday" value="148" />
+    <int name="giftDayTimerMin" value="10" />
+    <int name="BoostC" value="1" />
+    <string name="InApp_34b">at.ner.lepsworld.inapp34b</string>
+    <int name="BoostD" value="4" />
+    <string name="InApp_34c">at.ner.lepsworld.inapp34c</string>
+    <int name="tempGems" value="999999623" />
+    <int name="Points" value="53227" />
+    <string name="ultLevelTrys">21000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</string>
+    <int name="BoostE" value="3" />
+    <string name="InApp_34a">at.ner.lepsworld.inapp34a</string>
+    <boolean name="progressBar" value="true" />
+    <int name="wheelDayTimerWday" value="1" />
+    <int name="savedDateRewardMon" value="4" />
+    <string name="GDCUpdateTwo">true</string>
+    <boolean name="BoostCavailable" value="true" />
+    <boolean name="zombieWorldEnabled" value="false" />
+    <boolean name="tutLevelDShowed" value="false" />
+    <boolean name="tutLevelCShowed" value="false" />
+    <boolean name="eventPopup" value="false" />
+    <int name="1tempPotsInThisParts" value="0" />
+    <boolean name="lvl60Rate" value="false" />
+    <int name="giftDayTimerYday" value="136" />
+    <boolean name="tutorialTracking" value="true" />
+    <boolean name="inGame" value="false" />
+    <boolean name="tapToContinueEnabled" value="true" />
+    <int name="backToMenuDateWday" value="6" />
+    <boolean name="lvl17Like" value="false" />
+    <int name="BoostA" value="2" />
+    <int name="BoostB" value="1" />
+    <int name="currentLevel" value="1" />
+    <boolean name="IAPKidLepEnabled" value="false" />
+    <int name="BonusLevel" value="0" />
+    <int name="savedDateYday" value="136" />
+    <boolean name="realStart" value="true" />
+</map>

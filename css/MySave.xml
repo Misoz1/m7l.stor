@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="acc_c" value="0" />
+    <int name="level_num" value="0" />
+    <int name="wslots" value="8" />
+    <int name="version" value="29" />
+    <int name="krug_c" value="0" />
+    <int name="score" value="8900" />
+    <int name="hslots" value="3" />
+    <int name="magnet_c" value="2" />
+    <int name="max_level" value="1" />
+    <int name="tcoins" value="1999969496" />
+    <int name="imm_c" value="0" />
+    <int name="has_bonus" value="1" />
+</map>

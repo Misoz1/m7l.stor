@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="SaveRoot%3EsettingsSave%7CParam%3Afirst" value="0" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AcloudSaveEnabled" value="0" />
+    <string name="SaveRoot%3EplayerSave%3EHouse.B7%7CParam%3Arooms">Aw%3D%3D%7C</string>
+    <string name="unity.player_sessionid">963672857854332353</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40Minigun%7CParam%3Aammo" value="999999998" />
+    <string name="SaveRoot%3EplayerSave%3EHouse.E5%7CParam%3Arooms">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3ESkill.MaxEnergyBoost%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Molotov%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Qk47%7CParam%3Aammo" value="999999877" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Molotov%7CParam%3Aammo" value="150" />
+    <int name="indexNahoda" value="2" />
+    <string name="SaveRoot%3EplayerSave%7CParam%3AselectedAbilities">AwAAAA%3D%3D%7C</string>
+    <string name="SaveRoot%3EplayerSave%3EHouse.D1%7CParam%3Arooms">Aw%3D%3D%7C</string>
+    <float name="SaveRoot%3EsettingsSave%7CParam%3AscreenSensitivyX" value="0.38" />
+    <string name="SaveRoot%3EplayerSave%7CParam%3AbuyedClothes">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40SnowGun%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EhistorySave%7CParam%3AoptionsViewDisplayed" value="1" />
+    <float name="SaveRoot%3EsettingsSave%7CParam%3AscreenSensitivyY" value="0.38" />
+    <string name="SaveRoot%3EplayerSave%3EstockExchangeTransactions%7CParam%3AstockExchangeTransactions">%7B%22slotsQuantity%22%3A3%2C%22transactions%22%3A%5B%5D%7D</string>
+    <string name="SaveRoot%3EplayerSave%3EcurrenciesSaveEntity%7CParam%3AcurrenciesSaveEntity">%7B%22currencies%22%3A%5B%7B%22currencyType%22%3A3%2C%22ownedQuantity%22%3A231%7D%2C%7B%22currencyType%22%3A2%2C%22ownedQuantity%22%3A243%7D%5D%7D</string>
+    <string name="SaveRoot%3EplayerSave%3EHouse.D4%7CParam%3Afurniture">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40Carbine%7CParam%3Aammo" value="99999875" />
+    <int name="vypnout17" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Cq16%7CParam%3AammoReserve" value="2876" />
+    <int name="vypnout16" value="0" />
+    <int name="index" value="2" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Flamethrower%7CParam%3AammoReserve" value="239" />
+    <int name="vypnout15" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Pistol%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.IceArrows%7CParam%3ALevel" value="0" />
+    <int name="vypnout14" value="0" />
+    <string name="SaveRoot%3EplayerSave%3EHouse.D4%7CParam%3Arooms">Aw%3D%3D%7C</string>
+    <int name="Tip1" value="3" />
+    <string name="SaveRoot%3EplayerSave%7CParam%3AwearedClothes">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40Grenade%7CParam%3AammoReserve" value="0" />
+    <int name="vypnout13" value="0" />
+    <int name="SaveRoot%3EplayerSave%7CParam%3AskillPoints" value="0" />
+    <int name="vypnout12" value="0" />
+    <float name="SaveRoot%3EplayerSave%7CParam%3Aarmor" value="0.0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.FrostBomb%7CParam%3ALevel" value="0" />
+    <int name="vypnout11" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Pistol%7CParam%3AammoReserve" value="516" />
+    <int name="vypnout10" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Rpg%7CParam%3Aammo" value="1" />
+    <string name="SaveRoot%3EplayerSave%3EownedItemsSaveEntity%7CParam%3AownedItemsSaveEntity">%7B%22vehiclesSaveData%22%3A%7B%22sharedVehicleIDs%22%3A%5B%5D%7D%7D</string>
+    <int name="SaveRoot%3EplayerSave%7CParam%3AbankDeposit" value="0" />
+    <int name="SaveRoot%3EplayerSave%7CParam%3AskillPointsFromBooster" value="0" />
+    <string name="SaveRoot%3EsettingsSave%7CParam%3AdisabledSongIndexes">AQ%3D%3D</string>
+    <int name="SaveRoot%3EplayerSave%3ESkill.InvestmentRewardBoost%7CParam%3ALevel" value="0" />
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.MeleeDamageResist%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AnboDecuct" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.ClothesGunsSkatesDiscount%7CParam%3ALevel" value="4" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40SnowGun%7CParam%3Abuyed" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Revolver%7CParam%3Aammo" value="5" />
+    <string name="SaveRoot%3EplayerSave%3Egarage10%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3ESkill.BulletEvadeChance%7CParam%3ALevel" value="4" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.HackingRewardBoost%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.AntigravityAOE%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.FreezingMine%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Minigun%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EhistorySave%7CParam%3AfindTankDisplayedCount" value="2" />
+    <string name="SaveRoot%3EplayerSave%7CParam%3AbuyedAirplanes">Aw%3D%3D%7C</string>
+    <string name="SaveRoot%3EsettingsSave%7CParam%3AknownFurnitureTypes">AQ%3D%3D</string>
+    <int name="SaveRoot%3EplayerSave%3EHouse.B7a%7CParam%3AisOwned" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.AirplaneDiscount%7CParam%3ALevel" value="0" />
+    <string name="SaveRoot%3EplayerSave%3EplayerSkillSaveEntity%7CParam%3AplayerSkillSaveEntity">%7B%22hairDresserLevelSkillData%22%3A%7B%22levelID%22%3A1%7D%7D</string>
+    <int name="SaveRoot%3EplayerSave%7CParam%3Alevel" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Cq16%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.BlackHoleProjectile%7CParam%3ALevel" value="0" />
+    <string name="SaveRoot%3EplayerSave%3EHouse.E5%7CParam%3Afurniture">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3ESkill.CrimeReductionSpeed%7CParam%3ALevel" value="4" />
+    <int name="SaveRoot%3EplayerSave%7CParam%3AcharacterIndex" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.InvestmentAmountBoost%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AnboLic" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Molotov%7CParam%3AammoReserve" value="0" />
+    <string name="unity.cloud_userid">f8411c8e5e3b4dd46b9919e1e2cdadb5</string>
+    <int name="SaveRoot%3EplayerSave%3ESkill.BulletDamageResist%7CParam%3ALevel" value="3" />
+    <int name="USD500" value="1" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.Storm%7CParam%3ALevel" value="0" />
+    <string name="Admix_UserAdvIdGen">aa184ce1-1834-4a8d-ae12-7c705c04270b</string>
+    <string name="SaveRoot%3EplayerSave%3EstockExchangeMarket%7CParam%3AstockExchangeMarket">%7B%22dayID%22%3A1%2C%22StockExchangeData%22%3A%5B%7B%22stockID%22%3A1%2C%22marketPrice%22%3A958%2C%22changePrice%22%3A0%7D%2C%7B%22stockID%22%3A2%2C%22marketPrice%22%3A1268%2C%22changePrice%22%3A-1%7D%2C%7B%22stockID%22%3A3%2C%22marketPrice%22%3A124%2C%22changePrice%22%3A0%7D%2C%7B%22stockID%22%3A4%2C%22marketPrice%22%3A50%2C%22changePrice%22%3A0%7D%2C%7B%22stockID%22%3A5%2C%22marketPrice%22%3A9%2C%22changePrice%22%3A1%7D%2C%7B%22stockID%22%3A6%2C%22marketPrice%22%3A10%2C%22changePrice%22%3A-1%7D%2C%7B%22stockID%22%3A7%2C%22marketPrice%22%3A30%2C%22changePrice%22%3A-2%7D%2C%7B%22stockID%22%3A8%2C%22marketPrice%22%3A196%2C%22changePrice%22%3A-2%7D%2C%7B%22stockID%22%3A9%2C%22marketPrice%22%3A111%2C%22changePrice%22%3A-5%7D%2C%7B%22stockID%22%3A10%2C%22marketPrice%22%3A296%2C%22changePrice%22%3A-1%7D%5D%7D</string>
+    <string name="SaveRoot%3EplayerSave%3ElootSystemSaveEntity%7CParam%3AlootSystemSaveEntity">%7B%22ownedLootBoxesSaveData%22%3A%7B%22boxes%22%3A%5B%7B%22lootBoxID%22%3A%22LootBox.Common_1%22%2C%22rarityType%22%3A0%7D%5D%7D%2C%22lootRewardSystemSaveData%22%3A%7B%22hasReceivedStartLootRewards%22%3Atrue%7D%7D</string>
+    <string name="SaveRoot%3EplayerSave%3EHouse.B7a%7CParam%3Arooms">Aw%3D%3D%7C</string>
+    <string name="SaveRoot%3EplayerSave%7CParam%3ASpawnPosition">0%2C0%2C0</string>
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AnboScore" value="0" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AmusicEnabled" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Molotov%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Qk47%7CParam%3AisFromGameEvent" value="0" />
+    <string name="SaveRoot%3EplayerSave%7CParam%3AfinishedQuests">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40Pistol%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Minigun%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Grenade%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40SnowGun%7CParam%3Aammo" value="0" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AbeforeNBO" value="999930837" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Qk47%7CParam%3AammoReserve" value="4380" />
+    <int name="SaveRoot%3EplayerSave%3EHouse.D1%7CParam%3AisOwned" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EHouse.B7%7CParam%3AisOwned" value="0" />
+    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Revolver%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Revolver%7CParam%3AammoReserve" value="648" />
+    <int name="SaveRoot%3EplayerSave%7CParam%3AcolorIndex" value="0" />
+    <int name="SaveRoot%3EplayerSave%7CParam%3Aexperience" value="102882" />
+    <int name="Updatet" value="1" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AenableShadows" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Shotgun%7CParam%3Aammo" value="999999969" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Carbine%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Grenade%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.JobRewardBoost%7CParam%3ALevel" value="0" />
+    <string name="SaveRoot%3EplayerSave%3EHouse.B7a%7CParam%3Afurniture">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40Qk47%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Grenade%7CParam%3Aammo" value="206" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.MaxHealthBoost%7CParam%3ALevel" value="1" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.HouseholdDiscount%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EplayerSave%7CParam%3AhcoinsQuantity" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.ShieldBarrier%7CParam%3ALevel" value="0" />
+    <string name="SaveRoot%3EplayerSave%3EHouse.B7%7CParam%3Afurniture">Aw%3D%3D%7C</string>
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Minigun%7CParam%3AammoReserve" value="16200" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Flamethrower%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AgraphicQuality" value="3" />
+    <float name="SaveRoot%3EsettingsSave%7CParam%3AmusicVolume" value="0.35" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Shotgun%7CParam%3AammoReserve" value="1560" />
+    <int name="SaveRoot%3EplayerSave%3EHouse.E5%7CParam%3AisOwned" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.Gambling%7CParam%3ALevel" value="0" />
+    <int name="Contens" value="1" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3Areklamy" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.MeleeCombatBoost%7CParam%3ALevel" value="0" />
+    <float name="SaveRoot%3EsettingsSave%7CParam%3AsoundVolume" value="1.0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Shotgun%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40SnowGun%7CParam%3AammoReserve" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.QuestRewardBoost%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Flamethrower%7CParam%3Aammo" value="1000000000" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Rpg%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EHouse.D4%7CParam%3AisOwned" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.Antigravity%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Rpg%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.EnergyRegeneration%7CParam%3ALevel" value="0" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AcloudDataMerged" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Carbine%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Carbine%7CParam%3AammoReserve" value="4620" />
+    <int name="vypnout9" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Flamethrower%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.LaserBeam%7CParam%3ALevel" value="0" />
+    <int name="vypnout6" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Shotgun%7CParam%3Abuyed" value="1" />
+    <int name="vypnout5" value="0" />
+    <float name="SaveRoot%3EsettingsSave%7CParam%3AsightSetting" value="1.0" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AisPlayersGuideRead" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Cq16%7CParam%3Abuyed" value="1" />
+    <int name="vypnout8" value="0" />
+    <int name="vypnout7" value="0" />
+    <string name="SaveRoot%3EplayerSave%7CParam%3AremovedDefaultWearedClothes">Aw%3D%3D%7C</string>
+    <int name="vypnout2" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.HackingTimeBoost%7CParam%3ALevel" value="0" />
+    <int name="vypnout1" value="0" />
+    <int name="SaveRoot%3EplayerSave%7CParam%3AskillResetHistory" value="0" />
+    <int name="vypnout4" value="0" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.Wormhole%7CParam%3ALevel" value="0" />
+    <int name="vypnout3" value="0" />
+    <int name="vypnout0" value="0" />
+    <string name="SaveRoot%3EplayerSave%3Egarage8%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <string name="unity.player_session_count">3</string>
+    <string name="SaveRoot%3EplayerSave%3Egarage7%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40StickyRocket%7CParam%3Abuyed" value="1" />
+    <int name="SaveRoot%3EsettingsSave%7CParam%3AmemoryRam" value="7499" />
+    <string name="SaveRoot%3EplayerSave%3EHouse.D1%7CParam%3Afurniture">Aw%3D%3D%7C</string>
+    <string name="SaveRoot%3EplayerSave%3EstockExchangeNextDay%7CParam%3AstockExchangeNextDay">%7B%22m_StartTimeStamp%22%3A637638193938346670%2C%22m_TargetTimeStamp%22%3A637638265938346680%7D</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40StickyRocket%7CParam%3AammoReserve" value="0" />
+    <int name="SaveRoot%3EplayerSave%7CParam%3Ascore" value="999930837" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <string name="SaveRoot%3EplayerSave%3EGameEvents%7CParam%3AGameEvents">%7B%22m_GameEventsSettingsItems%22%3A%5B%5D%7D</string>
+    <int name="poutac" value="1" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Cq16%7CParam%3Aammo" value="999999999" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Rpg%7CParam%3AammoReserve" value="662" />
+    <int name="SaveRoot%3EplayerSave%3ESkill.BlackHole%7CParam%3ALevel" value="0" />
+    <string name="SaveRoot%3EplayerSave%3Egarage4%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40StickyRocket%7CParam%3Aammo" value="195" />
+    <string name="SaveRoot%3EplayerSave%3Egarage0%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <string name="SaveRoot%3EplayerSave%3Egarage3%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3ESkill.Tornado%7CParam%3ALevel" value="0" />
+    <string name="SaveRoot%3EplayerSave%3Egarage1%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <string name="SaveRoot%3EplayerSave%3Egarage2%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40Pistol%7CParam%3Aammo" value="10" />
+    <string name="SaveRoot%3EplayerSave%3Egarage5%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <int name="SaveRoot%3EplayerSave%3EGun%40StickyRocket%7CParam%3AisFromGameEvent" value="0" />
+    <int name="SaveRoot%3EplayerSave%3EGun%40Revolver%7CParam%3AisFromGameEvent" value="0" />
+    <string name="SaveRoot%3EplayerSave%3Egarage6%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+    <string name="SaveRoot%3EplayerSave%3Egarage9%7CParam%3Avehicles">Aw%3D%3D%7C</string>
+</map>

@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="MissionBranchRealTimeData_Name4">%7B%22ID%22%3A4%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name3">%7B%22ID%22%3A3%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name6">%7B%22ID%22%3A6%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name5">%7B%22ID%22%3A5%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name0">%7B%22ID%22%3A0%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name2">%7B%22ID%22%3A2%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name1">%7B%22ID%22%3A1%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="HasPlayedTutorial_Name" value="1" />
+    <int name="Gem_Name" value="999997704" />
+    <string name="GunRealTimeData_Name99">%7B%22ID%22%3A99%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A2%7D</string>
+    <string name="GunRealTimeData_Name176">%7B%22ID%22%3A176%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A16%7D</string>
+    <string name="MissionBranchRealTimeData_Name8">%7B%22ID%22%3A8%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name7">%7B%22ID%22%3A7%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name9">%7B%22ID%22%3A9%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="AniSkinDeer_Name" value="0" />
+    <int name="MissionSaveBlood_Name" value="100" />
+    <string name="ClothesRealTimeData_Name20">%7B%22ID%22%3A20%2C%22own%22%3Afalse%7D</string>
+    <int name="VipRewardDay_Name" value="-1" />
+    <int name="TutorialStoreFinshed_Name" value="1" />
+    <string name="ClothesRealTimeData_Name23">%7B%22ID%22%3A23%2C%22own%22%3Atrue%7D</string>
+    <string name="ClothesRealTimeData_Name21">%7B%22ID%22%3A21%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name22">%7B%22ID%22%3A22%2C%22own%22%3Atrue%7D</string>
+    <string name="GunRealTimeData_Name88">%7B%22ID%22%3A88%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A10%7D</string>
+    <string name="CollectableRealTimeData_Name19">%7B%22ID%22%3A19%2C%22destroy%22%3Afalse%7D</string>
+    <string name="GunRealTimeData_Name187">%7B%22ID%22%3A187%2C%22own%22%3Atrue%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A999999999%7D</string>
+    <string name="CollectableRealTimeData_Name18">%7B%22ID%22%3A18%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name17">%7B%22ID%22%3A17%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name16">%7B%22ID%22%3A16%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name15">%7B%22ID%22%3A15%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name14">%7B%22ID%22%3A14%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name13">%7B%22ID%22%3A13%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name12">%7B%22ID%22%3A12%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name11">%7B%22ID%22%3A11%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name10">%7B%22ID%22%3A10%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name20">%7B%22ID%22%3A20%2C%22destroy%22%3Afalse%7D</string>
+    <int name="HasShowReplayTutorial_Name" value="0" />
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <int name="LTO_ShowDay_InStore_Name" value="738038" />
+    <int name="LTO_ShowDay_Name" value="-1" />
+    <string name="GunRealTimeData_Name77">%7B%22ID%22%3A77%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A6%7D</string>
+    <int name="CurrentSceneID_Name" value="4" />
+    <int name="HasClickedSpecialOffer_Name" value="1" />
+    <string name="GunRealTimeData_Name198">%7B%22ID%22%3A198%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A16%7D</string>
+    <string name="CollectableRealTimeData_Name29">%7B%22ID%22%3A29%2C%22destroy%22%3Afalse%7D</string>
+    <int name="HasShowSideQuestDes_Name" value="0" />
+    <string name="CollectableRealTimeData_Name28">%7B%22ID%22%3A28%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name27">%7B%22ID%22%3A27%2C%22destroy%22%3Afalse%7D</string>
+    <int name="HasShowWarningBadPhone_Name" value="0" />
+    <string name="CollectableRealTimeData_Name26">%7B%22ID%22%3A26%2C%22destroy%22%3Afalse%7D</string>
+    <int name="ShowedRate_Name" value="1" />
+    <string name="CollectableRealTimeData_Name25">%7B%22ID%22%3A25%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name24">%7B%22ID%22%3A24%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name23">%7B%22ID%22%3A23%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name22">%7B%22ID%22%3A22%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name21">%7B%22ID%22%3A21%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name31">%7B%22ID%22%3A31%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name30">%7B%22ID%22%3A30%2C%22destroy%22%3Afalse%7D</string>
+    <int name="PistolBulletMax_Name" value="50" />
+    <string name="MissionBranchRealTimeData_Name16">%7B%22ID%22%3A16%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="FreeRevivalDayTime_Name" value="0" />
+    <string name="MissionBranchRealTimeData_Name13">%7B%22ID%22%3A13%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="MissionTypeCurrentIndex_Name" value="0" />
+    <string name="MissionBranchRealTimeData_Name12">%7B%22ID%22%3A12%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="Has21InsuranceHints_Name" value="0" />
+    <string name="GunRealTimeData_Name66">%7B%22ID%22%3A66%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A6%7D</string>
+    <string name="MissionBranchRealTimeData_Name15">%7B%22ID%22%3A15%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name14">%7B%22ID%22%3A14%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name39">%7B%22ID%22%3A39%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name38">%7B%22ID%22%3A38%2C%22destroy%22%3Afalse%7D</string>
+    <string name="BoxRealtimeData_Name">%7B%22WoodenRefreshTime%22%3A1630879552%2C%22WoodenVeryRareIndex%22%3A2%2C%22WoodenRareIndex%22%3A2%2C%22WoodenUncommonIndex%22%3A0%2C%22WoodenCommonIndex%22%3A0%2C%22BronzeRefreshTime%22%3A-1%2C%22BronzeVeryRareIndex%22%3A0%2C%22BronzeRareIndex%22%3A0%2C%22BronzeUncommonIndex%22%3A0%2C%22BronzeCommonIndex%22%3A0%2C%22SilverRefreshTime%22%3A1630879513%2C%22SilverVeryRareIndex%22%3A2%2C%22SilverRareIndex%22%3A0%2C%22SilverUncommonIndex%22%3A2%2C%22SilverCommonIndex%22%3A0%2C%22GoldRefreshTime%22%3A1630879516%2C%22GoldVeryRareIndex%22%3A1%2C%22GoldRareIndex%22%3A0%2C%22GoldUncommonIndex%22%3A2%2C%22GoldCommonIndex%22%3A3%2C%22HasLaterRewardWooden%22%3Atrue%2C%22boxDropTypeWooden%22%3A4%2C%22boxDropIDWooden%22%3A0%2C%22boxDropNumWooden%22%3A1%2C%22HasLaterRewardBronze%22%3Afalse%2C%22boxDropTypeBronze%22%3A0%2C%22boxDropIDBronze%22%3A0%2C%22boxDropNumBronze%22%3A0%2C%22HasLaterRewardSilver%22%3Afalse%2C%22boxDropTypeSilver%22%3A0%2C%22boxDropIDSilver%22%3A0%2C%22boxDropNumSilver%22%3A0%2C%22HasLaterRewardGold%22%3Afalse%2C%22boxDropTypeGold%22%3A0%2C%22boxDropIDGold%22%3A0%2C%22boxDropNumGold%22%3A0%7D</string>
+    <int name="HasPlayedBuyWeapon_Name" value="0" />
+    <string name="CollectableRealTimeData_Name37">%7B%22ID%22%3A37%2C%22destroy%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name11">%7B%22ID%22%3A11%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name36">%7B%22ID%22%3A36%2C%22destroy%22%3Afalse%7D</string>
+    <string name="MissionBranchRealTimeData_Name10">%7B%22ID%22%3A10%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name35">%7B%22ID%22%3A35%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name34">%7B%22ID%22%3A34%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name33">%7B%22ID%22%3A33%2C%22destroy%22%3Afalse%7D</string>
+    <int name="ShotgunBulletMax_Name" value="25" />
+    <string name="CollectableRealTimeData_Name32">%7B%22ID%22%3A32%2C%22destroy%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name0">%7B%22ID%22%3A0%2C%22hasFinished%22%3Atrue%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Atrue%7D</string>
+    <string name="MissionMainRealTimeData_Name1">%7B%22ID%22%3A1%2C%22hasFinished%22%3Atrue%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name2">%7B%22ID%22%3A2%2C%22hasFinished%22%3Atrue%2C%22hasFinishedSpecial1%22%3Atrue%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name3">%7B%22ID%22%3A3%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name4">%7B%22ID%22%3A4%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name5">%7B%22ID%22%3A5%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name6">%7B%22ID%22%3A6%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="GunPart3_Name" value="0" />
+    <string name="MissionMainRealTimeData_Name7">%7B%22ID%22%3A7%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name8">%7B%22ID%22%3A8%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name9">%7B%22ID%22%3A9%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="HasShowBoxHelp_Name" value="1" />
+    <int name="ShouldReplayMission_Name" value="0" />
+    <int name="LastShowVipDayTime_Name" value="738038" />
+    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="FreeRevivalTimesToday_Name" value="0" />
+    <int name="PlayerHasBurn_Name" value="1" />
+    <int name="MissionSavePistolBullet_Name" value="37" />
+    <int name="GunPart4_Name" value="0" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="SpecialMissionData_Name">%7B%22HitNum%22%3A49%2C%22HitSumNum%22%3A78%2C%22HeadShotNum%22%3A3%2C%22FinishRoundNum%22%3A0%2C%22GainCoinNum%22%3A0%2C%22WinRanking%22%3A0%2C%22MaxComboNum%22%3A0%2C%22IsFinishedMissionOneTime%22%3Afalse%2C%22StartMissionTimeSeconds%22%3A63766490183%2C%22HasUsePistolGun%22%3Atrue%2C%22HasUseKinife%22%3Atrue%2C%22HasUseShotgun%22%3Atrue%2C%22HasUseRilfe%22%3Afalse%2C%22KnifeKillEnmiesNum%22%3A1%2C%22HasUsedBlood%22%3Atrue%2C%22KillEnemyOneShoot%22%3Afalse%2C%22KillEnemyOnHorseNum%22%3A0%2C%22KillEnemyNotOnHorseNum%22%3A8%2C%22hasBeHurt%22%3Atrue%7D</string>
+    <float name="CurrentPlayerRotation_Namez" value="0.0" />
+    <float name="CurrentPlayerRotation_Namex" value="0.0" />
+    <float name="CurrentPlayerRotation_Namey" value="302.58118" />
+    <int name="IsMusicOn_Name" value="1" />
+    <int name="MaxBloodMaxNum_Name" value="2" />
+    <string name="ClothesRealTimeData_Name12">%7B%22ID%22%3A12%2C%22own%22%3Afalse%7D</string>
+    <int name="AniSkinWolf_Name" value="1" />
+    <string name="ClothesRealTimeData_Name13">%7B%22ID%22%3A13%2C%22own%22%3Afalse%7D</string>
+    <int name="Has21Cheat_Name" value="0" />
+    <string name="ClothesRealTimeData_Name10">%7B%22ID%22%3A10%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name11">%7B%22ID%22%3A11%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name16">%7B%22ID%22%3A16%2C%22own%22%3Atrue%7D</string>
+    <string name="ClothesRealTimeData_Name17">%7B%22ID%22%3A17%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name14">%7B%22ID%22%3A14%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name15">%7B%22ID%22%3A15%2C%22own%22%3Atrue%7D</string>
+    <string name="ClothesRealTimeData_Name18">%7B%22ID%22%3A18%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name19">%7B%22ID%22%3A19%2C%22own%22%3Afalse%7D</string>
+    <int name="AssetBundleSceneVersion_Name" value="1" />
+    <string name="GunRealTimeData_Name0">%7B%22ID%22%3A0%2C%22own%22%3Atrue%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A0%7D</string>
+    <int name="MaxBloodCurNum_Name" value="2" />
+    <int name="HasPlayedDartTutorial_Name" value="0" />
+    <int name="HasPlayedMissionScale_Name" value="1" />
+    <int name="ShouldRevival_Name" value="0" />
+    <int name="ShotgunBullet_Name" value="25" />
+    <int name="HasSavedSpecialMissionData_Name" value="1" />
+    <int name="IsNotificationOn_Name" value="1" />
+    <string name="CollectableRealTimeData_Name9">%7B%22ID%22%3A9%2C%22destroy%22%3Afalse%7D</string>
+    <string name="unity.player_sessionid">8019869761516850229</string>
+    <string name="CollectableRealTimeData_Name1">%7B%22ID%22%3A1%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name2">%7B%22ID%22%3A2%2C%22destroy%22%3Afalse%7D</string>
+    <string name="GunRealTimeData_Name209">%7B%22ID%22%3A209%2C%22own%22%3Atrue%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A12%7D</string>
+    <string name="CollectableRealTimeData_Name3">%7B%22ID%22%3A3%2C%22destroy%22%3Afalse%7D</string>
+    <int name="RilfeBulletMax_Name" value="60" />
+    <string name="CollectableRealTimeData_Name4">%7B%22ID%22%3A4%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name5">%7B%22ID%22%3A5%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name6">%7B%22ID%22%3A6%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name7">%7B%22ID%22%3A7%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name8">%7B%22ID%22%3A8%2C%22destroy%22%3Afalse%7D</string>
+    <string name="GunRealTimeData_Name11">%7B%22ID%22%3A11%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A8%7D</string>
+    <int name="LastFreeRewardDay_Name" value="-1" />
+    <int name="TutorialMapFinshed_Name" value="1" />
+    <int name="TutorialHasRideHorse_Name" value="1" />
+    <int name="HasPlayedSevenDailyTutorial_Name" value="1" />
+    <int name="MissionMainID_Name" value="3" />
+    <int name="DailuBonusHasRewardDays_Name" value="1" />
+    <int name="HasPlayedCloseGiveUp_Name" value="0" />
+    <int name="LastDieDay_Name" value="-1" />
+    <int name="ReplayMissionID_Name" value="0" />
+    <string name="GunRealTimeData_Name220">%7B%22ID%22%3A220%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A20%7D</string>
+    <float name="CurrentPlayerPosition_Namez" value="131.1653" />
+    <float name="CurrentPlayerPosition_Namey" value="5.3223796" />
+    <float name="CurrentPlayerPosition_Namex" value="137.47632" />
+    <string name="MissionMainRealTimeData_Name16">%7B%22ID%22%3A16%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name15">%7B%22ID%22%3A15%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="HasPlayedQuickDrawTutorial_Name" value="0" />
+    <string name="MissionMainRealTimeData_Name12">%7B%22ID%22%3A12%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name11">%7B%22ID%22%3A11%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name14">%7B%22ID%22%3A14%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <string name="MissionMainRealTimeData_Name13">%7B%22ID%22%3A13%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="HasShownBuyBulletTutorial_Name" value="1" />
+    <string name="MissionMainRealTimeData_Name10">%7B%22ID%22%3A10%2C%22hasFinished%22%3Afalse%2C%22hasFinishedSpecial1%22%3Afalse%2C%22hasFinishedSpecial2%22%3Afalse%7D</string>
+    <int name="HasPlayedUpgradWeapon_Name" value="1" />
+    <string name="GunRealTimeData_Name110">%7B%22ID%22%3A110%2C%22own%22%3Atrue%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A3%7D</string>
+    <string name="GunRealTimeData_Name231">%7B%22ID%22%3A231%2C%22own%22%3Atrue%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A4%7D</string>
+    <string name="DailyMissionData_Name">%7B%22curDay%22%3A738038%2C%22curMissionID%22%3A%5B17%2C20%2C0%5D%2C%22hasReward%22%3A%5Bfalse%2Ctrue%2Ctrue%5D%2C%22hasPlayShootPractice%22%3A1%2C%22hasPlayDart%22%3A0%2C%22hasPlayQuickDraw%22%3A0%2C%22hasPlayRide%22%3A0%2C%22hasPlayBlackjack%22%3A0%2C%22killEnemiesNum%22%3A11%2C%22killZombiesNum%22%3A0%2C%22KillMonstersNum%22%3A0%2C%22FinishMainMissionNum%22%3A3%2C%22FinishSideMissionNum%22%3A0%2C%22hasOpenWooden%22%3A1%2C%22hasopenBronze%22%3A0%2C%22hasopenSivler%22%3A1%2C%22hasopenGolden%22%3A1%2C%22hasSpendGold%22%3A43530%2C%22hasSpendGem%22%3A2301%7D</string>
+    <string name="ClothesRealTimeData_Name9">%7B%22ID%22%3A9%2C%22own%22%3Atrue%7D</string>
+    <int name="FirstInstallGame_Name" value="0" />
+    <string name="ClothesRealTimeData_Name7">%7B%22ID%22%3A7%2C%22own%22%3Atrue%7D</string>
+    <string name="ClothesRealTimeData_Name8">%7B%22ID%22%3A8%2C%22own%22%3Atrue%7D</string>
+    <string name="ClothesRealTimeData_Name5">%7B%22ID%22%3A5%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name6">%7B%22ID%22%3A6%2C%22own%22%3Atrue%7D</string>
+    <string name="ClothesRealTimeData_Name3">%7B%22ID%22%3A3%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name4">%7B%22ID%22%3A4%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name1">%7B%22ID%22%3A1%2C%22own%22%3Afalse%7D</string>
+    <int name="CollectableBottle_Name" value="0" />
+    <string name="ClothesRealTimeData_Name2">%7B%22ID%22%3A2%2C%22own%22%3Afalse%7D</string>
+    <string name="ClothesRealTimeData_Name0">%7B%22ID%22%3A0%2C%22own%22%3Atrue%7D</string>
+    <string name="unity.cloud_userid">3c9462bc2df82987e9364190ad93e0d7</string>
+    <string name="LimitedOfferRealTimeData_Name0">%7B%22ID%22%3A0%2C%22Buyed%22%3Afalse%2C%22StartTime%22%3A63766397983%7D</string>
+    <string name="LimitedOfferRealTimeData_Name2">%7B%22ID%22%3A2%2C%22Buyed%22%3Afalse%2C%22StartTime%22%3A63766397983%7D</string>
+    <int name="GunPart2_Name" value="4" />
+    <string name="LimitedOfferRealTimeData_Name1">%7B%22ID%22%3A1%2C%22Buyed%22%3Afalse%2C%22StartTime%22%3A63766397983%7D</string>
+    <string name="GunRealTimeData_Name121">%7B%22ID%22%3A121%2C%22own%22%3Atrue%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A2%7D</string>
+    <int name="MissionSaveShotgunBullet_Name" value="0" />
+    <int name="ReceiveCurMissionBranch_Name" value="0" />
+    <int name="PlayerIsOnHorse_Name" value="0" />
+    <string name="CollectableRealTimeData_Name42">%7B%22ID%22%3A42%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name41">%7B%22ID%22%3A41%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name40">%7B%22ID%22%3A40%2C%22destroy%22%3Afalse%7D</string>
+    <int name="HasShow21Help_Name" value="0" />
+    <int name="AniSkinFox_Name" value="0" />
+    <int name="FreeRewardTimes_Name" value="0" />
+    <string name="GunRealTimeData_Name55">%7B%22ID%22%3A55%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A8%7D</string>
+    <string name="GunRealTimeData_Name132">%7B%22ID%22%3A132%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A4%7D</string>
+    <int name="AniSkinBeer_Name" value="0" />
+    <string name="CollectableRealTimeData_Name49">%7B%22ID%22%3A49%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name48">%7B%22ID%22%3A48%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name47">%7B%22ID%22%3A47%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name46">%7B%22ID%22%3A46%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name45">%7B%22ID%22%3A45%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name44">%7B%22ID%22%3A44%2C%22destroy%22%3Afalse%7D</string>
+    <string name="CollectableRealTimeData_Name43">%7B%22ID%22%3A43%2C%22destroy%22%3Afalse%7D</string>
+    <string name="HorseRealTimeData_Name1">%7B%22ID%22%3A1%2C%22own%22%3Afalse%7D</string>
+    <string name="HorseRealTimeData_Name0">%7B%22ID%22%3A0%2C%22own%22%3Atrue%7D</string>
+    <string name="HorseRealTimeData_Name3">%7B%22ID%22%3A3%2C%22own%22%3Afalse%7D</string>
+    <string name="HorseRealTimeData_Name2">%7B%22ID%22%3A2%2C%22own%22%3Afalse%7D</string>
+    <int name="MissionBranchID_Name" value="0" />
+    <string name="HorseRealTimeData_Name5">%7B%22ID%22%3A5%2C%22own%22%3Atrue%7D</string>
+    <string name="HorseRealTimeData_Name4">%7B%22ID%22%3A4%2C%22own%22%3Afalse%7D</string>
+    <int name="MinBloodCurNum_Name" value="4" />
+    <int name="RilfeBullet_Name" value="60" />
+    <int name="GunPart1_Name" value="4" />
+    <int name="IsReplayMissionMain_Name" value="1" />
+    <int name="ReceiveCurrentMissionMain_Name" value="0" />
+    <string name="GunRealTimeData_Name44">%7B%22ID%22%3A44%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A8%7D</string>
+    <string name="GunRealTimeData_Name143">%7B%22ID%22%3A143%2C%22own%22%3Atrue%2C%22currentLevel%22%3A2%2C%22bulletsNum%22%3A999999999%7D</string>
+    <int name="IsSFXOn_Name" value="1" />
+    <int name="MinBloodMaxNum_Name" value="4" />
+    <int name="DailuBonusRewardDay_Name" value="18874" />
+    <int name="Gold_Name" value="999921000" />
+    <string name="KnifeRealTimeData_Name7">%7B%22ID%22%3A7%2C%22own%22%3Afalse%7D</string>
+    <string name="KnifeRealTimeData_Name6">%7B%22ID%22%3A6%2C%22own%22%3Afalse%7D</string>
+    <string name="KnifeRealTimeData_Name5">%7B%22ID%22%3A5%2C%22own%22%3Afalse%7D</string>
+    <string name="KnifeRealTimeData_Name4">%7B%22ID%22%3A4%2C%22own%22%3Afalse%7D</string>
+    <string name="KnifeRealTimeData_Name3">%7B%22ID%22%3A3%2C%22own%22%3Afalse%7D</string>
+    <string name="KnifeRealTimeData_Name2">%7B%22ID%22%3A2%2C%22own%22%3Afalse%7D</string>
+    <string name="KnifeRealTimeData_Name1">%7B%22ID%22%3A1%2C%22own%22%3Afalse%7D</string>
+    <string name="KnifeRealTimeData_Name0">%7B%22ID%22%3A0%2C%22own%22%3Atrue%7D</string>
+    <int name="AniSkinCheetah_Name" value="0" />
+    <string name="GunRealTimeData_Name33">%7B%22ID%22%3A33%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A4%7D</string>
+    <string name="GunRealTimeData_Name154">%7B%22ID%22%3A154%2C%22own%22%3Atrue%2C%22currentLevel%22%3A1%2C%22bulletsNum%22%3A0%7D</string>
+    <int name="MissionSaveRilfeBullet_Name" value="10" />
+    <int name="ClickedMoregames_Name" value="0" />
+    <string name="unity.player_session_count">2</string>
+    <string name="AchievementData_Name">%7B%22curRewardNum%22%3A%5B0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%5D%2C%22kill_man%22%3A15%2C%22kill_zombie%22%3A0%2C%22kill_monster%22%3A0%2C%22earn_gold%22%3A8231%2C%22earn_gem%22%3A36%2C%22spend_gold%22%3A87330%2C%22spend_gem%22%3A2301%2C%22open_chest_num%22%3A3%2C%22collect_whisky_num%22%3A0%2C%22play_shoot_num%22%3A1%2C%22finish_shoot_in_10_round%22%3A0%2C%22play_draw_num%22%3A1%2C%22finish_draw_than_5_round%22%3A0%2C%22play_ride_num%22%3A0%2C%22get_nv_ride_gold%22%3A0%2C%22get_canyon_ride_gold%22%3A0%2C%22get_mine_ride_gold%22%3A0%2C%22play_dart_num%22%3A0%2C%22finish_dart_in_2_round%22%3A0%2C%22play_blackjack_num%22%3A0%2C%22get_blackjack_num%22%3A0%2C%22kill_animal%22%3A0%2C%22finish_guide%22%3Atrue%7D</string>
+    <string name="MyPlayerRealTimeData_Name">%7B%22max_blood%22%3A130%2C%22current_blood%22%3A91%2C%22isUsingGun%22%3Atrue%2C%22gun_kind_ID%22%3A187%2C%22pistol_ID%22%3A187%2C%22long_gun_ID%22%3A143%2C%22knife_ID%22%3A0%2C%22head_ID%22%3A7%2C%22body_ID%22%3A15%2C%22pant_ID%22%3A23%2C%22horse_ID%22%3A5%7D</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <string name="GunRealTimeData_Name22">%7B%22ID%22%3A22%2C%22own%22%3Atrue%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A8%7D</string>
+    <int name="PistolBullet_Name" value="40" />
+    <string name="GunRealTimeData_Name165">%7B%22ID%22%3A165%2C%22own%22%3Afalse%2C%22currentLevel%22%3A0%2C%22bulletsNum%22%3A30%7D</string>
+    <string name="CollectableRealTimeData_Name0">%7B%22ID%22%3A0%2C%22destroy%22%3Afalse%7D</string>
+</map>

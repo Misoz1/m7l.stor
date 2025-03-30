@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="Gun2Ammo" value="0" />
+    <int name="Gun7Ammo" value="0" />
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <string name="unity.player_sessionid">470999764641125145</string>
+    <int name="Time" value="1" />
+    <int name="HeadshotNum" value="9999" />
+    <int name="Gun2Active" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="Gun3Ammo" value="0" />
+    <int name="Gun8Ammo" value="0" />
+    <string name="Language">English</string>
+    <int name="Gun4Ammo" value="0" />
+    <int name="AllBullet" value="999999" />
+    <int name="MyGun" value="1" />
+    <string name="unity.player_session_count">6</string>
+    <int name="Gun5Ammo" value="0" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="KillNum" value="3" />
+    <string name="unity.cloud_userid">acf35a478349df047b1a6a877442113c</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="Medikit" value="2" />
+    <int name="SavedDataVersion" value="7" />
+    <string name="SelfName">HAKROMAN</string>
+    <int name="money" value="999997479" />
+    <int name="SelfHeadIndex" value="2" />
+    <int name="Level1" value="2" />
+    <int name="WatchVideoNum" value="1" />
+    <int name="Gun6Ammo" value="0" />
+    <int name="LevelIndex" value="2" />
+</map>

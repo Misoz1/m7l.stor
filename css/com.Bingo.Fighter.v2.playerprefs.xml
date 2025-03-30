@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="unity.player_sessionid">4278647654936234304</string>
+    <int name="showrate" value="1" />
+    <int name="daytask5" value="0" />
+    <int name="gunlock0" value="0" />
+    <int name="piecenum4" value="4" />
+    <int name="daytask6" value="130" />
+    <int name="piecenum5" value="2" />
+    <int name="piecenum6" value="9" />
+    <int name="piecenum7" value="3" />
+    <string name="salestarttime">637664058291179320</string>
+    <int name="daytask1" value="0" />
+    <int name="piecenum0" value="11" />
+    <int name="daytask2" value="0" />
+    <int name="piecenum1" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="daytask3" value="0" />
+    <int name="piecenum2" value="2" />
+    <int name="daytask4" value="3" />
+    <int name="piecenum3" value="5" />
+    <int name="daytasktime09%2F05%2F2021" value="1" />
+    <int name="daytasktime09%2F06%2F2021" value="1" />
+    <int name="daytask0" value="0" />
+    <int name="exp" value="200" />
+    <int name="startplane" value="0" />
+    <int name="energy" value="359" />
+    <int name="firstshowgame" value="1" />
+    <int name="allopenboxnum" value="176" />
+    <int name="AdTimes09%2F06%2F2021" value="1" />
+    <int name="planehint1" value="0" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="energystarttime">637664084430000000</string>
+    <int name="haveboxnum" value="0" />
+    <int name="curlevel" value="1" />
+    <int name="piecenum8" value="5" />
+    <int name="planelock1" value="0" />
+    <int name="piecenum9" value="1" />
+    <int name="star_achi2" value="1" />
+    <int name="armourtype1" value="1" />
+    <int name="coin" value="1000056891" />
+    <int name="popsaleflag" value="0" />
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <int name="nextlevel" value="1" />
+    <int name="armourlockcurlv1" value="9" />
+    <int name="armourlockcurlv0" value="9" />
+    <string name="unity.player_session_count">7</string>
+    <int name="item_achi2" value="2" />
+    <int name="saleid" value="0" />
+    <int name="item_achi6" value="1" />
+    <int name="gunlockcurlv0" value="9" />
+    <int name="levelstar0" value="111" />
+    <int name="menufirst" value="0" />
+    <int name="levelfirst_start1" value="0" />
+    <int name="AdTimes09%2F05%2F2021" value="1" />
+    <int name="biglevel0" value="1000003" />
+    <string name="unity.cloud_userid">12184b0071b17e3ad80117d89361d550</string>
+    <int name="levelfirst_start0" value="0" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="diamond" value="1000000100" />
+    <int name="FirstEnterGame" value="0" />
+    <int name="gamefirst" value="0" />
+    <int name="levelfirst_win0" value="0" />
+    <int name="DiamondAdTimes" value="1" />
+    <int name="armourlock0" value="0" />
+    <int name="armourlock1" value="0" />
+</map>

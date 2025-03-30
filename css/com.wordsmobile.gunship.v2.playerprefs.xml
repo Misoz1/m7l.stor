@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="dailyMissionIsComplete5" value="0" />
+    <int name="isOverDisplayView" value="1" />
+    <int name="canBuyPlaneIndex" value="1" />
+    <int name="dailyMissionIsComplete4" value="0" />
+    <int name="dailyMissionIsComplete3" value="0" />
+    <int name="dailyMissionIsComplete2" value="1" />
+    <int name="dailyMissionIsComplete1" value="0" />
+    <string name="unity.player_sessionid">8289378632275146490</string>
+    <int name="dailyMissionIsComplete0" value="0" />
+    <int name="stepVideoAdClickTimes" value="1" />
+    <int name="dayOfYear" value="249" />
+    <int name="achProgress7" value="5" />
+    <int name="achProgress13" value="2" />
+    <int name="achProgress12" value="2" />
+    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="isMoreGameTips" value="1" />
+    <int name="planeBanlanceLevel" value="1" />
+    <int name="achProgress5" value="11" />
+    <int name="dailyMissionProgressDta1" value="0" />
+    <int name="dailyMissionProgressDta2" value="1" />
+    <int name="dailyMissionProgressDta3" value="0" />
+    <int name="dailyMissionProgressDta4" value="0" />
+    <int name="dailyMissionProgressDta5" value="0" />
+    <int name="daimond" value="999999499" />
+    <int name="dailyMissionProgressDta6" value="1" />
+    <int name="weaponType9" value="3" />
+    <string name="linkNetTime">09%2F06%2F2021%2001%3A47%3A43</string>
+    <int name="isCanbuyPlane" value="0" />
+    <string name="lastAddEnemyTime">09%2F05%2F2021%2005%3A35%3A57</string>
+    <int name="monthSignFreshCount" value="1" />
+    <int name="haveUpgradeOnce" value="1" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="pieceType0" value="1" />
+    <int name="pieceType1" value="0" />
+    <int name="pieceType2" value="1" />
+    <int name="dailyMissionProgressDta0" value="3" />
+    <int name="pieceType3" value="0" />
+    <int name="slotHaveTime" value="1" />
+    <int name="teachHelp" value="1" />
+    <int name="isFirstTimeLoading" value="1" />
+    <int name="passLevel" value="1" />
+    <int name="haveClickMoreGame" value="1" />
+    <int name="teachClip" value="1" />
+    <int name="dailyMissionIsRec0" value="0" />
+    <int name="setServerTime" value="18880" />
+    <int name="isTouchStart" value="1" />
+    <int name="dailyMissionIsRec2" value="0" />
+    <int name="weaponTypeNowClip9" value="-1" />
+    <int name="dailyMissionIsRec1" value="0" />
+    <int name="dailyMissionIsComplete6" value="0" />
+    <int name="coin" value="999884112" />
+    <int name="boundsLoadingDay" value="18880" />
+    <int name="dailyMissionIsRec4" value="0" />
+    <int name="planeHealthLevel3" value="0" />
+    <int name="weaponTypeNowClip18" value="311" />
+    <int name="dailyMissionIsRec3" value="0" />
+    <int name="haveNotifyCanbuyPlane1" value="1" />
+    <int name="dailyMissionIsRec6" value="0" />
+    <int name="planeHealthLevel1" value="0" />
+    <int name="weaponType10" value="1" />
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <int name="planeHealthLevel0" value="0" />
+    <int name="dailyMissionIsRec5" value="0" />
+    <int name="lockBigMap" value="0" />
+    <string name="enmeyPurchaseTime">09%2F05%2F2021%2005%3A35%3A57</string>
+    <int name="weaponType18" value="1" />
+    <int name="enemy" value="60" />
+    <int name="monthSignFirstFreshTime" value="18879" />
+    <int name="monthSignIndex" value="1" />
+    <int name="levelStar0" value="7" />
+    <int name="levelStar1" value="7" />
+    <int name="weaponTypeNowClip10" value="-1" />
+    <int name="achStage12" value="1" />
+    <string name="planeLoadAllStr">102%7C201%7C303%7C404%7C%7C</string>
+    <int name="boundsDay" value="2" />
+    <int name="lockNewPlane" value="0" />
+    <string name="unity.player_session_count">3</string>
+    <int name="havePlane" value="11" />
+    <string name="firstLoadTime">09%2F07%2F2021%2005%3A35%3A57</string>
+    <int name="isAchReach" value="1" />
+    <string name="unity.cloud_userid">b156f59536a2cde8ca6557f2d4612a93</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="achProgress1" value="20" />
+    <string name="planeLoadStr3">102%7C201%7C303%7C404%7C%7C</string>
+    <int name="achProgress2" value="11" />
+    <int name="levelPass" value="3" />
+    <string name="planeLoadStr1">102%7C201%7C303%7C%7C%7C</string>
+    <string name="planeLoadStr0">102%7C201%7C%7C%7C%7C</string>
+    <int name="passReward" value="1" />
+    <int name="monthSignDay" value="18879" />
+    <int name="passBattle" value="1" />
+    <int name="lastLoadTime" value="18876" />
+    <int name="choosePlaneIndex" value="3" />
+</map>
