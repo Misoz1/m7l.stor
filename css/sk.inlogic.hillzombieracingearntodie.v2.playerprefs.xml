@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="bestResults">AF2%2FAkQAAAAAAACQQTOzE0QAAAAAAAC4Qa4HdkQAAABAAAAkQjMz5kMAAAAAAACoQaOQMkQAAIA%2FAAAYQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%3D%3D</string>
+    <string name="unity.player_sessionid">7453643495217120441</string>
+    <string name="lastClaimedBonus">05%2F18%2F21%2011%3A16%3A44</string>
+    <int name="level_2_3unlocked" value="1" />
+    <int name="completedMapTutorial" value="1" />
+    <int name="level_1_2unlocked" value="1" />
+    <string name="LastRegularFuelRewardDateTime">05%2F19%2F21%2011%3A31%3A44</string>
+    <int name="CurrentFuel" value="39" />
+    <float name="achievement_totalDistance" value="6195.2935" />
+    <int name="QUEST_MAIN" value="0" />
+    <int name="FuelFullLastNotifID" value="2127836347" />
+    <int name="HasShowChestWindow" value="1" />
+    <int name="coins" value="1000000623" />
+    <string name="QUEST_1">ASUAAAAeAAAA</string>
+    <string name="QUEST_2">ASYAAAAyAAAA</string>
+    <string name="QUEST_3">AScAAAD%2FAQAA</string>
+    <int name="ChestLevelDestroyed1_3_8" value="1" />
+    <string name="NotifSequence">110</string>
+    <int name="gems" value="999999999" />
+    <int name="HAS_COLLECTED_QUEST_MAIN_EVER" value="1" />
+    <int name="level2unlocked" value="1" />
+    <string name="specialOfferStart">05%2F19%2F21%2011%3A27%3A31</string>
+    <int name="ChestLevelDestroyed1_3_0" value="1" />
+    <int name="showIntro" value="0" />
+    <int name="ChestLevelDestroyed1_3_1" value="1" />
+    <int name="FuelNotifTextIndex" value="0" />
+    <int name="ChestLevelDestroyed1_3_7" value="1" />
+    <int name="ResetChests" value="-1" />
+    <string name="unlockedCars">AgwAAAADAA%3D%3D</string>
+    <int name="DroppedCar1" value="1" />
+    <int name="showTutorial" value="0" />
+    <int name="ChestLevelDestroyed2_2_0" value="1" />
+    <int name="hasResetQuestsForTesting" value="1" />
+    <int name="sectionFinishedEvent_NOA" value="0" />
+    <int name="level_2_2unlocked" value="1" />
+    <int name="QuestsMenuOnboardingFinished" value="1" />
+    <int name="level_1_1unlocked" value="1" />
+    <int name="actualCarIndex" value="1" />
+    <int name="QuestNotifTextIndex" value="2" />
+    <int name="QuestItemSeen_3" value="1" />
+    <string name="NextNotiIconRefresh">05%2F19%2F21%2012%3A16%3A44</string>
+    <int name="actualStageId" value="2" />
+    <int name="QuestItemSeen_1" value="1" />
+    <int name="QuestItemSeen_2" value="1" />
+    <string name="unity.player_session_count">1</string>
+    <int name="showTurboTutorial" value="0" />
+    <float name="prevDistance" value="714.25995" />
+    <int name="NewQuestLastNotifID" value="1826276424" />
+    <float name="achievement_maxAvgSpeed" value="64.18174" />
+    <int name="actualSectionId" value="3" />
+    <string name="unity.cloud_userid">079f7f7dacc818777b5ca4499d37e72d</string>
+    <int name="level_1_3unlocked" value="1" />
+    <int name="level1unlocked" value="1" />
+    <string name="car0">AQgAAAADAAAAAwAAAAMAAAAIAAAAAwAAAAYAAAAGAAAA</string>
+    <int name="level_2_1unlocked" value="1" />
+    <string name="car1">AQgAAAADAAAAAwAAAAMAAAAIAAAAAwAAAAYAAAAGAAAA</string>
+    <string name="LastFinishedLevel">2-2</string>
+    <string name="playAdDate">05%2F18%2F21%2011%3A16%3A44</string>
+    <string name="achievement_totalKilledZombies">AdIAAAAvAAAAAAAAAAIAAAA%3D</string>
+    <string name="NEXT_QUEST_TIME_3">05%2F19%2F2021%2019%3A17%3A56</string>
+    <string name="NEXT_QUEST_TIME_2">05%2F19%2F2021%2019%3A21%3A05</string>
+    <string name="NEXT_QUEST_TIME_1">05%2F19%2F2021%2019%3A21%3A04</string>
+    <int name="averageSpeedConvertedToChestsHit" value="1" />
+</map>
