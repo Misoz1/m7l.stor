@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <string name="unity.player_sessionid">1391718111028207679</string>
+    <int name="hart" value="5" />
+    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="carIndex" value="4" />
+    <string name="playerCarInfo_color_0">0%7C%23</string>
+    <string name="playerCarInfo_color_1">3%7C%23</string>
+    <int name="Screenmanager%20Is%20Fullscreen%20mode" value="0" />
+    <string name="playerCarInfo_2">5%7C0%7C0%7C0%7C0%7C0</string>
+    <string name="playerCarInfo_color_4">1%7C%23</string>
+    <string name="playerCarInfo_3">4%7C0%7C0%7C0%7C0%7C0</string>
+    <string name="playerCarInfo_color_2">5%7C%23</string>
+    <string name="playerCarInfo_4">1%7C0%7C0%7C0%7C0%7C0</string>
+    <string name="playerCarInfo_color_3">4%7C%23</string>
+    <string name="playerCarInfo_0">0%7C0%7C0%7C0%7C0%7C1</string>
+    <string name="playerCarInfo_1">3%7C0%7C0%7C0%7C0%7C1</string>
+    <string name="unity.player_session_count">2</string>
+    <string name="playerCarInfo_wheel_1">0%7C%23</string>
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="playerCarInfo_wheel_0">0%7C%23</string>
+    <string name="unity.cloud_userid">304c1414949024c35958ec9a117267ba</string>
+    <int name="firstOpen" value="1" />
+    <int name="money" value="999990499" />
+    <string name="playerCarInfo_wheel_3">0%7C%23</string>
+    <string name="playerCarInfo_wheel_2">0%7C%23</string>
+    <string name="playerCarInfo_wheel_4">0%7C%23</string>
+</map>
