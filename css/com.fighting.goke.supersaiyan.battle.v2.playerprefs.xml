@@ -2,7 +2,7 @@
 <map>
     <int name="TRUHAN_SKILL_3" value="0" />
     <int name="GOHAN_SAIYA_LEVEL" value="0" />
-    <string name="unity.player_sessionid">3284224452164628077</string>
+    <string name="unity.player_sessionid">5604214184279146897</string>
     <int name="GOHAN_MANA" value="0" />
     <int name="TRUHAN_SKILL_1" value="1" />
     <int name="TRUHAN_SKILL_2" value="0" />
@@ -32,6 +32,7 @@
     <int name="BOSS_CHANLLENGER_2" value="1" />
     <int name="BOSS_CHANLLENGER_3" value="1" />
     <int name="JJREN_EXP" value="0" />
+    <int name="Sound" value="1" />
     <int name="BOSS_CHANLLENGER_1" value="1" />
     <int name="GOREN_HEALTH" value="1200" />
     <int name="REMOVE_ADS" value="0" />
@@ -45,14 +46,16 @@
     <int name="VETO_LEVEL" value="0" />
     <int name="GOTA_DAME" value="900" />
     <int name="TRUNKS_COMBO" value="7" />
+    <string name="Level">EASY</string>
     <int name="TRUN_UNLOCK" value="1" />
     <int name="JJREN_UNLOCK" value="0" />
     <int name="CHARACTER_SELECT" value="1" />
     <int name="GOREN_EXP" value="0" />
+    <int name="Year_reward" value="2025" />
     <int name="GOKU_MANA" value="0" />
     <int name="VEGITA_SKILL_1" value="6" />
     <int name="TRUNKS_SAIYA_LEVEL" value="0" />
-    <int name="Screenmanager%20Resolution%20Height" value="810" />
+    <int name="Screenmanager%20Resolution%20Height" value="1080" />
     <int name="GET_CHEAP" value="0" />
     <int name="VEGITA_SKILL_2" value="6" />
     <int name="VEGITA_SKILL_3" value="6" />
@@ -60,6 +63,7 @@
     <int name="BLOLY_LEVEL" value="0" />
     <int name="TRUHAN_UNLOCK" value="0" />
     <int name="B_CHALLENGE_5" value="0" />
+    <int name="NumGamePlayed" value="0" />
     <int name="B_CHALLENGE_1" value="0" />
     <int name="B_CHALLENGE_2" value="0" />
     <int name="VEGITA_MANA" value="0" />
@@ -73,6 +77,7 @@
     <int name="GOLY_DAME" value="1300" />
     <int name="TRUHAN_EXP" value="0" />
     <int name="BOX_3" value="0" />
+    <int name="IsInitialize" value="1" />
     <int name="BOX_2" value="0" />
     <int name="BOX_1" value="0" />
     <int name="JJREN_COMBO" value="1" />
@@ -88,10 +93,12 @@
     <int name="GOLY_EXP" value="0" />
     <int name="GOTA_HEALTH" value="700" />
     <int name="GOLY_COMBO" value="1" />
+    <int name="Music" value="1" />
     <int name="TOTAL_DP" value="100000110" />
     <int name="B_GOK_SKILL_1" value="1" />
     <int name="B_GOK_SKILL_2" value="0" />
     <int name="B_GOK_SKILL_3" value="0" />
+    <int name="Day" value="2" />
     <int name="TRUHAN_DAME" value="900" />
     <int name="BLOLY_MANA" value="100" />
     <int name="TRUNKS_DAME" value="0" />
@@ -101,7 +108,7 @@
     <int name="GOTA_EXP" value="0" />
     <int name="TRUHAN_LEVEL" value="0" />
     <int name="TRUHAN_HEALTH" value="800" />
-    <int name="Screenmanager%20Resolution%20Width" value="1732" />
+    <int name="Screenmanager%20Resolution%20Width" value="2400" />
     <int name="GOLY_HEALTH" value="1200" />
     <int name="GOREN_SKILL_2" value="0" />
     <int name="VEGITA_COMBO" value="9" />
@@ -132,12 +139,15 @@
     <int name="WATCH_VIDEO" value="0" />
     <int name="GOTA_LEVEL" value="0" />
     <int name="GOTA_MANA" value="100" />
+    <int name="HasShowInAppReview" value="0" />
+    <int name="coin" value="0" />
     <int name="VETO_UNLOCK" value="0" />
     <int name="GOTA_COMBO" value="1" />
     <int name="TOTAL_POINT" value="99996514" />
     <int name="B_GOK_COMBO" value="1" />
     <int name="LEVELS" value="6" />
     <int name="GOTA_UNLOCK" value="0" />
+    <int name="Day_reward" value="90" />
     <int name="TRUNKS_SKILL_3" value="6" />
     <int name="TRUNKS_SKILL_2" value="6" />
     <int name="P_CHALLENGE_5" value="0" />
@@ -158,14 +168,14 @@
     <int name="GOKU_SKILL_1" value="100022" />
     <int name="GOLY_MANA" value="250" />
     <int name="GOHAN_SET_ABLITY" value="1" />
-    <string name="unity.player_session_count">7</string>
+    <string name="unity.player_session_count">9</string>
     <int name="TRUHAN_MANA" value="100" />
     <int name="JJREN_LEVEL" value="0" />
     <int name="JJREN_SKILL_1" value="1" />
     <int name="GET_EARN_BALL_REWARD_LEVEL" value="0" />
     <int name="VETO_DAME" value="900" />
     <int name="TRUHAN_SAIYA_LEVEL" value="0" />
-    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
     <int name="BLOLY_SKILL_3" value="0" />
     <int name="GOKU_DAME" value="999999" />
     <int name="GOKU_HEALTH" value="999999" />
@@ -173,6 +183,8 @@
     <int name="GOREN_SAIYA_LEVEL" value="0" />
     <int name="GOHAN_HEALTH" value="0" />
     <int name="GOHAN_DAME" value="0" />
+    <string name="PlayerData">%7B%22coin%22%3A1999999499%2C%22diamon%22%3A2000000024%2C%22stamina%22%3A0%2C%22listCharacterUnlocked%22%3A%7B%22listCharacterUnlockd%22%3A%5B%22Goku%22%2C%22Picollo%22%2C%22Vegeta%22%2C%22Nappa%22%2C%22Raditz%22%2C%22Recoome%22%2C%22Trunks%22%2C%22Frizea%22%5D%7D%7D</string>
+    <string name="CHAR_UNLOCKED">%7B%22listCharacterUnlockd%22%3A%5B%22Goku%22%2C%22Picollo%22%2C%22Vegeta%22%2C%22Nappa%22%2C%22Raditz%22%2C%22Recoome%22%2C%22Trunks%22%2C%22Frizea%22%5D%7D</string>
     <int name="BLOLY_SKILL_1" value="1" />
     <int name="GOREN_LEVEL" value="0" />
     <int name="GOK_UNLOCK" value="999" />
