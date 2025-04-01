@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="card0">h=9;c=10;l=9;hp=99999.9691;da=9999.022053;sp=34.636364;qu=0;va=0;</string>
+    <string name="card1">h=9;c=9;l=9;hp=99999.0;da=9999.0;sp=34.0;qu=1;va=-99999999;</string>
+    <string name="card2">h=18;c=18;l=18;hp=99999.5;da=9999.266666;sp=33.0;qu=0;va=9;</string>
+    <string name="card3">h=10;c=10;l=10;hp=99999.00006;da=9999.4;sp=21.0;qu=2;va=1980;</string>
+    <string name="card4">h=10;c=10;l=10;hp=99999.0;da=9999.600002;sp=21.0;qu=1;va=977;</string>
+    <string name="card5">h=2;c=2;l=2;hp=99999.0;da=9999.433334;sp=25.0;qu=1;va=1040;</string>
+    <string name="card6">h=8;c=8;l=8;hp=99999.0;da=9999.2;sp=23.0;qu=1;va=919;</string>
+    <string name="card7">h=16;c=16;l=16;hp=99999.6667;da=9999.266666;sp=32.0;qu=0;va=9;</string>
+    <string name="card8">h=0;c=0;l=0;hp=99999.0;da=9999.0;sp=24.0;qu=1;va=1040;</string>
+    <string name="card9">h=1;c=1;l=1;hp=99999.3333;da=9999.866665;sp=31.0;qu=1;va=805;</string>
+    <string name="arena_lost_md5">cef3371d75737b289aafded6ce5d6a08</string>
+    <int name="pack_number" value="6" />
+    <string name="MINERAL_LEVEL_md5">52b5ef60cfbab3a8fe145f43e3c2e4dd</string>
+    <boolean name="record" value="true" />
+    <string name="good_recoed_md5">d6985288900bc4458be92b17ebedb321</string>
+    <boolean name="arena_record" value="true" />
+    <string name="pack_number_md5">dc7c023a6e6c460e89863c687555b842</string>
+    <string name="player_name">NeverLand</string>
+    <int name="arena_won" value="0" />
+    <int name="discount__rate" value="50" />
+    <string name="good_5">h=2;c=2;l=2;hp=498.0;da=35.766666;sp=25.0;qu=0;va=300;</string>
+    <string name="good_4">h=1;c=1;l=1;hp=560.3333;da=33.066666;sp=31.0;qu=0;va=300;</string>
+    <string name="good_9">h=10;c=10;l=10;hp=645.0;da=29.6;sp=22.0;qu=0;va=300;</string>
+    <string name="good_8">h=8;c=8;l=8;hp=618.0;da=28.400002;sp=25.0;qu=0;va=291;</string>
+    <string name="good_7">h=9;c=9;l=9;hp=960.00006;da=49.333336;sp=32.0;qu=2;va=1980;</string>
+    <string name="good_6">h=9;c=9;l=9;hp=614.5;da=30.833334;sp=34.0;qu=0;va=300;</string>
+    <string name="card25">h=1;c=1;l=1;hp=572.0;da=30.2;sp=32.0;qu=0;va=291;</string>
+    <string name="Fort_LEVEL_md5">52b5ef60cfbab3a8fe145f43e3c2e4dd</string>
+    <string name="card24">h=1;c=1;l=1;hp=572.0;da=30.2;sp=32.0;qu=0;va=291;</string>
+    <string name="card23">h=1;c=1;l=1;hp=572.0;da=30.2;sp=32.0;qu=0;va=291;</string>
+    <string name="card22">h=1;c=1;l=1;hp=572.0;da=30.2;sp=32.0;qu=0;va=291;</string>
+    <string name="arena_won_md5">cef3371d75737b289aafded6ce5d6a08</string>
+    <string name="card26">h=1;c=1;l=1;hp=572.0;da=30.2;sp=32.0;qu=0;va=291;</string>
+    <string name="player_level_md5">d6985288900bc4458be92b17ebedb321</string>
+    <string name="good_15">h=10;c=10;l=10;hp=660.0;da=30.4;sp=23.0;qu=0;va=308;</string>
+    <string name="good_16">h=8;c=8;l=8;hp=651.0;da=25.400002;sp=25.0;qu=0;va=283;</string>
+    <long name="free_crystal__end" value="1581058801" />
+    <long name="discount__local" value="1582634310100" />
+    <string name="good_13">h=0;c=0;l=0;hp=588.0;da=30.000002;sp=22.0;qu=0;va=291;</string>
+    <int name="player_stamina" value="30" />
+    <string name="good_14">h=9;c=9;l=9;hp=766.0;da=39.333332;sp=33.0;qu=1;va=919;</string>
+    <int name="good_recoed" value="1" />
+    <string name="good_11">h=10;c=10;l=10;hp=800.0;da=35.8;sp=23.0;qu=1;va=862;</string>
+    <string name="card21">h=9;c=9;l=9;hp=643.0;da=31.666666;sp=33.0;qu=0;va=347;</string>
+    <string name="user_id">b0e126c2-5b71-4a4f-9ead-1551385f2535</string>
+    <string name="good_12">h=10;c=10;l=10;hp=985.00006;da=46.4;sp=23.0;qu=2;va=1900;</string>
+    <string name="card20">h=9;c=9;l=9;hp=643.0;da=31.666666;sp=33.0;qu=0;va=347;</string>
+    <string name="good_10">h=8;c=8;l=8;hp=1007.00006;da=40.800003;sp=23.0;qu=2;va=1587;</string>
+    <long name="free_crystal__now" value="1582634311" />
+    <string name="good_19">h=9;c=9;l=9;hp=760.5;da=41.166668;sp=34.0;qu=1;va=977;</string>
+    <string name="good_17">h=9;c=9;l=9;hp=597.5;da=30.833334;sp=34.0;qu=0;va=300;</string>
+    <string name="good_18">h=8;c=8;l=8;hp=616.0;da=27.400002;sp=23.0;qu=0;va=283;</string>
+    <int name="total_coin" value="9999999" />
+    <boolean name="sound_enabled" value="true" />
+    <int name="bought_coin" value="0" />
+    <string name="card19">h=9;c=9;l=9;hp=643.0;da=31.666666;sp=33.0;qu=0;va=347;</string>
+    <int name="MINERAL_LEVEL" value="99" />
+    <long name="free_crystal__local" value="1582634310092" />
+    <int name="guide_step" value="13" />
+    <string name="card14">h=10;c=10;l=10;hp=810.0;da=40.4;sp=22.0;qu=1;va=1040;</string>
+    <string name="card13">h=10;c=10;l=10;hp=810.0;da=40.4;sp=22.0;qu=1;va=1040;</string>
+    <string name="card12">h=10;c=10;l=10;hp=810.0;da=40.4;sp=22.0;qu=1;va=1040;</string>
+    <boolean name="music_enabled" value="true" />
+    <string name="card11">h=10;c=10;l=10;hp=810.0;da=40.4;sp=22.0;qu=1;va=1040;</string>
+    <long name="free_crystal__start" value="1392026401" />
+    <string name="card18">h=10;c=10;l=10;hp=810.0;da=40.4;sp=22.0;qu=1;va=1040;</string>
+    <string name="bought_coin_md5">cef3371d75737b289aafded6ce5d6a08</string>
+    <string name="total_coin_md5">3ef9b470aa4c47055da33ccb22c7ff97</string>
+    <string name="card17">h=10;c=10;l=10;hp=810.0;da=40.4;sp=22.0;qu=1;va=1040;</string>
+    <string name="card16">h=10;c=10;l=10;hp=810.0;da=40.4;sp=22.0;qu=1;va=1040;</string>
+    <int name="player_exp" value="5" />
+    <int name="guide_input" value="1" />
+    <string name="card15">h=10;c=10;l=10;hp=810.0;da=40.4;sp=22.0;qu=1;va=1040;</string>
+    <int name="card_num" value="12" />
+    <long name="discount__end" value="1582545600" />
+    <string name="card10">h=16;c=16;l=16;hp=1524.0001;da=83.600006;sp=32.0;qu=2;va=35;</string>
+    <int name="Fort_LEVEL" value="99" />
+    <string name="player_exp_md5">27b54b3972b8254ce5013dc51772a903</string>
+    <int name="arena_lost" value="0" />
+    <string name="TOTAL_CRYSTAL_md5">25708b9da44129baf40a18d62c45d9f5</string>
+    <long name="discount__start" value="1582268400" />
+    <int name="player_level" value="1" />
+    <long name="discount__now" value="1582634311" />
+    <long name="time_stamp" value="1582634340000" />
+    <string name="player_stamina_md5">953aff4ed7568cf0e17cbddce746c33f</string>
+    <int name="TOTAL_CRYSTAL" value="99999" />
+    <int name="free_crystal__rate" value="100" />
+    <int name="level_passed0" value="0" />
+</map>

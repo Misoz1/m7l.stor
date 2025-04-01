@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="_LvKhang" value="8" />
+    <int name="_Gold" value="1999999999" />
+    <int name="T5C" value="0" />
+    <string name="unity.player_sessionid">1793468033285999696</string>
+    <int name="T1C" value="1" />
+    <int name="_Chet" value="2" />
+    <int name="A8C" value="0" />
+    <int name="UserConsent" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="2400" />
+    <string name="A1">29</string>
+    <int name="A4C" value="1" />
+    <string name="A2">15</string>
+    <string name="A3">36</string>
+    <string name="A4">23</string>
+    <string name="A5">49</string>
+    <string name="A6">40</string>
+    <string name="A7">7</string>
+    <int name="T10C" value="0" />
+    <string name="A8">57</string>
+    <int name="CcpaConsent" value="1" />
+    <int name="_LvAtt" value="10" />
+    <int name="10" value="-1" />
+    <int name="T6C" value="0" />
+    <int name="11" value="-1" />
+    <int name="M0C" value="1" />
+    <int name="12" value="-1" />
+    <int name="13" value="-1" />
+    <int name="14" value="-1" />
+    <int name="T2C" value="1" />
+    <int name="15" value="-1" />
+    <int name="16" value="-1" />
+    <int name="17" value="-1" />
+    <int name="18" value="-1" />
+    <int name="MusicOn" value="1" />
+    <int name="19" value="-1" />
+    <int name="_DM" value="1999989999" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="A5C" value="0" />
+    <int name="1" value="0" />
+    <int name="2" value="-1" />
+    <int name="A1C" value="1" />
+    <int name="3" value="-1" />
+    <int name="4" value="-1" />
+    <int name="5" value="-1" />
+    <int name="6" value="-1" />
+    <int name="oss1" value="-1" />
+    <int name="7" value="-1" />
+    <int name="8" value="-1" />
+    <int name="9" value="-1" />
+    <string name="TransInUse">T4</string>
+    <int name="20" value="-1" />
+    <int name="T7C" value="0" />
+    <int name="Screenmanager%20Resolution%20Height" value="1080" />
+    <int name="_LvDash" value="10" />
+    <int name="_LvTrans" value="10" />
+    <int name="T3C" value="1" />
+    <int name="A6C" value="1" />
+    <int name="_LvHP" value="10" />
+    <int name="A2C" value="1" />
+    <string name="MaskInUse">M0</string>
+    <int name="_SkillPoint" value="0" />
+    <int name="npa" value="1" />
+    <int name="T8C" value="0" />
+    <string name="unity.player_session_count">2</string>
+    <int name="T4C" value="1" />
+    <int name="T0C" value="1" />
+    <int name="T11C" value="0" />
+    <int name="A7C" value="0" />
+    <string name="unity.cloud_userid">19499193447abd4e6bc6283747bdbd63</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="A3C" value="1" />
+    <int name="NoAds" value="1" />
+    <int name="z1" value="1" />
+    <float name="AudioValue" value="1.0" />
+    <int name="z2" value="1" />
+    <int name="Theme" value="1" />
+    <int name="z3" value="1" />
+    <int name="z4" value="1" />
+    <int name="z5" value="0" />
+    <int name="T9C" value="0" />
+</map>

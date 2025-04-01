@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="DRIVING_CONTROLLER_PEDAL_TYPE" value="1" />
+    <int name="ANALYTICS_TOTAL_CASH_EARNED" value="48000" />
+    <int name="PURCHASED_31" value="1" />
+    <int name="PURCHASED_32" value="1" />
+    <int name="UnityGraphicsQuality" value="0" />
+    <int name="PURCHASED_30" value="1" />
+    <int name="PURCHASED_35" value="1" />
+    <string name="unity.player_sessionid">4913330326455650672</string>
+    <int name="PURCHASED_33" value="1" />
+    <int name="PURCHASED_34" value="1" />
+    <int name="PLAYER_SELECTED_COLOR_FOR_VEHICLE18" value="1" />
+    <float name="PLAYER_SELECTED_COLOR_FOR_VEHICLE32b" value="0.0" />
+    <float name="PLAYER_SELECTED_COLOR_FOR_VEHICLE32a" value="1.0" />
+    <int name="LOCALIZATION_MANAGER_USER_SELECTED_LANGUAGE_ID" value="0" />
+    <int name="USER_SUBMITTED_AGE1" value="28" />
+    <int name="Screenmanager%20Resolution%20Width" value="2300" />
+    <float name="PLAYER_SELECTED_COLOR_FOR_VEHICLE32g" value="0.0" />
+    <int name="LAST_REWARD" value="3" />
+    <int name="PURCHASED_28" value="1" />
+    <float name="PLAYER_SELECTED_COLOR_FOR_VEHICLE32r" value="0.0" />
+    <int name="SHARE_OR_FOLLOW_OPTION_1" value="1" />
+    <int name="PURCHASED_29" value="1" />
+    <int name="SHARE_OR_FOLLOW_OPTION_0" value="1" />
+    <int name="PURCHASED_26" value="1" />
+    <int name="SHARE_OR_FOLLOW_OPTION_3" value="1" />
+    <int name="PURCHASED_27" value="1" />
+    <int name="SHARE_OR_FOLLOW_OPTION_2" value="1" />
+    <int name="SHARE_OR_FOLLOW_OPTION_4" value="1" />
+    <int name="PURCHASED_20" value="1" />
+    <string name="EM_APP_INSTALLATION_TIMESTAMP">-8585606969528962508</string>
+    <int name="PURCHASED_21" value="1" />
+    <int name="PLAYER_SELECTED_MATERIAL_TYPE_FOR_VEHICLE18" value="4" />
+    <int name="PURCHASED_25" value="1" />
+    <int name="PURCHASED_22" value="1" />
+    <int name="PURCHASED_23" value="1" />
+    <int name="PRIZE_3" value="1" />
+    <int name="DRIVING_CONTROLLER_TYPE" value="1" />
+    <int name="PRIZE_1" value="1" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="PRIZE_2" value="1" />
+    <int name="PLAYER_SELECTED_GAME_MODE" value="2" />
+    <float name="ANALYTICS_TOTAL_TIME_SPENT_ON_GAME" value="589.23584" />
+    <int name="PURCHASED_17" value="1" />
+    <int name="PURCHASED_18" value="1" />
+    <int name="PURCHASED_15" value="1" />
+    <int name="PURCHASED_16" value="1" />
+    <int name="PURCHASED_19" value="1" />
+    <float name="PLAYER_SELECTED_COLOR_FOR_VEHICLE18b" value="0.9181793" />
+    <int name="PURCHASED_10" value="1" />
+    <float name="PLAYER_SELECTED_COLOR_FOR_VEHICLE18a" value="1.5" />
+    <int name="Screenmanager%20Resolution%20Height" value="1080" />
+    <int name="PURCHASED_2" value="1" />
+    <int name="PURCHASED_13" value="1" />
+    <int name="PURCHASED_3" value="1" />
+    <int name="PURCHASED_11" value="1" />
+    <int name="PURCHASED_1" value="1" />
+    <int name="PURCHASED_12" value="1" />
+    <int name="PLAYER_ACTIVE_VEHICLE" value="18" />
+    <int name="PURCHASED_6" value="1" />
+    <int name="PURCHASED_7" value="1" />
+    <int name="PURCHASED_4" value="1" />
+    <int name="PURCHASED_5" value="1" />
+    <float name="PLAYER_SELECTED_COLOR_FOR_VEHICLE18g" value="0.124581754" />
+    <int name="PURCHASED_50" value="1" />
+    <float name="ANALYTICS_TOTAL_DRIVEN_DISTANCE" value="2688.2485" />
+    <int name="PURCHASED_8" value="1" />
+    <int name="GAME_TARGET_FRAMERATE" value="0" />
+    <int name="PURCHASED_9" value="1" />
+    <int name="PLAYER_SELECTED_COLOR_FOR_VEHICLE32" value="1" />
+    <float name="PLAYER_SELECTED_COLOR_FOR_VEHICLE18r" value="0.8170433" />
+    <int name="VALUE_PREMIUM_CASH" value="1999946459" />
+    <int name="PURCHASED_48" value="1" />
+    <int name="PURCHASED_49" value="1" />
+    <int name="MAIN_CASH_COUNT" value="1987298999" />
+    <string name="LAST_REWARD_DATE">01012022</string>
+    <string name="unity.player_session_count">13</string>
+    <int name="GAME_QUALITY_LEVEL" value="0" />
+    <int name="PURCHASED_46" value="1" />
+    <int name="PURCHASED_47" value="1" />
+    <int name="PURCHASED_44" value="1" />
+    <string name="USER_NICKNAME">Yakoshi</string>
+    <int name="PURCHASED_45" value="1" />
+    <int name="PLAYER_SELECTED_MATERIAL_TYPE_FOR_VEHICLE32" value="4" />
+    <string name="unity.cloud_userid">2a14774d5192253d5929318b73fc6405</string>
+    <int name="LEVEL_TYPE_0_LEVEL_0" value="1" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="PURCHASED_37" value="1" />
+</map>

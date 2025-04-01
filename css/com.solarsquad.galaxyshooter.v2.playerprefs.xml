@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="player_equipment">%7B%22devices%22%3A%7B%7D%7D</string>
+    <int name="GotDiamond_secondRule" value="3" />
+    <int name="watch_video_free_menu" value="0" />
+    <int name="KilledBoss" value="2" />
+    <string name="pets_new_list"></string>
+    <int name="selected_level" value="4" />
+    <string name="endless_score">0</string>
+    <int name="engage_per_day" value="1" />
+    <int name="check_bool_AirBornePack" value="0" />
+    <int name="watch_times_video_shop_box" value="0" />
+    <int name="5GotEquipmentDailyQuest" value="0" />
+    <int name="10DoneAllQuest" value="0" />
+    <int name="FIRST%20RUN" value="1" />
+    <int name="notify_endless_open" value="0" />
+    <string name="today_quests">0%7C1%7C2%7C3%7C4%7C5%7C6%7C7%7C8%7C9%7C</string>
+    <int name="campaign_socore_reported" value="93484" />
+    <int name="energy" value="999" />
+    <int name="applied_preitem_health" value="0" />
+    <int name="LoginOn_firstRule" value="1" />
+    <int name="UpgradePet" value="2" />
+    <int name="player_max_level" value="5" />
+    <int name="boss_met_in_a_day" value="0" />
+    <int name="plane_unlock_skill_0" value="0" />
+    <int name="endless_done" value="0" />
+    <int name="PassedStage_firstRule" value="5" />
+    <int name="update_time_world_boss" value="1" />
+    <int name="Screenmanager%20Resolution%20Height" value="2316" />
+    <int name="login_day" value="2" />
+    <int name="DailyCollectedGold" value="0" />
+    <int name="check_premium_time" value="1" />
+    <int name="check_restore" value="0" />
+    <int name="9PlayEndLessDailyQuest" value="0" />
+    <string name="player_daily_invite_friends"></string>
+    <int name="monster_player_id" value="6967479" />
+    <string name="last_game_play_bundle_url">https%3A%2F%2Fcdn.gamesontop.com%2Fimoads%2Fgame-services%2F5%2Fba7d4be2dae4e6a17b96687a890510fd.asset</string>
+    <int name="GotPet" value="1" />
+    <int name="skill_index6" value="0" />
+    <int name="session_id" value="0" />
+    <int name="player_win_count" value="5" />
+    <int name="skill_index5" value="0" />
+    <int name="skill_index4" value="0" />
+    <int name="watch_times_video_shop_card" value="0" />
+    <int name="check_bool_MarshalPack" value="0" />
+    <int name="plane_unique_0" value="2" />
+    <string name="subweapon_new_list"></string>
+    <int name="gacha_daily_gift" value="0" />
+    <int name="plane_unique_1" value="9" />
+    <int name="skill_index3" value="0" />
+    <int name="skill_index2" value="0" />
+    <int name="skill_index1" value="0" />
+    <int name="skill_index0" value="0" />
+    <int name="class_user" value="-1" />
+    <int name="star_rank_daily_gift" value="1" />
+    <int name="6UpgradePlaneDailyQuest" value="0" />
+    <int name="show_premium_popup" value="0" />
+    <string name="plane_sub_weapon_0">0%7C</string>
+    <int name="watch_times_video_shop_gem" value="0" />
+    <int name="RemoveAds" value="0" />
+    <int name="Screenmanager%20Resolution%20Width" value="1080" />
+    <string name="plane_sub_weapon_5"></string>
+    <string name="plane_sub_weapon_6"></string>
+    <int name="login_method_selected" value="1" />
+    <int name="number_suggest_in_day_iap_vip_membership_new" value="4" />
+    <string name="plane_sub_weapon_1"></string>
+    <string name="plane_sub_weapon_2"></string>
+    <int name="left_pet" value="0" />
+    <string name="plane_sub_weapon_3"></string>
+    <string name="plane_sub_weapon_4"></string>
+    <int name="event_sequence" value="8" />
+    <int name="compensation_card" value="1" />
+    <int name="watch_video_respawn_mainplay" value="0" />
+    <int name="profile_connected" value="0" />
+    <int name="ticket_world_boss" value="2" />
+    <int name="ticket_world_boss_bonus" value="1" />
+    <int name="DailyPassedHardStage" value="0" />
+    <int name="player_diamond" value="999999999" />
+    <string name="plane_equip_1"></string>
+    <string name="plane_equip_0"></string>
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="ticket_boss_video" value="1" />
+    <int name="watch_video_respawn_premium" value="0" />
+    <string name="data_game_hash">a87a0a8611a590547549af0b1aa4182d</string>
+    <string name="time_suggest_package_iap_vip_membership_new">23%20November%202020%2001%3A38%3A53%20PM</string>
+    <int name="GotAircraft" value="1" />
+    <int name="DailyCompleteQuestDaily" value="0" />
+    <int name="GotGold_secondRule" value="2888" />
+    <int name="previous_difficult" value="0" />
+    <string name="endless_skill">0%7C0%7C0%7C</string>
+    <int name="DailyGotEquipment" value="0" />
+    <int name="GotEquipment" value="2" />
+    <int name="viewed_plane" value="0" />
+    <int name="DailyKilledEnemy" value="0" />
+    <int name="selected_level_difficulty" value="0" />
+    <int name="endless_highest_small_wave" value="0" />
+    <int name="inapp_pack_index" value="0" />
+    <int name="UpgradeAircraft" value="3" />
+    <string name="level_mission_passed_1">1%2C1%2C1%2C0%2C0%2C0%2C0%2C0%2C0</string>
+    <string name="level_mission_passed_2">1%2C1%2C1%2C0%2C0%2C0%2C0%2C0%2C0</string>
+    <string name="level_mission_passed_3">1%2C1%2C1%2C0%2C0%2C0%2C0%2C0%2C0</string>
+    <int name="notice_reward_world_boss" value="0" />
+    <string name="level_mission_passed_4">1%2C1%2C1%2C0%2C0%2C0%2C0%2C0%2C0</string>
+    <string name="monster_player_name">PILOT%236967479</string>
+    <string name="level_mission_passed_0">1%2C1%2C1%2C0%2C0%2C0%2C0%2C0%2C0</string>
+    <string name="world_boss_skill">0%7C0%7C0%7C</string>
+    <int name="1ClearStageXDailyQuest" value="0" />
+    <int name="campaign_win_count" value="5" />
+    <int name="check_first_show_daily_gift" value="0" />
+    <int name="drop_item_enemy_count" value="44" />
+    <int name="plane_evolve_tier_1" value="-1" />
+    <int name="last_game_play_bundle_version" value="95" />
+    <int name="plane_evolve_tier_0" value="-1" />
+    <int name="gacha_row_open_video" value="1" />
+    <int name="plane_evolve_tier_5" value="-1" />
+    <string name="player_received_online_reward"></string>
+    <string name="unity.player_sessionid">5397481537784939623</string>
+    <int name="plane_evolve_tier_4" value="-1" />
+    <int name="plane_evolve_tier_3" value="-1" />
+    <int name="plane_evolve_tier_2" value="-1" />
+    <int name="plane_evolve_tier_6" value="-1" />
+    <int name="engage_day" value="1" />
+    <int name="SpentGold" value="2865" />
+    <int name="FusionTimes" value="1" />
+    <int name="2KillEnemyInStageXDailyQuest" value="0" />
+    <int name="endless_highest_wave" value="1" />
+    <int name="revceived_login_reward" value="1" />
+    <string name="player_equipment_sort"></string>
+    <int name="DailyKilledEnemyInMapX" value="0" />
+    <int name="DailyUpgradePlane" value="0" />
+    <int name="tutorial_progress" value="52" />
+    <int name="endless_done_first" value="0" />
+    <string name="monster_avatar_url"></string>
+    <int name="GotGold" value="5753" />
+    <string name="last_login">1714915676608.93</string>
+    <string name="player_sub_weapon">%7B%22devices%22%3A%5B%7B%22Key%22%3A0%2C%22Value%22%3A%7B%22id%22%3A0%2C%22level%22%3A1%2C%22grade%22%3A%22Uncommon%22%2C%22subIndexes%22%3A%7B%7D%7D%7D%5D%7D</string>
+    <string name="world_boss_score">0</string>
+    <string name="plane_new_list"></string>
+    <int name="watch_times_video_shop_gold" value="0" />
+    <string name="monster_fcm_token">c1ujSHu_Rp2FZSpjIikFRi%3AAPA91bFc2oemDwUr1WYiJPV37QYbWakmlEbAFtKD_eP_omdYK87swo2phhc1OSYAf2e5FtapsoOaTY8lk2t-kNPtQ-Nj2PTJnV-ymSHZcjygTqc72XjF9Z7aLxbUB__0xpNAZpEjONMU</string>
+    <int name="applied_preitem_drop" value="0" />
+    <int name="DailyPlayEndless" value="0" />
+    <string name="UnityInstallationId">c97ea4617b012654cbc5b3467967c4b0</string>
+    <string name="time_end_world_boss">1714953600164.41</string>
+    <int name="DailyClearMapX" value="0" />
+    <string name="player_online_time">0</string>
+    <int name="check_bool_GeneralPack" value="0" />
+    <int name="ClearedMap" value="5" />
+    <int name="7UpgradeSupportDailyQuest" value="0" />
+    <int name="daily_buy_energy" value="0" />
+    <int name="DailyPassedNormalStage" value="0" />
+    <string name="equipment_new_list"></string>
+    <string name="plane_equip_6"></string>
+    <string name="plane_equip_3"></string>
+    <string name="plane_equip_2"></string>
+    <string name="plane_equip_5"></string>
+    <int name="player_received_win_gift" value="0" />
+    <int name="energy_recharge_count" value="0" />
+    <string name="plane_equip_4"></string>
+    <int name="player_preitem_gold" value="1" />
+    <int name="applied_preitem_ammo" value="0" />
+    <int name="lose_continuous" value="0" />
+    <int name="plane_level_0" value="10" />
+    <string name="level_highscore_1">12040%7C0%7C0%7C</string>
+    <string name="level_highscore_0">13001%7C0%7C0%7C</string>
+    <int name="viewed_sub_weapon" value="0" />
+    <int name="is_tutorial" value="0" />
+    <int name="endless_highest_point" value="0" />
+    <int name="rate_dialog_view_daily" value="0" />
+    <int name="pet_state_0" value="1" />
+    <int name="world_boss_win_count" value="0" />
+    <string name="monster_first_open">-8585954767187292708</string>
+    <string name="level_highscore_3">15588%7C0%7C0%7C</string>
+    <string name="level_highscore_2">22992%7C0%7C0%7C</string>
+    <string name="unity.cloud_userid">c97ea4617b012654cbc5b3467967c4b0</string>
+    <string name="level_highscore_4">29863%7C0%7C0%7C</string>
+    <int name="DailyMaxCombo" value="0" />
+    <int name="previous_level" value="5" />
+    <int name="daily_quest_random_stage" value="2" />
+    <int name="monster_fb_logged_in" value="0" />
+    <string name="first_run">1606133687442.49</string>
+    <int name="DailySpentGold" value="0" />
+    <string name="last_time_ticket_boss_video">1606134277386.17</string>
+    <int name="data_migrate_v1" value="1" />
+    <int name="day_from_install" value="0" />
+    <int name="player_max_energy" value="999" />
+    <int name="DailyKilledBoss" value="0" />
+    <int name="play_count" value="5" />
+    <int name="checked_restored_failed_count_com.solarsquad.galaxyshooter.vipticket30" value="0" />
+    <int name="applied_preitem_gold" value="0" />
+    <string name="level_diff_lose_count_1">0%7C0%7C0%7C</string>
+    <string name="level_diff_lose_count_2">0%7C0%7C0%7C</string>
+    <string name="level_diff_lose_count_0">0%7C0%7C0%7C</string>
+    <int name="DailyFusionItem" value="0" />
+    <int name="unlock_new_level" value="1" />
+    <string name="level_diff_lose_count_3">0%7C0%7C0%7C</string>
+    <int name="monster_consent" value="1" />
+    <string name="level_diff_lose_count_4">0%7C0%7C0%7C</string>
+    <int name="daily_buy_diamond" value="0" />
+    <int name="warning_combine_item" value="0" />
+    <int name="DailyUseSupportItem" value="0" />
+    <int name="daily_watch_ad" value="0" />
+    <int name="player_preitem_drop" value="1" />
+    <int name="DailyPassedEasyStage" value="0" />
+    <int name="player_win_continuous" value="5" />
+    <int name="player_max_online_reward" value="0" />
+    <string name="last_energy_time">1606138733416.93</string>
+    <int name="player_gold" value="999999999" />
+    <int name="daily_buy_gold" value="0" />
+    <int name="notify_upgrade_plane" value="0" />
+    <int name="endless_rewarded_item" value="0" />
+    <int name="pet_level_0" value="2" />
+    <int name="player_sub_weapon_max_index" value="2" />
+    <string name="endless_score_highest_wave">0</string>
+    <int name="DailyClearMap" value="0" />
+    <int name="level_star_0" value="3" />
+    <int name="level_star_1" value="3" />
+    <int name="level_star_4" value="3" />
+    <int name="monster_fcm_token_reported" value="1" />
+    <string name="unity.player_session_count">6</string>
+    <int name="level_star_2" value="3" />
+    <int name="GotEnergy_secondRule" value="30" />
+    <int name="level_star_3" value="3" />
+    <int name="total_suggest_xmas" value="1" />
+    <int name="plane_state_0" value="1" />
+    <string name="player_sub_weapon_sort">0%7C</string>
+    <int name="KilledTotal" value="371" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <string name="end_time_reset">05%2F05%2F2024%2001%3A28%3A01%20%D9%85</string>
+    <int name="DailyPurchaseItem" value="0" />
+    <int name="player_max_level_difficult0" value="5" />
+    <string name="monster_device_id">b2dfe560-5f20-4d0c-9225-b13450fc311d</string>
+    <int name="viewed_level" value="4" />
+    <int name="notify_world_boss_open" value="1" />
+    <string name="monster_referral_dynamic_link">https%3A%2F%2Fsolarsquad.page.link%2Fs4RNEKqAoQNnMfdW9</string>
+    <int name="checked_restored_com.solarsquad.galaxyshooter.vipticket30" value="0" />
+    <int name="DailyUpgradePet" value="0" />
+</map>

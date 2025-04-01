@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="pistol_purchases" value="1" />
+    <string name="unity.player_sessionid">4619188375795220841</string>
+    <int name="bundles_punisher" value="1" />
+    <int name="puzzles_collectables_created_per_day" value="0" />
+    <int name="puzzles_collectables_cooldown" value="4" />
+    <int name="character" value="30005" />
+    <int name="completed_p_6_1" value="1" />
+    <int name="selected_weapon" value="1000" />
+    <int name="bundles_showed" value="1" />
+    <int name="bundles_epic" value="1" />
+    <int name="completed_Default%2Fshop%2Fshop" value="1" />
+    <string name="STATS_DATA_CONTRACT">%7B%22contractsStarted%22%3A0%2C%22contractsCompleted%22%3A0%2C%22hostagesSaved%22%3A0%2C%22explosivesDestroyed%22%3A3%2C%22baloonsDestroyed%22%3A0%2C%22outfitsUnlocked%22%3A11%2C%22weaponsUnlocked%22%3A12%2C%22chestRoomCasesOpened%22%3A0%2C%22cashEarned%22%3A10555%2C%22hittablesHit%22%3A%7B%22m_keys%22%3A%5B%22Explosive%22%5D%2C%22m_values%22%3A%5B3%5D%7D%2C%22headshots%22%3A%7B%22m_keys%22%3A%5B6%5D%2C%22m_values%22%3A%5B17%5D%7D%2C%22enemyKills%22%3A%7B%22m_keys%22%3A%5B0%2C2%5D%2C%22m_values%22%3A%5B31%2C1%5D%7D%2C%22levelsCompleted%22%3A%7B%22m_keys%22%3A%5B6%5D%2C%22m_values%22%3A%5B7%5D%7D%2C%22enemyKillsWithWeapon%22%3A%7B%22m_keys%22%3A%5B6%5D%2C%22m_values%22%3A%5B32%5D%7D%2C%22bulletsFired%22%3A%7B%22m_keys%22%3A%5B6%5D%2C%22m_values%22%3A%5B46%5D%7D%7D</string>
+    <int name="completed_p_11_1" value="1" />
+    <int name="comics_unlocked" value="21" />
+    <string name="KILLS_TRACKER">%7B%22m_keys%22%3A%5B%5D%2C%22m_values%22%3A%5B%5D%7D</string>
+    <int name="completed_First%2Fp_3_1_first" value="1" />
+    <int name="hammers" value="999999999" />
+    <int name="completed_p_15_1" value="1" />
+    <int name="completed_Finish%2Fp_finish_6" value="1" />
+    <int name="completed_Finish%2Fp_finish_5" value="1" />
+    <int name="completed_Finish%2Fp_finish_3" value="1" />
+    <int name="gems" value="999999999" />
+    <int name="completed_Finish%2Fp_finish_1" value="1" />
+    <int name="smgs_purchases" value="1" />
+    <int name="Screenmanager%20Resolution%20Height" value="2178" />
+    <int name="gun_shop_visited" value="1" />
+    <int name="completed_p_empty_criminal_108" value="1" />
+    <int name="completed_p_empty_criminal_109" value="1" />
+    <int name="COMINGSOON_KEY_SAYGAMES_INSTA" value="1" />
+    <int name="completed_p_empty_criminal_107" value="1" />
+    <string name="BASE_DATA_KEY">%7B%22roomsData%22%3A%5B%7B%22type%22%3A8%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B0%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A1%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A5%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A3%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A5%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A3%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A3%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A5%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A10%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A4%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B0%2C1%2C2%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A5%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A5%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A5%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A10%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A3%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B5%2C4%2C2%2C1%2C0%2C3%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A10%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A7%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A10%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A1%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B8%2C5%2C4%2C7%2C6%2C0%2C3%2C1%2C2%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A10%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A10%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A10%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A25%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A25%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A9%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B8%2C5%2C4%2C7%2C6%2C3%2C0%2C1%2C2%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A25%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A40%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A15%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A2%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B2%2C5%2C8%2C7%2C4%2C1%2C3%2C6%2C0%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A50%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A25%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A50%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A25%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A40%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A40%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A5%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B8%2C5%2C7%2C4%2C6%2C3%2C0%2C1%2C2%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A25%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A35%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A50%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A40%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A35%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A60%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A60%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A45%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A50%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A6%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B2%2C5%2C8%2C7%2C4%2C6%2C3%2C0%2C1%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A50%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A60%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A70%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A70%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A45%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A35%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A55%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A7%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B8%2C7%2C4%2C1%2C0%2C3%2C6%2C2%2C5%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A35%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A80%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A55%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A60%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A70%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A80%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A45%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A40%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A65%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A50%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%2C%7B%22type%22%3A10%2C%22opened%22%3Atrue%2C%22locksOpened%22%3A%5B3%2C6%2C7%2C8%2C5%2C4%2C2%2C1%2C0%5D%2C%22itemsData%22%3A%5B%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A50%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A35%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A20%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A30%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A50%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%2C%7B%22progress%22%3A40%2C%22built%22%3Atrue%2C%22commonRewardIndex%22%3A0%7D%5D%2C%22selectedItem%22%3A-1%7D%5D%2C%22focusedRoomIndex%22%3A8%2C%22gyroEnabled%22%3Atrue%7D</string>
+    <int name="completed_p_5_1" value="1" />
+    <int name="completed_p_empty_criminal_103" value="1" />
+    <string name="KEY_UIWEEKLYEVENT_DATA_STORE">%7B%22timestampAdTimeEnds%22%3A-1%2C%22autoroll%22%3Atrue%2C%22defaults_set_for_171%22%3Atrue%7D</string>
+    <int name="completed_Start%2Fp_start_3" value="1" />
+    <string name="CONTRACTS_DATA_KEY">%7B%22startTimestamp%22%3A1637860971%2C%22duration%22%3A28800%2C%22deviceToServerTimeDifference%22%3A4%2C%22secretCompleted%22%3Afalse%2C%22secretUnlocked%22%3Afalse%2C%22contracts%22%3A%5B%7B%22type%22%3A0%2C%22difficulty%22%3A0%2C%22weaponCategory%22%3A0%2C%22claimed%22%3Atrue%2C%22completed%22%3Atrue%2C%22amount%22%3A25%2C%22lastSeenAmount%22%3A25%2C%22rewardData%22%3A%7B%22type%22%3A1%2C%22amount%22%3A5%7D%7D%2C%7B%22type%22%3A2%2C%22difficulty%22%3A1%2C%22weaponCategory%22%3A0%2C%22claimed%22%3Afalse%2C%22completed%22%3Afalse%2C%22amount%22%3A5%2C%22lastSeenAmount%22%3A2%2C%22rewardData%22%3A%7B%22type%22%3A2%2C%22amount%22%3A3%7D%7D%2C%7B%22type%22%3A5%2C%22difficulty%22%3A2%2C%22weaponCategory%22%3A0%2C%22claimed%22%3Afalse%2C%22completed%22%3Afalse%2C%22amount%22%3A20%2C%22lastSeenAmount%22%3A6%2C%22rewardData%22%3A%7B%22type%22%3A0%2C%22amount%22%3A500%7D%7D%5D%2C%22lastTypeCategory%22%3A%7B%22m_keys%22%3A%5B%5D%2C%22m_values%22%3A%5B%5D%7D%7D</string>
+    <int name="completed_Start%2Fp_start_4" value="1" />
+    <int name="completed_Start%2Fp_start_1" value="1" />
+    <int name="completed_Start%2Fp_start_2" value="1" />
+    <int name="bundles_arrow" value="1" />
+    <int name="completed_p_10_1" value="1" />
+    <string name="UIBASE_DATA_KEY">%7B%22cooldown_end_getkeys%22%3A0%2C%22cooldown_end_gethammers%22%3A0%2C%22keysUsed%22%3Atrue%2C%22freeHammersGiven%22%3Atrue%2C%22itemUnlocked%22%3Atrue%7D</string>
+    <string name="christmas_event">%7B%22start%22%3A0%2C%22last_start%22%3A0%2C%22collected_gifts%22%3A%5B0%2C0%5D%2C%22showUI%22%3Afalse%7D</string>
+    <string name="unity.cloud_userid">a762e565ece86b62bbc7525b4d56a55e</string>
+    <int name="completed_p_14_1" value="1" />
+    <int name="bosses_killed" value="1" />
+    <int name="unlock_progress" value="0" />
+    <int name="shop_index" value="1" />
+    <int name="checkpoint" value="0" />
+    <int name="bundles_winter" value="1" />
+    <int name="UnityGraphicsQuality" value="1" />
+    <int name="new_player" value="1" />
+    <int name="bundles_bumble" value="1" />
+    <int name="COMINGSOON_KEY_ESTOTY_FB" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="1080" />
+    <string name="STATS_DATA_LIFETIME">%7B%22contractsStarted%22%3A1%2C%22contractsCompleted%22%3A0%2C%22hostagesSaved%22%3A0%2C%22explosivesDestroyed%22%3A3%2C%22baloonsDestroyed%22%3A0%2C%22outfitsUnlocked%22%3A16%2C%22weaponsUnlocked%22%3A12%2C%22chestRoomCasesOpened%22%3A0%2C%22cashEarned%22%3A45575%2C%22hittablesHit%22%3A%7B%22m_keys%22%3A%5B%22Explosive%22%5D%2C%22m_values%22%3A%5B3%5D%7D%2C%22headshots%22%3A%7B%22m_keys%22%3A%5B1%2C6%5D%2C%22m_values%22%3A%5B3%2C17%5D%7D%2C%22enemyKills%22%3A%7B%22m_keys%22%3A%5B0%2C2%5D%2C%22m_values%22%3A%5B35%2C1%5D%7D%2C%22levelsCompleted%22%3A%7B%22m_keys%22%3A%5B1%2C6%5D%2C%22m_values%22%3A%5B1%2C7%5D%7D%2C%22enemyKillsWithWeapon%22%3A%7B%22m_keys%22%3A%5B1%2C6%5D%2C%22m_values%22%3A%5B4%2C32%5D%7D%2C%22bulletsFired%22%3A%7B%22m_keys%22%3A%5B1%2C6%5D%2C%22m_values%22%3A%5B6%2C46%5D%7D%7D</string>
+    <int name="puzzles_collectables_day" value="366" />
+    <int name="indication_barrel" value="1" />
+    <int name="completed_p_8_1" value="1" />
+    <int name="COMINGSOON_KEY_ESTOTY_INSTA" value="1" />
+    <int name="unlock_index" value="1" />
+    <int name="completed_p_4_1" value="1" />
+    <string name="world_data_v2">%7B%22level_index%22%3A8%2C%22max_worlds%22%3A12%7D</string>
+    <int name="promo_starter_pack_time_left" value="1637948763" />
+    <int name="SAYKIT_ANALYTIC_LEVEL" value="1006" />
+    <int name="consecutive_losses" value="0" />
+    <int name="completed_First%2Fp_finish_first" value="1" />
+    <int name="PURCHASES_NO_ADS_PURCHASED" value="1" />
+    <int name="puzzles" value="999999999" />
+    <int name="level" value="1006" />
+    <int name="basement_bonus_unlocked" value="1" />
+    <int name="promo_starter_pack_shown" value="1" />
+    <int name="subscription_cooldown" value="2" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="basement_was_revelead" value="1" />
+    <int name="promo_starter_pack_level_cd" value="0" />
+    <string name="unlocks">%7B%22skinSelection%22%3A%7B%22m_keys%22%3A%5B%5D%2C%22m_values%22%3A%5B%5D%7D%2C%22outfits%22%3A%5B0%2C30001%2C30002%2C30003%2C30004%2C30000%2C20003%2C20002%2C20001%2C20000%2C20008%2C20007%2C20006%2C20005%2C20004%2C20009%2C30005%5D%2C%22guns%22%3A%5B1%2C2004%2C2000%2C2003%2C2001%2C2002%2C1000%2C1003%2C1004%2C1002%2C1009%2C1006%2C1007%2C1008%2C1005%2C1010%2C2%2C110%2C2005%5D%2C%22skins%22%3A%7B%22m_keys%22%3A%5B%5D%2C%22m_values%22%3A%5B%5D%7D%7D</string>
+    <int name="shop_cooldown" value="1" />
+    <float name="adaptive_difficulty_increaser" value="0.12" />
+    <int name="johnny_BONUS_SEEN" value="1" />
+    <int name="keys" value="999999999" />
+    <int name="COMINGSOON_KEY_SAYGAMES_FB" value="1" />
+    <int name="completed_p_7_1" value="1" />
+    <int name="SAYKIT_ANALYTIC_START_COUNT" value="9" />
+    <string name="level_data">%7B%22seed%22%3A1317%2C%22path%22%3A%5B%5D%2C%22used%22%3A%5B%22p_6_1%22%2C%22p_checkpoint_1%22%2C%22p_7_1%22%2C%22p_6_1%22%2C%22p_checkpoint_1%22%2C%22p_7_1%22%2C%22p_6_1%22%2C%22p_checkpoint_1%22%2C%22p_7_1%22%2C%22p_6_1%22%2C%22p_checkpoint_1%22%2C%22p_7_1%22%2C%22p_6_1%22%2C%22p_checkpoint_1%22%2C%22p_7_1%22%2C%22p_6_1%22%2C%22p_checkpoint_1%22%2C%22p_7_1%22%2C%22p_6_1%22%2C%22p_checkpoint_1%22%2C%22p_7_1%22%2C%22p_6_1%22%2C%22p_checkpoint_1%22%2C%22p_7_1%22%2C%22p_10_1%22%2C%22p_checkpoint_1%22%2C%22p_8_1%22%2C%22p_11_1%22%2C%22p_checkpoint_1%22%2C%22p_12_1%22%2C%22p_empty_criminal_103%22%2C%22boss_5%22%2C%22p_5_1%22%2C%22p_checkpoint_1%22%2C%22p_4_1%22%2C%22p_empty_criminal_107%22%2C%22p_5_1%22%2C%22p_checkpoint_1%22%2C%22p_4_1%22%2C%22p_empty_criminal_107%22%2C%22p_empty_1%22%2C%22p_14_1%22%2C%22p_checkpoint_1%22%2C%22p_15_1%22%2C%22p_empty_criminal_108%22%2C%22p_empty_1%22%2C%22p_3_2%22%2C%22p_checkpoint_1%22%2C%22p_7_3%22%2C%22p_empty_criminal_109%22%2C%22p_empty_1%22%2C%22p_5_2%22%2C%22p_checkpoint_1%22%2C%22p_504_1%22%2C%22p_empty_criminal_101%22%2C%22p_empty_1%22%2C%22p_5_2%22%2C%22p_checkpoint_1%22%2C%22p_504_1%22%2C%22p_empty_criminal_101%22%2C%22p_empty_1%22%2C%22p_5_2%22%2C%22p_checkpoint_1%22%2C%22p_504_1%22%2C%22p_empty_criminal_101%22%5D%2C%22predefinedEmpty%22%3Afalse%7D</string>
+    <int name="completed_p_3_2" value="1" />
+    <string name="WEEKLYEVENT_DATA_STORE">%7B%22rewardNumber%22%3A0%2C%22weekNumber%22%3A99%2C%22weekStartTimestamp%22%3A1637859879%2C%22rewards%22%3A%5B%7B%22value%22%3A10%2C%22reward%22%3A4%2C%22weapon%22%3A501%2C%22outfit%22%3A0%2C%22requirement%22%3A5%7D%2C%7B%22value%22%3A250%2C%22reward%22%3A1%2C%22weapon%22%3A501%2C%22outfit%22%3A0%2C%22requirement%22%3A10%7D%2C%7B%22value%22%3A25%2C%22reward%22%3A4%2C%22weapon%22%3A501%2C%22outfit%22%3A0%2C%22requirement%22%3A15%7D%5D%2C%22progress%22%3A0%2C%22claimedProgress%22%3A0%2C%22currentMap%22%3A%5B%5D%2C%22diceRolls%22%3A%5B4%2C6%2C2%2C6%2C2%2C4%2C4%2C1%2C5%2C5%2C1%2C2%2C4%2C3%2C6%2C3%2C2%2C6%2C4%2C5%2C2%2C2%2C5%2C4%2C3%2C5%2C1%2C1%2C3%2C5%2C5%2C3%2C5%2C4%2C4%2C2%2C4%2C6%2C5%2C6%2C3%2C6%2C1%2C4%2C2%2C3%2C5%2C2%2C6%2C3%2C2%2C6%2C3%2C5%2C1%2C1%2C3%2C1%2C2%2C1%2C6%2C1%2C6%2C5%2C3%2C4%2C4%2C1%2C3%2C6%5D%2C%22currentDiceRoll%22%3A0%2C%22weeksPassed%22%3A0%2C%22eventDone%22%3Afalse%7D</string>
+    <int name="pieces_offer_timestamp" value="1637861983" />
+    <int name="completed_p_7_3" value="1" />
+    <int name="promo_vip_reset_time" value="1637862707" />
+    <int name="consecutive_exits" value="1" />
+    <int name="completed_p_12_1" value="1" />
+    <int name="bundles_deadpool" value="1" />
+    <int name="completed_p_empty_1" value="1" />
+    <string name="unity.player_session_count">9</string>
+    <int name="completed_boss_5" value="1" />
+    <string name="secret_world_data">%7B%22level_index%22%3A0%2C%22max_worlds%22%3A2%7D</string>
+    <int name="completed_First%2Fp_start_first" value="1" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="-1" />
+    <int name="completed_p_checkpoint_1" value="1" />
+    <int name="bundle_epic_starter_delay_time" value="1638121563" />
+    <int name="SERVER_TIMESTAMP_STORAGE" value="1637862947" />
+    <int name="skin_shop_visit_cooldown" value="2" />
+    <int name="money" value="999999999" />
+    <int name="boss_index" value="1" />
+    <int name="sayKitDebugFlag" value="0" />
+</map>

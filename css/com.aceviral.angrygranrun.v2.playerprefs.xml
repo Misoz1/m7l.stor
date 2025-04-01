@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="SpinsRemaining" value="4" />
+    <int name="HasChosenAge" value="1" />
+    <int name="AwardParkour%20MasterProgress" value="10" />
+    <int name="Gran%20in%20Motionlevel" value="0" />
+    <int name="CompletedAchieveEasy%20Winnings" value="1" />
+    <int name="Coins" value="999999999" />
+    <int name="Bot%20Basherlevel" value="0" />
+    <int name="tempDoubleCoinsTimesActivated" value="0" />
+    <int name="Keep%20Moving%20Forwardlevel" value="0" />
+    <int name="AwardDomo%20ArigatoProgress" value="0" />
+    <int name="SkinGUnlocked" value="1" />
+    <int name="AchievGood%20Guy%20Greg" value="0" />
+    <int name="AchievParty%20Goer" value="4" />
+    <int name="Parkour%20Masterlevel" value="0" />
+    <string name="eventEndTime">12%2F02%2F2021%2019%3A47%3A47</string>
+    <int name="AVPurchaseangry_gran_run_maria_outfit" value="1" />
+    <int name="AstrogranDaysCompleted" value="0" />
+    <string name="AVFirebaseLastHardwareEvent">5%3A5%3A2024</string>
+    <string name="PunksDate">05%2F05%2F2024%2000%3A00%3A00</string>
+    <string name="AstrogranLastComplete">01%2F01%2F0001%2000%3A00%3A00</string>
+    <int name="ermwQpezRrzlPlfdbAfvfplQd" value="1" />
+    <string name="TimeOfLastAdvertUpdate">28%2F01%2F2021%2019%3A55%3A34</string>
+    <int name="TimesLoopedMissions" value="0" />
+    <string name="MainMenuGemDate">01%2F01%2F2000%2012%3A00%3A00%20%D8%B5</string>
+    <int name="CompletedAchieveFancy%20Dress" value="1" />
+    <int name="Sound" value="1" />
+    <int name="igpYevferoPf%3Fo%5Efkklha" value="1" />
+    <int name="CurrentDay2" value="0" />
+    <int name="AchievToo%20Young%20To%20Die" value="0" />
+    <int name="irrmwQrvy%40obqfplFau" value="0" />
+    <int name="Sprint" value="7" />
+    <int name="PermaDoubleJump" value="1" />
+    <int name="AchievYearly%20Bonus" value="0" />
+    <string name="TimeOfLastCheck">05%2F05%2F2024%2013%3A24%3A40</string>
+    <int name="Screenmanager%20Resolution%20Height" value="2316" />
+    <int name="AchievThe%20Kilometer" value="0" />
+    <string name="PunksClaims">False%2CFalse%2CFalse%2CFalse%2CFalse%2CFalse</string>
+    <int name="On%20Pointshownalert0" value="0" />
+    <int name="TotalPlayTime" value="270" />
+    <int name="SkinBUnlocked" value="1" />
+    <string name="tempDoubleCoinsLastActivatedDay">01%2F01%2F0001%2000%3A00%3A00</string>
+    <string name="StartStreak2">05%2F05%2F2024%2013%3A24%3A11</string>
+    <int name="Character%20Collecterlevel" value="0" />
+    <int name="Boost" value="7" />
+    <int name="AchievEarly%20Upgrades" value="1" />
+    <int name="On%20Pointlevel" value="0" />
+    <int name="hosrrQevvkmroPfDkb_ba%5ERi%60b" value="1" />
+    <int name="hosrirvfvroPf%3E%5EMf%60Ri%60b" value="1" />
+    <int name="Token%20Takerlevel" value="0" />
+    <int name="AwardOld%20ReliableProgress" value="408" />
+    <int name="6rmwQJfpl!" value="511" />
+    <string name="PunksEndDate">09%2F05%2F2024%2000%3A00%3A00</string>
+    <string name="CurrentWord2">boost</string>
+    <int name="AVPurchaseangry_gran_run_2200000coins" value="1" />
+    <int name="AwardGran%20in%20MotionProgress" value="859" />
+    <string name="XmasLastComplete">01%2F01%2F0001%2000%3A00%3A00</string>
+    <int name="Word%20Wizardlevel" value="0" />
+    <int name="Big%20Spendershownalert" value="1" />
+    <int name="hasClickedMissionsNew" value="0" />
+    <int name="Music" value="1" />
+    <int name="AchievScumbag%20Steve" value="0" />
+    <int name="Old%20Reliablelevel" value="0" />
+    <int name="Don't%20Stop%20Me%20Nowshownalert0" value="0" />
+    <int name="personalisedAdsAllowed" value="1" />
+    <int name="AwardSlick%20SliderProgress" value="2" />
+    <int name="PunksTheme" value="2" />
+    <int name="Invincibility" value="7" />
+    <int name="AwardWord%20WizardProgress" value="0" />
+    <int name="Brazil_Pinata" value="0" />
+    <int name="DoubleJump" value="2" />
+    <int name="AchievCompetitor" value="0" />
+    <int name="TimeSlow" value="7" />
+    <int name="AchievResurrection" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="1080" />
+    <int name="AchievBaby%20Steps" value="0" />
+    <int name="CompletedAchieveResurrection" value="1" />
+    <int name="HasUnlockedAdRewardChar" value="0" />
+    <int name="CompletedAchieveEarly%20Upgrades" value="1" />
+    <int name="IsHsowingAds" value="0" />
+    <int name="AwardDon't%20Stop%20Me%20NowProgress" value="0" />
+    <int name="AwardBoost%20BlasterProgress" value="0" />
+    <int name="9rmwQJfpl!5" value="0" />
+    <int name="PermaSuperBoost" value="1" />
+    <int name="CompletedAchieveWonder%20Gran" value="1" />
+    <int name="Mega%20Moneylevel" value="0" />
+    <int name="Paris_Heart" value="0" />
+    <int name="AchievOne%20Mil%20Mark" value="0" />
+    <int name="AchievQualifying%20Score" value="0" />
+    <int name="FinishedTutorial" value="1" />
+    <int name="XmasDaysCompleted" value="0" />
+    <int name="AVPurchaseangry_gran_run_double_coins_boost" value="1" />
+    <int name="HasLoggedInGameServices" value="0" />
+    <int name="India_Watch" value="0" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="AchievHen%20Party" value="1" />
+    <int name="9rmwQJfpl!" value="0" />
+    <string name="DailyHighScoreEndDate">06%2F05%2F2024%2000%3A00%3A00</string>
+    <int name="AwardJump%20JumpProgress" value="0" />
+    <int name="Jump%20Masterlevel" value="0" />
+    <int name="AwardPanda%20Panda%20RunProgress" value="0" />
+    <int name="AchievLotto%20Winner" value="0" />
+    <int name="ipZiDj%5Er" value="999999999" />
+    <int name="SkinDUnlocked" value="1" />
+    <int name="DailyHighScoreScore" value="0" />
+    <string name="Key_PendingDialogDateStamp">28%2F01%2F2021%2000%3A00%3A00</string>
+    <int name="Coin%20Collecterlevel" value="0" />
+    <int name="Super%20Survivorlevel" value="0" />
+    <int name="Xmas_Cane" value="0" />
+    <string name="DistanceEndDate">06%2F05%2F2024%2000%3A00%3A00</string>
+    <int name="AwardHigh%20ScorerProgress" value="0" />
+    <string name="eventStartTime">29%2F01%2F2021%2019%3A47%3A47</string>
+    <int name="igpYisroPfDijklha" value="1" />
+    <string name="tempDoubleCoinsStartTime">01%2F01%2F0001%2000%3A00%3A00</string>
+    <int name="London_Pinata" value="0" />
+    <int name="NumLetters2" value="0" />
+    <int name="igpYigvroPf%40fhqklha" value="1" />
+    <int name="CompletedAchieveParty%20Goer" value="1" />
+    <int name="HasSelectedAgeNew" value="1" />
+    <int name="5rmwQJfpl!%2F" value="0" />
+    <int name="AwardBot%20BasherProgress" value="0" />
+    <int name="AchievBanker's%20Wage" value="0" />
+    <int name="Grannosaurus%20Rexlevel" value="0" />
+    <int name="AwardSuper%20SurvivorProgress" value="0" />
+    <int name="AchievFlying%20Start" value="0" />
+    <int name="AVPurchaseangry_gran_run_golem_outfit" value="1" />
+    <string name="DailyHighScoreClaims">False%2CFalse%2CFalse%2CFalse%2CFalse%2CFalse</string>
+    <int name="tempDblCoins" value="0" />
+    <int name="DistanceScore" value="0" />
+    <int name="AwardUnstoppableProgress" value="0" />
+    <int name="AwardCharacter%20CollecterProgress" value="17" />
+    <int name="Miami_Collectable_1" value="0" />
+    <int name="6rmwQJfpl!1" value="0" />
+    <int name="Magnet%20To%20Moneylevel" value="0" />
+    <string name="unity.player_sessionid">7081952007647426843</string>
+    <int name="SelectedAgeNew" value="77" />
+    <int name="Achiev5K%20Runs%20You" value="0" />
+    <int name="AwardMagnet%20To%20MoneyProgress" value="0" />
+    <int name="SuperResurrection" value="999999999" />
+    <int name="SkinCUnlocked" value="1" />
+    <int name="AwardSlowmo%20ModeProgress" value="0" />
+    <int name="5rmwQJfpl!" value="10" />
+    <int name="AchievHigh%20Roller" value="0" />
+    <int name="AwardOn%20PointProgress" value="0" />
+    <int name="Pacifist%20Runlevel" value="0" />
+    <int name="AwardGrannosaurus%20RexProgress" value="0" />
+    <int name="AwardMission%20PossibleProgress" value="0" />
+    <int name="Turkey_Collectable" value="0" />
+    <int name="PermaResurrection" value="0" />
+    <int name="boughtResourcePack" value="1" />
+    <int name="Character%20Collectershownalert" value="1" />
+    <int name="AchievLow%20Scorer" value="0" />
+    <int name="TotalRewardAdsForCharWatched" value="0" />
+    <int name="AchievNot%20Interested" value="0" />
+    <int name="AVPurchaseangry_gran_run_resource_pack" value="1" />
+    <int name="DistanceTheme" value="3" />
+    <int name="isCompleted0" value="1" />
+    <int name="TripleValue" value="7" />
+    <int name="HALLOWEEN_SKULLS" value="0" />
+    <int name="PunksScore" value="0" />
+    <int name="AchievHigh%20Five" value="0" />
+    <int name="isCompleted1" value="0" />
+    <int name="isCompleted2" value="0" />
+    <int name="isCompleted3" value="1" />
+    <int name="AwardMega%20MoneyProgress" value="0" />
+    <int name="5rmwQJfpl!1" value="0" />
+    <int name="AwardPacifist%20RunProgress" value="0" />
+    <int name="Die%20Another%20Daylevel" value="0" />
+    <int name="Long%20Distance%20Runnerlevel" value="0" />
+    <int name="GemTutorial" value="1" />
+    <int name="AwardBig%20SpenderProgress" value="3175500" />
+    <int name="AchievAAAAND%20It's%20Gone" value="0" />
+    <int name="PermaBoost" value="1" />
+    <string name="MostRecentCompletion2">01%2F01%2F2018%2000%3A00%3A00</string>
+    <int name="AchievEasy%20Winnings" value="1" />
+    <int name="8rmwQJfpl!0" value="0" />
+    <int name="igpYvKewyroPfOpfkfiklha" value="1" />
+    <int name="countdownToEventStartTriggered" value="1" />
+    <string name="DailyHighScoreDate">05%2F05%2F2024%2000%3A00%3A00</string>
+    <int name="AchievPay%20Rise" value="0" />
+    <int name="SkinFUnlocked" value="1" />
+    <int name="AchievEndurance%20Run" value="0" />
+    <int name="HasSetControls" value="0" />
+    <int name="AchievBad%20Luck%20Brian" value="0" />
+    <int name="Australia_Collectable" value="0" />
+    <int name="AchievBeat%20That%2C%20Chuck%20Norris!" value="0" />
+    <int name="Long%20Distance%20Runnershownalert0" value="0" />
+    <int name="CoinMultiplier" value="7" />
+    <int name="TotalCompletedMissions" value="0" />
+    <int name="Magnet" value="7" />
+    <int name="Slick%20Slidershownalert0" value="0" />
+    <int name="Coin%20Collectershownalert0" value="0" />
+    <int name="AchievRidiculous" value="0" />
+    <int name="TotalNumberOfRuns" value="1" />
+    <int name="AchievCoin%20Grinder" value="0" />
+    <string name="unity.cloud_userid">17e00870f18c7aa91a88fa2ccbb5e99b</string>
+    <int name="AchievQuarter%20Way%20There" value="0" />
+    <int name="AwardKeep%20Moving%20ForwardProgress" value="0" />
+    <int name="Parkour%20Mastershownalert0" value="0" />
+    <int name="BestScore" value="0" />
+    <int name="Domo%20Arigatolevel" value="0" />
+    <int name="NumTimesOpenedApp" value="5" />
+    <int name="Mexico_Pinata" value="0" />
+    <int name="DailyHighScoreTheme" value="0" />
+    <int name="igpYvliyroPfPmoblklha" value="1" />
+    <string name="DistanceClaims">False%2CFalse%2CFalse%2CFalse%2CFalse%2CFalse</string>
+    <int name="AVPurchaseangry_gran_run_1500_gems" value="1" />
+    <int name="Russia_Hat" value="0" />
+    <int name="GachaTokens" value="3" />
+    <int name="SkinEUnlocked" value="1" />
+    <int name="AchievFancy%20Dress" value="2" />
+    <int name="currentBorisBearMissionIndex" value="0" />
+    <int name="hosrwphGmxeroPf%40m%5EkrabRi%60b" value="1" />
+    <int name="AwardDie%20Another%20DayProgress" value="0" />
+    <int name="AwardSupersonicProgress" value="0" />
+    <int name="TimesPlayed" value="0" />
+    <int name="AwardLong%20Distance%20RunnerProgress" value="0" />
+    <int name="Big%20Spenderlevel" value="0" />
+    <int name="SkinAstrogranUnlocked" value="0" />
+    <int name="AwardJump%20MasterProgress" value="10" />
+    <int name="Slick%20Sliderlevel" value="0" />
+    <int name="Gran%20in%20Motionshownalert0" value="0" />
+    <int name="SavedCharID" value="38" />
+    <string name="DistanceDate">03%2F05%2F2024%2000%3A00%3A00</string>
+    <int name="Japan_Rock" value="0" />
+    <int name="IsTiltControls" value="0" />
+    <int name="AwardToken%20TakerProgress" value="3" />
+    <int name="SuperBoost" value="12" />
+    <string name="AVFirebaseUniqueRefId">d2ok0rdbu95x8z8zkdly4wh6ghie5l6o</string>
+    <int name="Jump%20Jumplevel" value="0" />
+    <int name="CompletedAchieveHen%20Party" value="1" />
+    <int name="SkinSelected" value="29" />
+    <int name="AchievGetting%20Ridiculous" value="0" />
+    <int name="Slowmo%20Modelevel" value="0" />
+    <int name="AchievLow-Paid%20Wage" value="0" />
+    <int name="Resurrection" value="999999999" />
+    <int name="SkinHUnlocked" value="1" />
+    <int name="Mission%20Possiblelevel" value="0" />
+    <int name="Jump%20Mastershownalert0" value="0" />
+    <string name="SpinResetTime">06%2F05%2F2024%2000%3A00%3A00</string>
+    <int name="wmGfailk" value="1" />
+    <int name="AchievWonder%20Gran" value="1" />
+    <int name="Don't%20Stop%20Me%20Nowlevel" value="0" />
+    <int name="Supersoniclevel" value="0" />
+    <int name="Unstoppablelevel" value="0" />
+    <string name="unity.player_session_count">5</string>
+    <int name="PlayerAge" value="20" />
+    <int name="AchievHalf%20Way%20There" value="0" />
+    <int name="Boost%20Blasterlevel" value="0" />
+    <int name="%3BrmwQJfpl!6" value="0" />
+    <int name="LastEventUsed" value="3" />
+    <int name="SkinGirlUnlocked" value="1" />
+    <int name="AchievMega%20Runner" value="0" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="AchievDodger" value="0" />
+    <int name="SkinNinjaUnlocked" value="1" />
+    <int name="High%20Scorerlevel" value="0" />
+    <int name="UniqueSale" value="1" />
+    <string name="DailyTaskManager.LastVersionChecked2">2.33.1</string>
+    <int name="Panda%20Panda%20Runlevel" value="0" />
+    <int name="AwardCoin%20CollecterProgress" value="192" />
+</map>

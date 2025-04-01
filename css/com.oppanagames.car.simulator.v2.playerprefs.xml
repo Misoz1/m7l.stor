@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="UnityGraphicsQuality" value="2" />
+    <int name="Screenmanager%20Resolution%20Height" value="1080" />
+    <int name="vingatte_enabled" value="0" />
+    <string name="unity.player_sessionid">8354740457972561712</string>
+    <string name="save.og">%7B%22integers%22%3A%5B%7B%22key%22%3A%22save_version%22%2C%22value%22%3A1%7D%2C%7B%22key%22%3A%221947983038%22%2C%22value%22%3A1%7D%2C%7B%22key%22%3A%22313776361%22%2C%22value%22%3A1%7D%2C%7B%22key%22%3A%22default_car_selected%22%2C%22value%22%3A1%7D%2C%7B%22key%22%3A%22game_rated%22%2C%22value%22%3A1%7D%2C%7B%22key%22%3A%22random_mission_index%22%2C%22value%22%3A7%7D%2C%7B%22key%22%3A%22showroom_sedans_new%22%2C%22value%22%3A3%7D%2C%7B%22key%22%3A%22showroom_muscle_new%22%2C%22value%22%3A2%7D%2C%7B%22key%22%3A%22showroom_rus_new%22%2C%22value%22%3A3%7D%2C%7B%22key%22%3A%22showroom_pickup_new%22%2C%22value%22%3A4%7D%2C%7B%22key%22%3A%22showroom_luxury_new%22%2C%22value%22%3A2%7D%2C%7B%22key%22%3A%22showroom_old_cars_new%22%2C%22value%22%3A4%7D%2C%7B%22key%22%3A%22showroom_round_3_new%22%2C%22value%22%3A6%7D%2C%7B%22key%22%3A%22showroom_round_new%22%2C%22value%22%3A3%7D%2C%7B%22key%22%3A%22showroom_round_6_new%22%2C%22value%22%3A3%7D%2C%7B%22key%22%3A%22showroom_round_5_new%22%2C%22value%22%3A4%7D%2C%7B%22key%22%3A%22showroom_round_4_new%22%2C%22value%22%3A3%7D%2C%7B%22key%22%3A%22showroom_round_2_new%22%2C%22value%22%3A5%7D%2C%7B%22key%22%3A%221602963486%22%2C%22value%22%3A1%7D%5D%2C%22floats%22%3A%5B%7B%22key%22%3A%22traffic_dencity%22%2C%22value%22%3A1.0%7D%2C%7B%22key%22%3A%221094825655%22%2C%22value%22%3A0.75%7D%2C%7B%22key%22%3A%22-2121720309%22%2C%22value%22%3A0.0%7D%2C%7B%22key%22%3A%22total_distance_passed%22%2C%22value%22%3A0.0%7D%2C%7B%22key%22%3A%22pedometer%22%2C%22value%22%3A1030.8017578125%7D%2C%7B%22key%22%3A%22max_speed_reached%22%2C%22value%22%3A0.0%7D%5D%2C%22strings%22%3A%5B%7B%22key%22%3A%22player_car%22%2C%22value%22%3A%22car_priora%22%7D%2C%7B%22key%22%3A%22929481820%22%2C%22value%22%3A%22%2BCoAfw%3D%3D%22%7D%2C%7B%22key%22%3A%22-2124968506%22%2C%22value%22%3A%22%7B%5C%22array%5C%22%3A%5B%5D%7D%22%7D%2C%7B%22key%22%3A%22-1381504862%22%2C%22value%22%3A%22%7B%5C%22chasisColor%5C%22%3A%7B%5C%22r%5C%22%3A1.0%2C%5C%22g%5C%22%3A1.0%2C%5C%22b%5C%22%3A1.0%2C%5C%22a%5C%22%3A1.0%7D%2C%5C%22chasisMaterial%5C%22%3A0%2C%5C%22wheel%5C%22%3A9%2C%5C%22wheelColor%5C%22%3A%7B%5C%22r%5C%22%3A1.0%2C%5C%22g%5C%22%3A1.0%2C%5C%22b%5C%22%3A1.0%2C%5C%22a%5C%22%3A1.0%7D%2C%5C%22frontClirrens%5C%22%3A0.444444477558136%2C%5C%22rearClirrens%5C%22%3A0.5555555820465088%2C%5C%22frontCamber%5C%22%3A0.9979029893875122%2C%5C%22rearCamber%5C%22%3A0.9979029893875122%2C%5C%22glassColor%5C%22%3A%7B%5C%22r%5C%22%3A0.0%2C%5C%22g%5C%22%3A0.0%2C%5C%22b%5C%22%3A0.0%2C%5C%22a%5C%22%3A0.2980392277240753%7D%2C%5C%22door%5C%22%3A0%2C%5C%22carNumber%5C%22%3A%5C%22PLAYER%5C%22%2C%5C%22pistonsTear%5C%22%3A0%2C%5C%22cylindersTear%5C%22%3A0%2C%5C%22clutchTear%5C%22%3A0%2C%5C%22gearBoxTear%5C%22%3A0%2C%5C%22exhaustTear%5C%22%3A0%2C%5C%22fuelSystemTear%5C%22%3A0%2C%5C%22airSystemTear%5C%22%3A0%2C%5C%22turboTear%5C%22%3A0%2C%5C%22brakesTear%5C%22%3A0%2C%5C%22weightReduction%5C%22%3A0%7D%22%7D%2C%7B%22key%22%3A%22last_update_version%22%2C%22value%22%3A%221.50.36%22%7D%2C%7B%22key%22%3A%22connection_config%22%2C%22value%22%3A%22%7B%5C%22nickname%5C%22%3A%5C%22Player%5C%22%2C%5C%22nicknameColor%5C%22%3A%7B%5C%22r%5C%22%3A1.0%2C%5C%22g%5C%22%3A1.0%2C%5C%22b%5C%22%3A1.0%2C%5C%22a%5C%22%3A1.0%7D%2C%5C%22isPrivateRoom%5C%22%3Afalse%2C%5C%22customKey%5C%22%3A%5C%22%5C%22%2C%5C%22roomLanguage%5C%22%3A%5C%22system%5C%22%7D%22%7D%2C%7B%22key%22%3A%22-1822191717%22%2C%22value%22%3A%22uAsAAA%3D%3D%22%7D%2C%7B%22key%22%3A%221176245312%22%2C%22value%22%3A%22CgAAAA%3D%3D%22%7D%2C%7B%22key%22%3A%22camera_mode%22%2C%22value%22%3A%22TPS%22%7D%2C%7B%22key%22%3A%22garage_2_1_place_0%22%2C%22value%22%3A%22car_priora%22%7D%5D%2C%22longs%22%3A%5B%7B%22key%22%3A%22-676987505%22%2C%22value%22%3A637039637528432530%7D%5D%2C%22lastSave%22%3A638515665655700590%2C%22firstLaunch%22%3A637039637528447630%7D</string>
+    <int name="shadows_enabled" value="0" />
+    <int name="engine_autostart_enabled" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="2316" />
+    <int name="damage_enabled" value="0" />
+    <int name="blur_enabled" value="0" />
+    <int name="depth_of_field_enabled" value="0" />
+    <string name="save__collision_points_car_priora">BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%3D%3D</string>
+    <int name="car_control_type" value="1" />
+    <string name="SocialRewardGooglePlay">Recieved</string>
+    <int name="fps_setting" value="1" />
+    <string name="save__local_vector_cos_car_priora">BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%3D%3D</string>
+    <int name="fog_enabled" value="1" />
+    <string name="application_current_language">English</string>
+    <string name="UnityAnalyticsInstallationId">f29bfbd718c8a102da057b5c9b486884</string>
+    <float name="nitro_car_priora" value="0.0" />
+    <string name="SocialRewardInstagram">Recieved</string>
+    <string name="unity.player_session_count">3</string>
+    <int name="ARTP_android.permission.READ_EXTERNAL_STORAGE" value="0" />
+    <string name="SocialRewardFacebook">Recieved</string>
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="SocialRewardVK">Recieved</string>
+    <int name="screen_resolution" value="3" />
+    <string name="unity.cloud_userid">f29bfbd718c8a102da057b5c9b486884</string>
+    <int name="color_grading_enabled" value="0" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="ambient_occlusion_enabled" value="0" />
+    <string name="UnityInstallationId">f29bfbd718c8a102da057b5c9b486884</string>
+    <float name="nitro_" value="0.0" />
+    <int name="interactive_ui_toggle" value="1" />
+    <int name="lighttrail_enabled" value="0" />
+    <float name="save__damage_value_car_priora" value="0.0" />
+    <int name="privacy_policy_accepted" value="1" />
+    <int name="gearbox_enabled" value="0" />
+</map>

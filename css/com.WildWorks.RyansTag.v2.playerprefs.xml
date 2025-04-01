@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="AchievementRewards">False%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse%2CFalse%3AFalse%3AFalse</string>
+    <string name="JourneyRewardData"></string>
+    <int name="UnityGraphicsQuality" value="1" />
+    <int name="Screenmanager%20Resolution%20Height" value="2316" />
+    <int name="HighScore" value="199999999" />
+    <string name="MissionRewards">False</string>
+    <string name="unity.player_sessionid">1782182954645498713</string>
+    <int name="HasCollectedAttractor" value="1" />
+    <int name="TutorialCompleted" value="1" />
+    <string name="Hash_charts_bundles">a43aba6b227620948ce7ea26702230b91fbf022d</string>
+    <int name="LastSaveTimeStamp" value="1714864588" />
+    <string name="SelecedVehicle"></string>
+    <int name="Screenmanager%20Resolution%20Width" value="1080" />
+    <string name="Hash_charts_localized">a02c7f09e397c6907533d528f474838e1845b2e5</string>
+    <string name="RyanInventory">334%3A1%3AFalse%2C3748%3A1%3AFalse%2C3749%3A1%3AFalse%2C3787%3A1%3AFalse%2C1065%3A1%3AFalse%2C2439%3A1%3AFalse%2C1066%3A1%3AFalse%2C875%3A1%3AFalse</string>
+    <string name="DebugButtonPanel_Favorites">%7C%7C</string>
+    <string name="BnDDq8OSw4kYwrIncMO1w54%3D">SwUYhBQDALpzbXY%3D</string>
+    <string name="GGrDrcOVw44YwrIncMO1w54%3D">SwUYhBQDALpzbXY%3D</string>
+    <string name="AttractorInventory">773%3A1%3AFalse</string>
+    <int name="RoadTripTutorialComplete" value="0" />
+    <int name="PlayerPizzaSlices" value="1999999999" />
+    <string name="unity.player_session_count">2</string>
+    <string name="PreviousStoreVersion">1.32.1</string>
+    <string name="VehicleInventory"></string>
+    <string name="SelectedAttractor"></string>
+    <string name="9978e9f39c218d674463dab9dc728bd6">SwXCmMK7wqpOw50%3D</string>
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <string name="Missions">1687%3A0%3A0%3A0%3AFalse</string>
+    <int name="PlayerKeys" value="1999999999" />
+    <string name="unity.cloud_userid">270f61120805dfbae9c5be45c8304ab2</string>
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="RescueRyansAwarded" value="1" />
+    <string name="Hash_charts_shared">47cb3784a5b48a554024bed953f465154deda04e</string>
+    <string name="RyanCaptureData"></string>
+    <int name="PlayerSuns" value="166" />
+    <int name="PlayerChests" value="0" />
+    <string name="Achievements">1184%3A0%3A0%3A0%2C978%3A0%3A0%3A0%2C1190%3A11%3A11%3A11%2C1192%3A0%3A0%3A0%2C1187%3A0%3A0%3A0%2C1196%3A0%3A0%3A0%2C1194%3A7212%3A0%3A0%2C1191%3A0%3A0%3A0%2C1195%3A0%3A0%3A0%2C1186%3A139%3A139%3A139%2C1199%3A0%3A0%3A0%2C979%3A7212%3A7212%3A7212%2C1197%3A3%3A3%3A3%2C1189%3A0%3A0%3A0%2C1193%3A0%3A0%3A0%2C1198%3A0%3A0%3A0%2C1188%3A0%3A0%3A0%2C1185%3A0%3A0%3A0%2C977%3A0%3A0%3A0</string>
+    <int name="JourneyProgress" value="1" />
+    <float name="DistanceSinceLastRyanSpawn" value="7212.0" />
+    <string name="RyanStats">3234%3A0%3A1%2C3234%3A1%3A1%2C3234%3A2%3A1</string>
+    <string name="SelectedRyan">3234</string>
+    <int name="DataVersion" value="2" />
+</map>
