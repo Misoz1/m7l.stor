@@ -10,8 +10,8 @@
     <string name="com.vorun.dth2-rider">rider0</string>
     <boolean name="islock-bike_r" value="false" />
     <boolean name="islock-categoryselectionsnow" value="false" />
-    <int name="availablecoins" value="999999999" />
-    <string name="version">1.0.2(5)</string>
+    <int name="availablecoins" value="1999999999" />
+    <string name="version">1.8.2(1018)</string>
     <boolean name="islock-categoryselectioncountryroad" value="false" />
     <boolean name="islock-categoryselectiondesert2" value="false" />
     <boolean name="islock-rider1" value="false" />
@@ -21,12 +21,12 @@
     <boolean name="islock-categoryselectioncity" value="false" />
     <int name="show_pedal_help_count" value="2" />
     <int name="suspensionlevel-bike_bw" value="10" />
-    <int name="totalcoins" value="999999999" />
-    <int name="distacemixed0" value="999999999" />
+    <int name="totalcoins" value="1999999999" />
+    <int name="distacemixed0" value="1999999999" />
     <boolean name="rated" value="true" />
     <int name="enginelevel-bike_bw" value="10" />
     <int name="playedLevelsCount" value="2" />
-    <int name="starsmixed0" value="999999999" />
+    <int name="starsmixed0" value="1999999999" />
     <string name="CurrentHeroId">bike_bw</string>
     <boolean name="islock-categoryselectioncanyon" value="false" />
     <boolean name="islock-categoryselectionbeach" value="false" />
