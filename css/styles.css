@@ -21,7 +21,7 @@ main {
 }
 
 .about-image {
-    max-width: 150px;
+    max-width: 150px; /* ضبط حجم الصورة لتكون متوسطة */
     height: auto;
     display: block;
     margin: 0 auto 1rem;
@@ -35,7 +35,7 @@ main {
 }
 
 .social-links img {
-    max-width: 50px;
+    max-width: 50px; /* ضبط حجم الصور الاجتماعية */
     height: auto;
 }
 
@@ -47,7 +47,6 @@ main {
     margin: 2rem auto;
 }
 
-/* زر واحد */
 .button {
     display: inline-block;
     padding: 0.5rem 1rem;
@@ -59,22 +58,8 @@ main {
     font-weight: bold;
 }
 
-/* تأثير عند المرور */
 .button:hover {
     background-color: #555;
-}
-
-/* تنسيق مجموعة الأزرار */
-.button-list {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 0.4rem; /* تقارب بين الأزرار */
-    margin-top: 1rem;
-}
-
-.button-list .button {
-    margin: 0;
 }
 
 footer {
