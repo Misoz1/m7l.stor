@@ -1,208 +1,298 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="ar" dir="rtl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>خدمات الكمبيوتر وتهكير العاب</title>
-  <link rel="stylesheet" href="../css/styles.css">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Cairo', sans-serif;
-      background-color: #0d0d0d;
-      color: #fff;
-    }
-
-    header {
-      background-color: #111;
-      padding: 15px;
-      text-align: center;
-      font-size: 24px;
-      font-weight: bold;
-      color: #ffcc00;
-    }
-
-    .search-bar {
-      margin-top: 10px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 5px;
-    }
-
-    .search-bar input {
-      padding: 8px;
-      width: 60%;
-      border-radius: 5px;
-      border: none;
-      font-size: 16px;
-    }
-
-    .search-bar button {
-      padding: 8px 12px;
-      background-color: #ffcc00;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      font-weight: bold;
-    }
-
-    .menu-btn {
-      position: fixed;
-      top: 20px;
-      right: 20px;
-      background-color: #ffcc00;
-      border: none;
-      padding: 10px 15px;
-      font-size: 18px;
-      cursor: pointer;
-      z-index: 1001;
-    }
-
-    .sidebar {
-      position: fixed;
-      right: -250px;
-      top: 0;
-      width: 250px;
-      height: 100%;
-      background-color: #1a1a1a;
-      padding: 20px;
-      transition: right 0.3s ease;
-      z-index: 1000;
-    }
-
-    .sidebar h2 {
-      color: #ffcc00;
-      margin-bottom: 20px;
-    }
-
-    .sidebar ul {
-      list-style: none;
-      padding: 0;
-    }
-
-    .sidebar li {
-      margin: 15px 0;
-    }
-
-    .sidebar a {
-      color: #fff;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    .product {
-      border: 1px solid #333;
-      border-radius: 10px;
-      padding: 15px;
-      margin: 20px;
-      background-color: #1a1a1a;
-      text-align: center;
-    }
-
-    .product-image {
-      width: 100%;
-      max-width: 300px;
-      border-radius: 8px;
-    }
-
-    .product-description {
-      margin: 10px 0;
-    }
-
-    .product-price {
-      color: #ffcc00;
-      font-weight: bold;
-    }
-
-    .button {
-      display: inline-block;
-      margin-top: 10px;
-      padding: 10px 15px;
-      background-color: #ffcc00;
-      color: #000;
-      text-decoration: none;
-      border-radius: 5px;
-      font-weight: bold;
-    }
-
-    footer {
-      background-color: #111;
-      text-align: center;
-      padding: 10px;
-      font-size: 14px;
-      color: #aaa;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الدعم الإلكتروني - الحجم الدولي</title>
+    <style>
+        /* تنسيقات عامة */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        /* رأس الصفحة */
+        header {
+            background: linear-gradient(135deg, #1a237e 0%, #283593 100%);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            border-bottom: 5px solid #3949ab;
+        }
+        
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        
+        .nav-top {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .nav-top a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        
+        .header-title {
+            margin-bottom: 10px;
+        }
+        
+        .header-title h1 {
+            font-size: 32px;
+            margin-bottom: 5px;
+        }
+        
+        .header-title h2 {
+            font-size: 24px;
+            font-weight: normal;
+        }
+        
+        .header-subtitle {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        
+        /* شريط التنقل */
+        nav {
+            background-color: #3949ab;
+            padding: 15px 0;
+        }
+        
+        .nav-menu {
+            display: flex;
+            justify-content: center;
+            list-style: none;
+            gap: 30px;
+        }
+        
+        .nav-menu a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            transition: color 0.3s;
+        }
+        
+        .nav-menu a:hover {
+            color: #c5cae9;
+        }
+        
+        /* المحتوى الرئيسي */
+        .main-content {
+            padding: 40px 0;
+        }
+        
+        .products {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .product-card {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            padding: 25px;
+            text-align: center;
+            transition: transform 0.3s;
+        }
+        
+        .product-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .product-title {
+            color: #1a237e;
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+        
+        .product-description {
+            margin-bottom: 20px;
+            color: #555;
+        }
+        
+        .product-price {
+            font-size: 20px;
+            font-weight: bold;
+            color: #283593;
+            margin-bottom: 20px;
+        }
+        
+        .btn {
+            display: inline-block;
+            background-color: #3949ab;
+            color: white;
+            padding: 12px 25px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        
+        .btn:hover {
+            background-color: #283593;
+        }
+        
+        /* تذييل الصفحة */
+        footer {
+            background-color: #1a237e;
+            color: white;
+            padding: 30px 0;
+            text-align: center;
+        }
+        
+        .footer-content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        
+        .footer-links a {
+            color: #c5cae9;
+            text-decoration: none;
+        }
+        
+        .footer-links a:hover {
+            color: white;
+        }
+        
+        /* التجاوب مع مختلف أحجام الشاشات */
+        @media (max-width: 768px) {
+            .header-top {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .nav-menu {
+                flex-direction: column;
+                align-items: center;
+                gap: 15px;
+            }
+            
+            .products {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 </head>
 <body>
-
-  <button class="menu-btn" onclick="toggleSidebar()">☰ القائمة</button>
-
-  <div class="sidebar" id="sidebar">
-    <h2>القائمة الرئيسية</h2>
-    <ul>
-      <li><a href="../index.html">الرئيسية</a></li>
-      <li><a href="game.html">الحسابات والألعاب</a></li>
-      <li><a href="pc.html">خدمات الكمبيوتر</a></li>
-      <li><a href="apps.html">تطبيقات الأندرويد</a></li>
-      <li><a href="#">خدمات التصميم</a></li>
-      <li><a href="#">اشتراكات</a></li>
-      <li><a href="#">القسم الرقمي</a></li>
-    </ul>
-  </div>
-
-  <header>
-    خدمات الكمبيوتر وتهكير الألعاب
-    <div class="search-bar">
-      <input type="text" id="searchInput" placeholder="ابحث عن منتج...">
-      <button onclick="searchProduct()">🔍</button>
-    </div>
-  </header>
-
-  <main>
-    <section class="product">
-      <h2>Forza 5 Horizon</h2>
-      <img src="../images/forza5.png" alt="forza horizon 5" class="product-image">
-      <p class="product-description">نوفر فلوس فورزا 5 عن طريقة المزاد طريقه رسميه بدون باند ضمان للحساب الأساسي لجميع المنصات 700 مليون</p>
-      <p class="product-price"><strong>السعر:</strong>4 ريال عماني</p>
-      <a href="https://wa.me/96892030614" class="button" target="_blank">اضغط للتواصل عبر واتساب</a> 
+    <header>
+        <div class="container">
+            <div class="header-top">
+                <div class="logo">الدعم الالكتروني</div>
+                <div class="nav-top">
+                    <a href="#">الحساب</a>
+                    <a href="#">السلة</a>
+                    <a href="#">الفئات</a>
+                    <a href="#">البحث</a>
+                    <a href="#">الرئيسية</a>
+                </div>
+            </div>
+            <div class="header-title">
+                <h1>الحجم الدول</h1>
+                <h2>التحول البنكي 2009-2020</h2>
+            </div>
+            <div class="header-subtitle">العام الثاني - المصدر</div>
+        </div>
+    </header>
+    
+    <nav>
+        <div class="container">
+            <ul class="nav-menu">
+                <li><a href="#">الرئيسية</a></li>
+                <li><a href="#">البحث</a></li>
+                <li><a href="#">الفئات</a></li>
+                <li><a href="#">السلة</a></li>
+                <li><a href="#">حسابي</a></li>
+            </ul>
+        </div>
+    </nav>
+    
+    <section class="main-content">
+        <div class="container">
+            <h2 style="text-align: center; margin-bottom: 30px; color: #1a237e;">أحدى المنتجات</h2>
+            
+            <div class="products">
+                <div class="product-card">
+                    <h3 class="product-title">GAME PASS</h3>
+                    <p class="product-description">
+                        شهور اشتراك اكتسوكس قيم 3 باس كمبيوتر على حسابك الجديد الشخصي
+                    </p>
+                    <div class="product-price">19.99 USD</div>
+                    <a href="#" class="btn">اشتري الآن</a>
+                </div>
+                
+                <div class="product-card">
+                    <h3 class="product-title">الخدمة الشاملة</h3>
+                    <p class="product-description">
+                        شامل التركيب للمودات<br>
+                        شامل مود جرافيك<br>
+                        قوارير كمبيوتر
+                    </p>
+                    <div class="product-price">39.97 USD</div>
+                    <a href="#" class="btn">اشتري الآن</a>
+                </div>
+                
+                <div class="product-card">
+                    <h3 class="product-title">الخدمة الشاملة لقرارات الكمبيوتر</h3>
+                    <p class="product-description">
+                        شامل التركيب ومود جرافيك<br>
+                        لجميع أنواع أجهزة الكمبيوتر
+                    </p>
+                    <div class="product-price">49.99 USD</div>
+                    <a href="#" class="btn">اشتري الآن</a>
+                </div>
+            </div>
+        </div>
     </section>
-  </main>
-
-  <footer>
-    &copy; 2025 BLACK DEV STORE. جميع الحقوق محفوظة.
-  </footer>
-
-  <script>
-    function toggleSidebar() {
-      const sidebar = document.getElementById("sidebar");
-      sidebar.style.right = sidebar.style.right === "0px" ? "-250px" : "0px";
-    }
-
-    function searchProduct() {
-      const query = document.getElementById("searchInput").value.trim();
-      if (query === "") {
-        alert("اكتب اسم المنتج للبحث.");
-        return;
-      }
-
-      const products = [
-        { name: "Forza", page: "pc.html" },
-        { name: "تهكير", page: "pc.html" },
-        { name: "PlayStation", page: "pc.html" },
-        { name: "Car x street", page: "game.html" },
-        { name: "تطبيقات", page: "apps.html" }
-      ];
-
-      const result = products.find(p => p.name.includes(query));
-      if (result) {
-        window.location.href = result.page;
-      } else {
-        alert("لم يتم العثور على المنتج.");
-      }
-    }
-  </script>
-
+    
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="#">الرئيسية</a>
+                    <a href="#">البحث</a>
+                    <a href="#">الفئات</a>
+                    <a href="#">السلة</a>
+                    <a href="#">حسابي</a>
+                    <a href="#">اتصل بنا</a>
+                    <a href="#">الشروط والأحكام</a>
+                </div>
+                <p>© 2023 الدعم الإلكتروني - الحجم الدولي. جميع الحقوق محفوظة.</p>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
