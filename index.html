@@ -3,9 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>الدعم الإلكتروني - الحجم الدولي</title>
+    <title>BLACK DEV STORE - متجر اندرويد بلس</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        /* تنسيقات عامة */
+        :root {
+            --primary-color: #1a1a1a;
+            --accent-color: #ff6b00;
+            --secondary-color: #2c2c2c;
+            --text-color: #f5f5f5;
+            --card-bg: #2a2a2a;
+            --hover-color: #ff8c33;
+        }
+        
         * {
             margin: 0;
             padding: 0;
@@ -14,9 +23,12 @@
         }
         
         body {
-            background-color: #f5f5f5;
-            color: #333;
+            background: linear-gradient(135deg, #0c0c0c 0%, #1e1e1e 100%);
+            color: var(--text-color);
             line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
         
         .container {
@@ -28,181 +40,229 @@
         
         /* رأس الصفحة */
         header {
-            background: linear-gradient(135deg, #1a237e 0%, #283593 100%);
-            color: white;
+            background: var(--primary-color);
             padding: 20px 0;
-            text-align: center;
-            border-bottom: 5px solid #3949ab;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+            position: relative;
         }
         
-        .header-top {
+        .header-content {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 20px;
         }
         
         .logo {
-            font-size: 24px;
-            font-weight: bold;
-        }
-        
-        .nav-top {
             display: flex;
+            align-items: center;
             gap: 15px;
         }
         
-        .nav-top a {
-            color: white;
-            text-decoration: none;
-            font-size: 14px;
+        .logo-icon {
+            font-size: 28px;
+            color: var(--accent-color);
         }
         
-        .header-title {
-            margin-bottom: 10px;
-        }
-        
-        .header-title h1 {
-            font-size: 32px;
-            margin-bottom: 5px;
-        }
-        
-        .header-title h2 {
-            font-size: 24px;
-            font-weight: normal;
-        }
-        
-        .header-subtitle {
-            font-size: 18px;
-            margin-bottom: 10px;
-        }
-        
-        /* شريط التنقل */
-        nav {
-            background-color: #3949ab;
-            padding: 15px 0;
-        }
-        
-        .nav-menu {
-            display: flex;
-            justify-content: center;
-            list-style: none;
-            gap: 30px;
-        }
-        
-        .nav-menu a {
-            color: white;
-            text-decoration: none;
-            font-size: 18px;
-            transition: color 0.3s;
-        }
-        
-        .nav-menu a:hover {
-            color: #c5cae9;
+        .logo h1 {
+            font-size: 28px;
+            background: linear-gradient(45deg, var(--accent-color), #ff9d5c);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            font-weight: 800;
         }
         
         /* المحتوى الرئيسي */
-        .main-content {
+        main {
+            flex: 1;
             padding: 40px 0;
         }
         
-        .products {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
-            margin-bottom: 40px;
-        }
-        
-        .product-card {
-            background-color: white;
-            border-radius: 10px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-            padding: 25px;
+        .about {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
             text-align: center;
-            transition: transform 0.3s;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+            border: 1px solid #3a3a3a;
         }
         
-        .product-card:hover {
-            transform: translateY(-5px);
+        .about-image {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid var(--accent-color);
+            margin: 20px auto;
+            display: block;
+            box-shadow: 0 0 25px rgba(255, 107, 0, 0.4);
         }
         
-        .product-title {
-            color: #1a237e;
+        .about h2 {
+            color: var(--accent-color);
+            font-size: 26px;
+            margin: 15px 0;
+            font-weight: 700;
+        }
+        
+        .about p {
+            font-size: 18px;
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.8;
+            color: #d5d5d5;
+        }
+        
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 25px 0;
+        }
+        
+        .social-links a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 50px;
+            height: 50px;
+            background: var(--secondary-color);
+            border-radius: 50%;
+            color: var(--text-color);
             font-size: 22px;
-            margin-bottom: 15px;
-        }
-        
-        .product-description {
-            margin-bottom: 20px;
-            color: #555;
-        }
-        
-        .product-price {
-            font-size: 20px;
-            font-weight: bold;
-            color: #283593;
-            margin-bottom: 20px;
-        }
-        
-        .btn {
-            display: inline-block;
-            background-color: #3949ab;
-            color: white;
-            padding: 12px 25px;
-            border-radius: 5px;
+            transition: all 0.3s ease;
             text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s;
         }
         
-        .btn:hover {
-            background-color: #283593;
+        .social-links a:hover {
+            background: var(--accent-color);
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(255, 107, 0, 0.4);
+        }
+        
+        .content-section {
+            margin-bottom: 25px;
+        }
+        
+        .button {
+            display: block;
+            background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+            color: var(--text-color);
+            padding: 20px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: 600;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 2px solid #3a3a3a;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+            border-color: var(--accent-color);
+        }
+        
+        .button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg, rgba(255, 107, 0, 0.2), transparent);
+            transform: translateX(-100%);
+            transition: transform 0.6s;
+        }
+        
+        .button:hover::before {
+            transform: translateX(100%);
+        }
+        
+        .button i {
+            margin-left: 10px;
+            color: var(--accent-color);
         }
         
         /* تذييل الصفحة */
         footer {
-            background-color: #1a237e;
-            color: white;
-            padding: 30px 0;
+            background: var(--primary-color);
+            padding: 25px 0;
             text-align: center;
+            margin-top: auto;
+            border-top: 1px solid #3a3a3a;
         }
         
-        .footer-content {
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
+        footer p {
+            color: #aaa;
+            font-size: 16px;
         }
         
-        .footer-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
+        /* تأثيرات للعناصر */
+        .shine {
+            position: relative;
+            overflow: hidden;
         }
         
-        .footer-links a {
-            color: #c5cae9;
-            text-decoration: none;
+        .shine::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: rgba(255, 255, 255, 0.1);
+            transform: rotate(30deg);
+            animation: shine 3s infinite;
         }
         
-        .footer-links a:hover {
-            color: white;
+        @keyframes shine {
+            0% {
+                transform: translateX(-100%) rotate(30deg);
+            }
+            100% {
+                transform: translateX(100%) rotate(30deg);
+            }
         }
         
         /* التجاوب مع مختلف أحجام الشاشات */
         @media (max-width: 768px) {
-            .header-top {
+            .header-content {
                 flex-direction: column;
                 gap: 15px;
             }
             
-            .nav-menu {
-                flex-direction: column;
-                align-items: center;
+            .about-image {
+                width: 150px;
+                height: 150px;
+            }
+            
+            .about h2 {
+                font-size: 22px;
+            }
+            
+            .about p {
+                font-size: 16px;
+            }
+            
+            .button {
+                font-size: 18px;
+                padding: 16px;
+            }
+            
+            .social-links {
                 gap: 15px;
             }
             
-            .products {
-                grid-template-columns: 1fr;
+            .social-links a {
+                width: 45px;
+                height: 45px;
+                font-size: 20px;
             }
         }
     </style>
@@ -210,88 +270,65 @@
 <body>
     <header>
         <div class="container">
-            <div class="header-top">
-                <div class="logo">الدعم الالكتروني</div>
-                <div class="nav-top">
-                    <a href="#">الحساب</a>
-                    <a href="#">السلة</a>
-                    <a href="#">الفئات</a>
-                    <a href="#">البحث</a>
-                    <a href="#">الرئيسية</a>
+            <div class="header-content">
+                <div class="logo">
+                    <div class="logo-icon">
+                        <i class="fas fa-store"></i>
+                    </div>
+                    <h1>BLACK DEV STORE</h1>
                 </div>
             </div>
-            <div class="header-title">
-                <h1>الحجم الدول</h1>
-                <h2>التحول البنكي 2009-2020</h2>
-            </div>
-            <div class="header-subtitle">العام الثاني - المصدر</div>
         </div>
     </header>
     
-    <nav>
+    <main>
         <div class="container">
-            <ul class="nav-menu">
-                <li><a href="#">الرئيسية</a></li>
-                <li><a href="#">البحث</a></li>
-                <li><a href="#">الفئات</a></li>
-                <li><a href="#">السلة</a></li>
-                <li><a href="#">حسابي</a></li>
-            </ul>
-        </div>
-    </nav>
-    
-    <section class="main-content">
-        <div class="container">
-            <h2 style="text-align: center; margin-bottom: 30px; color: #1a237e;">أحدى المنتجات</h2>
+            <section class="about">
+                <div class="social-links">
+                    <a href="https://www.instagram.com/m7l.misoz" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="https://wa.me/96892030614" target="_blank">
+                        <i class="fab fa-whatsapp"></i>
+                    </a>
+                    <a href="https://t.me/m7ldev" target="_blank">
+                        <i class="fab fa-telegram"></i>
+                    </a>
+                    <a href="https://youtube.com/@androidplus4494?si=sR1z8wFRo6rrA_oO" target="_blank">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                </div>
+                
+                <img src="https://via.placeholder.com/180x180/2a2a2a/ff6b00?text=M7L.DEV" alt="صورة متوسطة" class="about-image">
+                
+                <h2>متجر اندرويد بلس M7L.MISOZ</h2>
+                
+                <p>متجر بيع البلايستيشن 2 و 3 و 4 معدلات مع العاب وبرمجة هواتف الاندرويد وعمل روت وبيع حسابات العاب لهواتف الاندرويد ومتخصص برمجة المواقع و التطبيقات البسيطة وأدوات الاندرويد</p>
+            </section>
             
-            <div class="products">
-                <div class="product-card">
-                    <h3 class="product-title">GAME PASS</h3>
-                    <p class="product-description">
-                        شهور اشتراك اكتسوكس قيم 3 باس كمبيوتر على حسابك الجديد الشخصي
-                    </p>
-                    <div class="product-price">19.99 USD</div>
-                    <a href="#" class="btn">اشتري الآن</a>
-                </div>
-                
-                <div class="product-card">
-                    <h3 class="product-title">الخدمة الشاملة</h3>
-                    <p class="product-description">
-                        شامل التركيب للمودات<br>
-                        شامل مود جرافيك<br>
-                        قوارير كمبيوتر
-                    </p>
-                    <div class="product-price">39.97 USD</div>
-                    <a href="#" class="btn">اشتري الآن</a>
-                </div>
-                
-                <div class="product-card">
-                    <h3 class="product-title">الخدمة الشاملة لقرارات الكمبيوتر</h3>
-                    <p class="product-description">
-                        شامل التركيب ومود جرافيك<br>
-                        لجميع أنواع أجهزة الكمبيوتر
-                    </p>
-                    <div class="product-price">49.99 USD</div>
-                    <a href="#" class="btn">اشتري الآن</a>
-                </div>
-            </div>
+            <section class="content-section">
+                <a href="class/game.html" class="button">
+                    <i class="fas fa-coins"></i> زيادة فلوس العاب وحسابات لمنصات مختلفه
+                </a>
+            </section>
+            
+            <section class="content-section">
+                <a href="class/pc.html" class="button">
+                    <i class="fas fa-gamepad"></i> جميع خدمات البلايستيشن بانواعها
+                </a>
+            </section>
+            
+            <section class="content-section">
+                <a href="class/pc.html" class="button">
+                    <i class="fas fa-mobile-alt"></i> تطبيقاتي لي الاندرويد مجانيه ومدفوعه
+                </a>
+            </section>
         </div>
-    </section>
+    </main>
     
     <footer>
         <div class="container">
-            <div class="footer-content">
-                <div class="footer-links">
-                    <a href="#">الرئيسية</a>
-                    <a href="#">البحث</a>
-                    <a href="#">الفئات</a>
-                    <a href="#">السلة</a>
-                    <a href="#">حسابي</a>
-                    <a href="#">اتصل بنا</a>
-                    <a href="#">الشروط والأحكام</a>
-                </div>
-                <p>© 2023 الدعم الإلكتروني - الحجم الدولي. جميع الحقوق محفوظة.</p>
-            </div>
+            <p>&copy; 2025 BLACK DEV STORE. جميع الحقوق محفوظة.</p>
         </div>
     </footer>
 </body>
