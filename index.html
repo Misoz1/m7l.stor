@@ -1,39 +1,182 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BLACK DEV STORE</title>
-    <link rel="stylesheet" href="css/styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BLACK DEV STORE</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Cairo', sans-serif;
+      background-color: #0d0d0d;
+      color: #fff;
+    }
+
+    header {
+      background-color: #111;
+      padding: 15px;
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+      color: #ffcc00;
+    }
+
+    .sidebar {
+      position: fixed;
+      right: -250px;
+      top: 0;
+      width: 250px;
+      height: 100%;
+      background-color: #1a1a1a;
+      padding: 20px;
+      transition: right 0.3s ease;
+      z-index: 1000;
+    }
+
+    .sidebar h2 {
+      color: #ffcc00;
+      margin-bottom: 20px;
+    }
+
+    .sidebar ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .sidebar li {
+      margin: 15px 0;
+    }
+
+    .sidebar a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .menu-btn {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background-color: #ffcc00;
+      border: none;
+      padding: 10px 15px;
+      font-size: 18px;
+      cursor: pointer;
+      z-index: 1001;
+    }
+
+    .about {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .about-image {
+      width: 120px;
+      border-radius: 50%;
+      margin: 10px 0;
+    }
+
+    .social-links img {
+      width: 30px;
+      margin: 5px;
+    }
+
+    .services {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      padding: 20px;
+    }
+
+    .service-card {
+      background-color: #1c1c1c;
+      border-radius: 10px;
+      width: 280px;
+      padding: 15px;
+      text-align: center;
+      box-shadow: 0 0 10px #333;
+    }
+
+    .service-card a {
+      display: block;
+      background-color: #ffcc00;
+      color: #000;
+      padding: 10px;
+      margin-top: 10px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    footer {
+      background-color: #111;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+      color: #aaa;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>BLACK DEV STORE</h1>
-    </header>
-    <main>
-        <section class="about">
-            <div class="social-links">
-                <a href="https://www.instagram.com/m7l.misoz" target="_blank"><img src="images/insta.png" alt="Instagram"></a>
-                <a href="https://wa.me/96892030614" target="_blank"><img src="images/whats.png" alt="WhatsApp"></a>
-                <a href="https://t.me/m7ldev" target="_blank"><img src="images/tele.png" alt="Telegram"></a>
-                <a href="https://youtube.com/@androidplus4494?si=sR1z8wFRo6rrA_oO" target="_blank"><img src="images/yout.png" alt="YouTube"></a>
-            </div>
-            <img src="images/misoz.png" alt="صورة متوسطة" class="about-image">
-            <h2>متجر اندرويد بلس m7l.misoz </h2>
-            <p>متجر بيع البلايستيشن 2 و 3 و 4 معدلات مع العاب وبرمجة هواتف الاندرويد وعمل روت وبيع حسابات العاب لهواتف الاندرويد ومتخصص برمجة المواقع و التطبيقات البسيطة وأدوات الاندرويد</p>            
-        </section>
-        <section class="content-section">
-            <a href="class/game.html" class="button" target="_blank">زيادة فلوس العاب وحسابات لمنصات مختلفه</a>
-        </section>
-        <section class="content-section">
-            <a href="class/pc.html" class="button" target="_blank">جميع خدمات البلايستيشن بانواعها</a>
-        </section>
-        <section class="content-section">
-            <a href="class/pc.html" class="button" target="_blank">تطبيقاتي لي الاندرويد مجانيه ومدفوعه</a>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2025 BLACK DEV STORE. جميع الحقوق محفوظة.</p>
-    </footer>
+
+  <button class="menu-btn" onclick="toggleSidebar()">☰ القائمة</button>
+
+  <div class="sidebar" id="sidebar">
+    <h2>القائمة الرئيسية</h2>
+    <ul>
+      <li><a href="#">المدونة</a></li>
+      <li><a href="#">خدمات الألعاب</a></li>
+      <li><a href="#">اشتراكات</a></li>
+      <li><a href="#">الألعاب</a></li>
+      <li><a href="#">خدمات الكمبيوتر</a></li>
+      <li><a href="#">خدمات التصميم</a></li>
+      <li><a href="#">القسم الرقمي</a></li>
+    </ul>
+  </div>
+
+  <header>BLACK DEV STORE</header>
+
+  <main>
+    <section class="about">
+      <div class="social-links">
+        <a href="https://www.instagram.com/m7l.misoz" target="_blank"><img src="images/insta.png" alt="Instagram"></a>
+        <a href="https://wa.me/96892030614" target="_blank"><img src="images/whats.png" alt="WhatsApp"></a>
+        <a href="https://t.me/m7ldev" target="_blank"><img src="images/tele.png" alt="Telegram"></a>
+        <a href="https://youtube.com/@androidplus4494?si=sR1z8wFRo6rrA_oO" target="_blank"><img src="images/yout.png" alt="YouTube"></a>
+      </div>
+      <img src="images/misoz.png" alt="صورة متوسطة" class="about-image">
+      <h2>متجر اندرويد بلس m7l.misoz</h2>
+      <p>متجر بيع البلايستيشن 2 و 3 و 4 معدلات مع العاب وبرمجة هواتف الاندرويد وعمل روت وبيع حسابات العاب لهواتف الاندرويد ومتخصص برمجة المواقع و التطبيقات البسيطة وأدوات الاندرويد</p>
+    </section>
+
+    <section class="services">
+      <div class="service-card">
+        <h3>زيادة فلوس العاب وحسابات</h3>
+        <a href="class/game.html" target="_blank">عرض الخدمة</a>
+      </div>
+      <div class="service-card">
+        <h3>جميع خدمات البلايستيشن</h3>
+        <a href="class/pc.html" target="_blank">عرض الخدمة</a>
+      </div>
+      <div class="service-card">
+        <h3>تطبيقاتي للاندرويد</h3>
+        <a href="class/pc.html" target="_blank">عرض التطبيقات</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 BLACK DEV STORE. جميع الحقوق محفوظة.
+  </footer>
+
+  <script>
+    function toggleSidebar() {
+      const sidebar = document.getElementById("sidebar");
+      sidebar.style.right = sidebar.style.right === "0px" ? "-250px" : "0px";
+    }
+  </script>
+
 </body>
 </html>
