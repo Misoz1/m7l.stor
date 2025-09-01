@@ -22,6 +22,31 @@
       color: #ffcc00;
     }
 
+    .search-bar {
+      margin-top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .search-bar input {
+      padding: 8px;
+      width: 60%;
+      border-radius: 5px;
+      border: none;
+      font-size: 16px;
+    }
+
+    .search-bar button {
+      padding: 8px 12px;
+      background-color: #ffcc00;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
     .sidebar {
       position: fixed;
       right: -250px;
@@ -111,7 +136,13 @@
     </ul>
   </div>
 
-  <header>BLACK DEV STORE</header>
+  <header>
+    BLACK DEV STORE
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="ابحث عن منتج...">
+      <button onclick="searchProduct()">🔍</button>
+    </div>
+  </header>
 
   <main>
     <section class="about">
@@ -136,77 +167,29 @@
       const sidebar = document.getElementById("sidebar");
       sidebar.style.right = sidebar.style.right === "0px" ? "-250px" : "0px";
     }
-  </script>
 
-</body>
-</html>      font-weight: bold;
-    }
+    function searchProduct() {
+      const query = document.getElementById("searchInput").value.trim();
+      if (query === "") {
+        alert("اكتب اسم المنتج للبحث.");
+        return;
+      }
 
-    footer {
-      background-color: #111;
-      text-align: center;
-      padding: 10px;
-      font-size: 14px;
-      color: #aaa;
-    }
-  </style>
-</head>
-<body>
+      const products = [
+        "فلوس فورتزا",
+        "اشتراك Game Pass",
+        "سيارات نادرة",
+        "تطبيقات اندرويد",
+        "خدمات بلايستيشن",
+        "تذكرة فورتزا"
+      ];
 
-  <button class="menu-btn" onclick="toggleSidebar()">☰ القائمة</button>
-
-  <div class="sidebar" id="sidebar">
-    <h2>القائمة الرئيسية</h2>
-    <ul>
-      <li><a href="#">المدونة</a></li>
-      <li><a href="#">خدمات الألعاب</a></li>
-      <li><a href="#">اشتراكات</a></li>
-      <li><a href="#">الألعاب</a></li>
-      <li><a href="#">خدمات الكمبيوتر</a></li>
-      <li><a href="#">خدمات التصميم</a></li>
-      <li><a href="#">القسم الرقمي</a></li>
-    </ul>
-  </div>
-
-  <header>BLACK DEV STORE</header>
-
-  <main>
-    <section class="about">
-      <div class="social-links">
-        <a href="https://www.instagram.com/m7l.misoz" target="_blank"><img src="images/insta.png" alt="Instagram"></a>
-        <a href="https://wa.me/96892030614" target="_blank"><img src="images/whats.png" alt="WhatsApp"></a>
-        <a href="https://t.me/m7ldev" target="_blank"><img src="images/tele.png" alt="Telegram"></a>
-        <a href="https://youtube.com/@androidplus4494?si=sR1z8wFRo6rrA_oO" target="_blank"><img src="images/yout.png" alt="YouTube"></a>
-      </div>
-      <img src="images/misoz.png" alt="صورة متوسطة" class="about-image">
-      <h2>متجر اندرويد بلس m7l.misoz</h2>
-      <p>متجر بيع البلايستيشن 2 و 3 و 4 معدلات مع العاب وبرمجة هواتف الاندرويد وعمل روت وبيع حسابات العاب لهواتف الاندرويد ومتخصص برمجة المواقع و التطبيقات البسيطة وأدوات الاندرويد</p>
-    </section>
-
-    <section class="services">
-      <div class="service-card">
-        <h3>زيادة فلوس العاب وحسابات</h3>
-        <a href="class/game.html" target="_blank">عرض الخدمة</a>
-      </div>
-      <div class="service-card">
-        <h3>جميع خدمات البلايستيشن</h3>
-        <a href="class/pc.html" target="_blank">عرض الخدمة</a>
-      </div>
-      <div class="service-card">
-        <h3>تطبيقاتي للاندرويد</h3>
-        <a href="class/pc.html" target="_blank">عرض التطبيقات</a>
-      </div>
-    </section>
-  </main>
-
-  <footer>
-    &copy; 2025 BLACK DEV STORE. جميع الحقوق محفوظة.
-  </footer>
-
-  <script>
-    function toggleSidebar() {
-      const sidebar = document.getElementById("sidebar");
-      sidebar.style.right = sidebar.style.right === "0px" ? "-250px" : "0px";
+      const found = products.find(p => p.includes(query));
+      if (found) {
+        alert("تم العثور على المنتج: " + found);
+      } else {
+        alert("لم يتم العثور على المنتج.");
+      }
     }
   </script>
 
