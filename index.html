@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BLACK DEV STORE</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <title>خدمات الكمبيوتر وتهكير العاب</title>
+  <link rel="stylesheet" href="../css/styles.css">
   <style>
     body {
       margin: 0;
@@ -47,6 +47,18 @@
       font-weight: bold;
     }
 
+    .menu-btn {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background-color: #ffcc00;
+      border: none;
+      padding: 10px 15px;
+      font-size: 18px;
+      cursor: pointer;
+      z-index: 1001;
+    }
+
     .sidebar {
       position: fixed;
       right: -250px;
@@ -79,32 +91,39 @@
       font-weight: bold;
     }
 
-    .menu-btn {
-      position: fixed;
-      top: 20px;
-      right: 20px;
-      background-color: #ffcc00;
-      border: none;
-      padding: 10px 15px;
-      font-size: 18px;
-      cursor: pointer;
-      z-index: 1001;
-    }
-
-    .about {
+    .product {
+      border: 1px solid #333;
+      border-radius: 10px;
+      padding: 15px;
+      margin: 20px;
+      background-color: #1a1a1a;
       text-align: center;
-      padding: 20px;
     }
 
-    .about-image {
-      width: 120px;
-      border-radius: 50%;
+    .product-image {
+      width: 100%;
+      max-width: 300px;
+      border-radius: 8px;
+    }
+
+    .product-description {
       margin: 10px 0;
     }
 
-    .social-links img {
-      width: 30px;
-      margin: 5px;
+    .product-price {
+      color: #ffcc00;
+      font-weight: bold;
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background-color: #ffcc00;
+      color: #000;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
     }
 
     footer {
@@ -123,21 +142,18 @@
   <div class="sidebar" id="sidebar">
     <h2>القائمة الرئيسية</h2>
     <ul>
-      <li><a href="#">المدونة</a></li>
-      <li><a href="#">خدمات الألعاب</a></li>
-      <li><a href="#">اشتراكات</a></li>
-      <li><a href="#">الألعاب</a></li>
-      <li><a href="#">خدمات الكمبيوتر</a></li>
+      <li><a href="../index.html">الرئيسية</a></li>
+      <li><a href="game.html">الحسابات والألعاب</a></li>
+      <li><a href="pc.html">خدمات الكمبيوتر</a></li>
+      <li><a href="apps.html">تطبيقات الأندرويد</a></li>
       <li><a href="#">خدمات التصميم</a></li>
+      <li><a href="#">اشتراكات</a></li>
       <li><a href="#">القسم الرقمي</a></li>
-      <li><a href="class/game.html" target="_blank">زيادة فلوس العاب وحسابات</a></li>
-      <li><a href="class/pc.html" target="_blank">جميع خدمات البلايستيشن</a></li>
-      <li><a href="class/pc.html" target="_blank">تطبيقاتي للاندرويد</a></li>
     </ul>
   </div>
 
   <header>
-    BLACK DEV STORE
+    خدمات الكمبيوتر وتهكير الألعاب
     <div class="search-bar">
       <input type="text" id="searchInput" placeholder="ابحث عن منتج...">
       <button onclick="searchProduct()">🔍</button>
@@ -145,16 +161,12 @@
   </header>
 
   <main>
-    <section class="about">
-      <div class="social-links">
-        <a href="https://www.instagram.com/m7l.misoz" target="_blank"><img src="images/insta.png" alt="Instagram"></a>
-        <a href="https://wa.me/96892030614" target="_blank"><img src="images/whats.png" alt="WhatsApp"></a>
-        <a href="https://t.me/m7ldev" target="_blank"><img src="images/tele.png" alt="Telegram"></a>
-        <a href="https://youtube.com/@androidplus4494?si=sR1z8wFRo6rrA_oO" target="_blank"><img src="images/yout.png" alt="YouTube"></a>
-      </div>
-      <img src="images/misoz.png" alt="صورة متوسطة" class="about-image">
-      <h2>متجر اندرويد بلس m7l.misoz</h2>
-      <p>متجر بيع البلايستيشن 2 و 3 و 4 معدلات مع العاب وبرمجة هواتف الاندرويد وعمل روت وبيع حسابات العاب لهواتف الاندرويد ومتخصص برمجة المواقع و التطبيقات البسيطة وأدوات الاندرويد</p>
+    <section class="product">
+      <h2>Forza 5 Horizon</h2>
+      <img src="../images/forza5.png" alt="forza horizon 5" class="product-image">
+      <p class="product-description">نوفر فلوس فورزا 5 عن طريقة المزاد طريقه رسميه بدون باند ضمان للحساب الأساسي لجميع المنصات 700 مليون</p>
+      <p class="product-price"><strong>السعر:</strong>4 ريال عماني</p>
+      <a href="https://wa.me/96892030614" class="button" target="_blank">اضغط للتواصل عبر واتساب</a> 
     </section>
   </main>
 
@@ -176,17 +188,16 @@
       }
 
       const products = [
-        "فلوس فورتزا",
-        "اشتراك Game Pass",
-        "سيارات نادرة",
-        "تطبيقات اندرويد",
-        "خدمات بلايستيشن",
-        "تذكرة فورتزا"
+        { name: "Forza", page: "pc.html" },
+        { name: "تهكير", page: "pc.html" },
+        { name: "PlayStation", page: "pc.html" },
+        { name: "Car x street", page: "game.html" },
+        { name: "تطبيقات", page: "apps.html" }
       ];
 
-      const found = products.find(p => p.includes(query));
-      if (found) {
-        alert("تم العثور على المنتج: " + found);
+      const result = products.find(p => p.name.includes(query));
+      if (result) {
+        window.location.href = result.page;
       } else {
         alert("لم يتم العثور على المنتج.");
       }
