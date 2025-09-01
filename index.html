@@ -82,32 +82,64 @@
       margin: 5px;
     }
 
-    .services {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 15px;
-      padding: 20px;
-    }
-
-    .service-card {
-      background-color: #1c1c1c;
-      border-radius: 10px;
-      width: 280px;
-      padding: 15px;
+    footer {
+      background-color: #111;
       text-align: center;
-      box-shadow: 0 0 10px #333;
-    }
-
-    .service-card a {
-      display: block;
-      background-color: #ffcc00;
-      color: #000;
       padding: 10px;
-      margin-top: 10px;
-      text-decoration: none;
-      border-radius: 5px;
-      font-weight: bold;
+      font-size: 14px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+
+  <button class="menu-btn" onclick="toggleSidebar()">☰ القائمة</button>
+
+  <div class="sidebar" id="sidebar">
+    <h2>القائمة الرئيسية</h2>
+    <ul>
+      <li><a href="#">المدونة</a></li>
+      <li><a href="#">خدمات الألعاب</a></li>
+      <li><a href="#">اشتراكات</a></li>
+      <li><a href="#">الألعاب</a></li>
+      <li><a href="#">خدمات الكمبيوتر</a></li>
+      <li><a href="#">خدمات التصميم</a></li>
+      <li><a href="#">القسم الرقمي</a></li>
+      <li><a href="class/game.html" target="_blank">زيادة فلوس العاب وحسابات</a></li>
+      <li><a href="class/pc.html" target="_blank">جميع خدمات البلايستيشن</a></li>
+      <li><a href="class/pc.html" target="_blank">تطبيقاتي للاندرويد</a></li>
+    </ul>
+  </div>
+
+  <header>BLACK DEV STORE</header>
+
+  <main>
+    <section class="about">
+      <div class="social-links">
+        <a href="https://www.instagram.com/m7l.misoz" target="_blank"><img src="images/insta.png" alt="Instagram"></a>
+        <a href="https://wa.me/96892030614" target="_blank"><img src="images/whats.png" alt="WhatsApp"></a>
+        <a href="https://t.me/m7ldev" target="_blank"><img src="images/tele.png" alt="Telegram"></a>
+        <a href="https://youtube.com/@androidplus4494?si=sR1z8wFRo6rrA_oO" target="_blank"><img src="images/yout.png" alt="YouTube"></a>
+      </div>
+      <img src="images/misoz.png" alt="صورة متوسطة" class="about-image">
+      <h2>متجر اندرويد بلس m7l.misoz</h2>
+      <p>متجر بيع البلايستيشن 2 و 3 و 4 معدلات مع العاب وبرمجة هواتف الاندرويد وعمل روت وبيع حسابات العاب لهواتف الاندرويد ومتخصص برمجة المواقع و التطبيقات البسيطة وأدوات الاندرويد</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 BLACK DEV STORE. جميع الحقوق محفوظة.
+  </footer>
+
+  <script>
+    function toggleSidebar() {
+      const sidebar = document.getElementById("sidebar");
+      sidebar.style.right = sidebar.style.right === "0px" ? "-250px" : "0px";
+    }
+  </script>
+
+</body>
+</html>      font-weight: bold;
     }
 
     footer {
